@@ -129,4 +129,8 @@ dist
 #other
 .idea/
 .DS_Store
-.svelte-kit/
+.svelte-kit/build
+.svelte-kit/generated
+.svelte-kit/output
+.svelte-kit/types
+
