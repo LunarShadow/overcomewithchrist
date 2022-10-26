@@ -129,4 +129,4 @@ dist
 #other
 .idea/
 .DS_Store
-
+.svelte-kit/
