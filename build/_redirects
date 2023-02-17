@@ -1,6 +1,0 @@
-# Redirect with a 302
-/*  /              302
-
-# other URLS might proxy or redirect offsite
-https://shop.overcomewithchrist.com/* https://overcomewithchrist.com/ 302
-
