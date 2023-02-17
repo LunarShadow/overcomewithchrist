@@ -1,38 +1,14 @@
-# create-svelte
+# OVERCOME WITH CHRIST
+a blog that strives to help individuals know who they are in Christ so they can know that they have power over their circumstances. Thus, we build hope for tomorrow
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## How to Run
+- First time: run `npm run install`
+- Start app by running `npm run dev`
+- Go to [http://localhost:3000](http://localhost:3000) to view
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Tools 
+- [Next.JS](https://nextjs.org)
+- [NetlifyCMS](https://www.netlifycms.org)
+- [MailChimp](https://mailchimp.com/developer/marketing/guides/quick-start/)
+- [TailwindCss](https://tailwindcss.com/docs/installation)
+- [Sentry](https://docs.sentry.io/platforms/javascript/guides/nextjs/)
