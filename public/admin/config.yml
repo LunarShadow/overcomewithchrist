@@ -1,0 +1,66 @@
+backend: 
+  name: git-gateway
+  #name: test-repo
+  branch: main
+# publish_mode: editorial_workflow
+media_folder: public/img
+public_folder: img
+display_url: overcomewithchrist.com
+logo_url: https://overcomewithchrist.com/logo.png
+
+collections:
+  - name: "page"
+    label: "Page"
+    folder: "content/pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "post"
+    label: "Posts"
+    label_singular: "Post"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Category", name: "category", widget: "select", options: ["Bible Study", "Resources", "Testimony", "Salvation", "Prayer"]}
+      - {label: "Featured Image", name: "featuredImage", widget: "image"}
+      - {label: "Summary", name: "summary", widget: "text"}
+      - {label: "Publish Date", name: "date", widget: "datetime", date_format: "LL", format: "LL"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Author", name: "author", widget: "string", default: "Cyntia Seumo" }
+
+  - name: "products"
+    label: "Products"
+    label_singular: "Product"
+    folder: "content/products"
+    create: true
+    fields: 
+      - {label: "layout", name: "layout", widget: "hidden", default: "product"}
+      - {label: "Product Id", name: "pid", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string", default: "{{slug}}"}
+      - {label: "Title", name: "title", widget: "string" }
+      - {label: "Price", name: "price", widget: "number", value_type: "float"}
+      - {label: "Description", name: "description", widget: 'markdown'}
+      - label: "Variants"
+        name: "variants"
+        widget: "list"
+        summary: '{{fields.color}} / {{fields.size}}'
+        require: false
+        fields: 
+          - {label: Varient Id, name: vid, widget: number}
+          - {label: Size, name: size, widget: string}
+          - {label: Color, name: color, widget: string}
+          - {label: SKU, name: sku, widget: number}
+          - {label: Price, name: price, widget: number, value_type: float}
+      - label: "Images"
+        name: "images" 
+        widget: "list" 
+        collapsed: true 
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image} 
