@@ -1,5 +1,6 @@
 import {useState} from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(true)
@@ -21,6 +22,7 @@ export default function Header() {
 
   return (<>
     {/*Menu toggle button*/}
+    <div>
     <button type={'button'} onClick={() => setIsOpen(!isOpen)}>
       <span className="sr-only">Open menu</span>
       {/*Show hamburger menu if menu isn't open*/}
@@ -35,6 +37,11 @@ export default function Header() {
         <line x1="19" y1="5" x2="5" y2="19" rx={'2'} stroke={'#FFB284'} strokeWidth={'2'} />
       </svg>}
     </button>
+      <div>
+        <Image src={'/logo-icon.png'} alt={'logo emblem'} width={'40'} height={'40'} />
+        <p>Overcome With Christ</p>
+      </div>
+    </div>
     {/*Menu items*/}
     <div className={`nav-items-container ${isOpen ? 'block openMenu' : 'hidden'}`}>
       {menuItems?.map((menuItem) => (<Link href={menuItem.url} key={menuItem.name}>

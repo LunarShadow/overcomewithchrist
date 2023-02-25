@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
     "@next/font": "13.1.6",
     "@sentry/nextjs": "^7.38.0",
     "eslint": "8.34.0",
@@ -19,6 +20,7 @@
     "raw-loader": "^4.0.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.2",
     "react-markdown": "^8.0.5"
   },
   "devDependencies": {
