@@ -9,7 +9,7 @@ summary: For there to be good news, there would need to be an alternate bad
 date: April 17, 2020
 author: Cyntia Seumo
 ---
-<blockquote class="wp-block-quote">
+<blockquote>
 <p>“Today I have given you the choice between life and death, between blessings and curses. Now I call on heaven and earth to witness the choice you make. Oh, that you would choose life, so that you and your descendants might live!</p>
 <cite><a href="https://www.bible.com/bible/116/DEU.30.19.NLT">Deuteronomy 30:19 NLT</a></cite></blockquote>
 
@@ -28,6 +28,6 @@ author: Cyntia Seumo
 <p>“He who has an ear, let him hear what the Spirit says to the churches. He who overcomes shall not be hurt by the second death” Revelations 2:11 NKJV.</p>
 <p>So make your choice, would you rather have eternal life or eternal death? </p>
 
-<blockquote class="wp-block-quote">
+<blockquote>
 <p>That’s the whole story. Here now is my final conclusion: Fear God and obey his commands, for this is everyone’s duty. God will judge us for everything we do, including every secret thing, whether good or bad.</p>
-<cite><a href="https://www.bible.com/bible/116/ecc.12.13-14">Ecclesiastes 12:13-14 NLT</a></cite></blockquote>
+<cite>Ecclesiastes 12:13-14 NLT</cite></blockquote>

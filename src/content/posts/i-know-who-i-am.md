@@ -21,5 +21,5 @@ What I think a lot of people don't understand is that it's not your actions that
 
 <blockquote>
 <p>You made all the delicate, inner parts of my body and knit me together in my mother’s womb. Thank you for making me so wonderfully complex! Your workmanship is marvelous—how well I know it. You watched me as I was being formed in utter seclusion, as I was woven together in the dark of the womb. You saw me before I was born. Every day of my life was recorded in your book. Every moment was laid out before a single day had passed. How precious are your thoughts about me, O God. They cannot be numbered! I can’t even count them; they outnumber the grains of sand! And when I wake up, you are still with me!</p>
-<cite> [Psalms 139:13‭-‬18 NLT ](https://bible.com/bible/116/psa.139.13-18.NLT)</cite>
+<cite>Psalms 139:13-18 NLT</cite>
 </blockquote>

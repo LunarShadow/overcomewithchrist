@@ -1,20 +1,21 @@
-import Head from 'next/head'
-import styles from '@/styles/Home.module.css'
+import Layout from '@/components/layout'
+import Link from 'next/link'
+import PostList from '@/components/post-list'
+import {PostListProvider} from '@/context/post-list-context'
 
-export default function Home() {
+
+export default function Home (){
   return (
     <>
-      <Head>
-        <title>OWC - HOME</title>
-        <meta name="description" content="Overcome with christ is a christ-centric blog that teaches individuals how to live a successful life. " />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <main className={styles.main}>
-        <h1> We will be back</h1>
-        <p>Currently working on getting our act together. </p>
-        <p>Our act is almost together.</p>
-      </main>
+      <Layout pageTitle={'Blog'}>
+        <h1>Blog</h1>
+        <div> Featured/Latest Post</div>
+        <h3>Recommended</h3>
+        <PostListProvider>
+          <PostList limit={3} displayLoadMore={false} />
+        </PostListProvider>
+        <Link href={'/posts'} >View All Posts</Link>
+      </Layout>
     </>
   )
 }
