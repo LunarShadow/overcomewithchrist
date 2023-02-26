@@ -1,25 +1,31 @@
 import Link from 'next/link'
-import {useContext, useEffect, useState} from 'react'
+import {useContext, useEffect, useMemo, useState} from 'react'
 import {PostListContext} from '@/context/post-list-context'
 
-const PostList = ({ limit, displayLoadMore }) => {
+const PostList = ({ limit, displayLoadMore, category = null }) => {
   const { postList } = useContext(PostListContext)
   const [showMore, setShowMore] = useState(displayLoadMore)
   const [index, setIndex] = useState(limit)
   const [list, setList] = useState([])
 
-  // rerender the page each time postList, setList, or index changes
+  // cache the sortList between re-renders
+  const categoryList = useMemo(
+    () => sortByCategory(postList, category),
+    [postList, category]
+  )
+  // rerender the page each time categoryList, setList, or index changes
   useEffect(()=>{
-    setList(postList?.slice(0,index))
-  },[postList, setList, index])
+    setList(categoryList?.slice(0,index))
+  },[setList, categoryList, index])
+
 
   // add more items to the list of post based on the amount of items set.
   // concats the next sets of items to the original array then updates the state
   // of index, list, and showMore
   const loadMore = () =>{
     const newIndex = index + limit;
-    const newShowMore = newIndex < (postList?.length - 1);
-    const newList = list.concat(postList?.slice(index, newIndex));
+    const newShowMore = newIndex < (categoryList?.length - 1);
+    const newList = list.concat(categoryList?.slice(index, newIndex));
     setIndex(newIndex);
     setList(newList);
     setShowMore(newShowMore);
@@ -48,4 +54,8 @@ const PostList = ({ limit, displayLoadMore }) => {
 
 }
 
+const sortByCategory = (postList, category)=>{
+  if (!category) return postList
+  return postList?.filter((post)=> post.details.category === category )
+}
 export default  PostList

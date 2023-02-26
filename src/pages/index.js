@@ -2,6 +2,7 @@ import Layout from '@/components/layout'
 import Link from 'next/link'
 import PostList from '@/components/post-list'
 import {PostListProvider} from '@/context/post-list-context'
+import FeaturedPostCard from '@/components/featured-post-card'
 
 
 export default function Home (){
@@ -9,7 +10,9 @@ export default function Home (){
     <>
       <Layout pageTitle={'Blog'}>
         <h1>Blog</h1>
-        <div> Featured/Latest Post</div>
+        <PostListProvider>
+          <FeaturedPostCard />
+        </PostListProvider>
         <h3>Recommended</h3>
         <PostListProvider>
           <PostList limit={3} displayLoadMore={false} />

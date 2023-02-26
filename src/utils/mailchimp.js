@@ -16,7 +16,6 @@ const subscribeUser = async (email) => {
     email_address: email,
     status: 'subscribed'
   })
-
   return {
     id: response.id,
     email: response.email_address

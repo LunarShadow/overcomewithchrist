@@ -1,17 +1,15 @@
 import Layout from '@/components/layout'
-import Link from 'next/link'
 import matter from 'gray-matter'
+import AuthorCard from '@/components/author-card'
 
 export default function About ({ details, content}){
   return (
     <>
       <Layout pageTitle={details.title}>
         <h1>{details.title}</h1>
-        <div> Image </div>
-        <div>author card</div>
+        <AuthorCard />
         <h3>Purpose</h3>
         <div>{content}</div>
-        <Link href={'/posts'} >View All Posts</Link>
       </Layout>
     </>
   )

@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 export default function Header() {
-  const [isOpen, setIsOpen] = useState(true)
+  const [isOpen, setIsOpen] = useState(false)
   const menuItems = [{
     name: 'Home', url: '/'
   }, {
@@ -15,7 +15,7 @@ export default function Header() {
   }, {
     name: 'Salvation', url: '/salvation'
   }, {
-    name: 'Instagram', url: 'https://www.instagram.com/overcomewithchrist/'
+    name: 'Instagram', url: 'https://www.instagram.com/overcomewithchrist'
   }, {
     name: 'Youtube', url: 'https://www.youtube.com/@overcomewithchrist'
   }]
@@ -38,7 +38,7 @@ export default function Header() {
       </svg>}
     </button>
       <div>
-        <Image src={'/logo-icon.png'} alt={'logo emblem'} width={'40'} height={'40'} />
+        <Image src={'/logo-icon.png'} alt={'logo emblem'} width={40} height={40} />
         <p>Overcome With Christ</p>
       </div>
     </div>
