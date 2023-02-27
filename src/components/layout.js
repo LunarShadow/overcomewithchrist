@@ -12,8 +12,8 @@ export default function Layout({children, pageTitle}) {
       </Head>
       <section className="layout">
         <Header />
-        <div>
-          <p><a>Subscribe to Newsletter</a></p>
+        <div className={'block w-full bg-primary text-white underline text-center text-xl py-2 font-light'}>
+          <p><a className={'cursor-pointer'}>Subscribe to Newsletter</a></p>
         </div>
         <div className="content">{children}</div>
         <SubscriptionBox />

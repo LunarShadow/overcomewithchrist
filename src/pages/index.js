@@ -9,11 +9,11 @@ export default function Home (){
   return (
     <>
       <Layout pageTitle={'Blog'}>
-        <h1>Blog</h1>
+        <h1 className={'pageTitle'}>Blog</h1>
         <PostListProvider>
           <FeaturedPostCard />
         </PostListProvider>
-        <h3>Recommended</h3>
+        <h3 className={'pageTitle'}>Recommended</h3>
         <PostListProvider>
           <PostList limit={3} displayLoadMore={false} />
         </PostListProvider>
