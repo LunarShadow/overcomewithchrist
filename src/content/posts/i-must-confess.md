@@ -22,7 +22,7 @@ Based on 1 John chapter 1 anyone who isn't in Christ is walking in darkness, doe
 There is so much information packed in the first chapter of 1 John alone. I tried to keep this short while still getting my point across. I'm so amazed at all that Christ has done, and truly he deserves all the honor, praise, and glory forever!
 
 If you aren't born again what are you waiting for? Check out my post: <a href="https://overcomewithchrist.com/posts/ready-to-claim-your-salvation">Ready to claim your salvation</a> to join the kingdom of God today! You may not get another chance.
-<blockquote><p>If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved.</p>
+<blockquote>
+<p>If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved.</p>
 <cite>Romans 10:9-10</cite>
-
 </blockquote>

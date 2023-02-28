@@ -5,8 +5,8 @@ export default function PrivacyPolicy ({ details, content}){
   return (
     <>
       <Layout pageTitle={details.title}>
-        <h1>{details.title}</h1>
-        <div>{content}</div>
+        <h1 className={'pageTitle'}>{details.title}</h1>
+        <div className={'p-3 text-justify'} dangerouslySetInnerHTML={{__html: content}} />
       </Layout>
     </>
   )

@@ -2,17 +2,21 @@ import matter from 'gray-matter'
 import Layout from '@/components/layout'
 import PostList from '@/components/post-list'
 import {PostListProvider} from '@/context/post-list-context'
+import Image from 'next/image'
 
 const Post = ({details, content}) => {
   return (<Layout pageTitle={details.title}>
-      <div>{details.featuredImage}</div>
-      <p>{details.category}</p>
-      <h1>{details.title}</h1>
-      <div>
-        <p>{details.author}</p>
-        <p>{details.date}</p>
+      <div className={'relative w-full h-72 md:h-80 -z-10'}>
+        <Image src={`/${details.featuredImage}`} alt={details.title} fill />
       </div>
-      <div dangerouslySetInnerHTML={{__html: content}} />
+      <div className={'p-3 -mt-7 md:-mt-10 rounded-3xl bg-pastelOrange '}>
+        <p className={'font-light text-base text-neutral-600 pl-1'}>{details.category}</p>
+        <h2 className={'font-light'}>{details.title}</h2>
+        <div>
+          <p className={'font-light text-base text-neutral-600'}>{details.author} | {details.date}</p>
+        </div>
+        <div className={'my-5'} dangerouslySetInnerHTML={{__html: content}} />
+      </div>
       <h3>More Posts</h3>
       <PostListProvider>
         <PostList limit={3} displayLoadMore={false} />

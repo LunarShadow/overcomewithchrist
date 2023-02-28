@@ -37,9 +37,11 @@ export default function Header() {
           <line x1="19" y1="5" x2="5" y2="19" rx={'2'} stroke={'#FFB284'} strokeWidth={'2'} />
         </svg>}
       </button>
-      <div className={'flex items-center content-center col-span-2'}>
-        <Image src={'/logo-icon.png'} alt={'logo emblem'} width={40} height={40} />
-        <p className={'text-l md:text-xl font-semibold text-center pt-3 text-orange-500 leading-4'}>Overcome With Christ</p>
+      <div className={'col-span-2'}>
+        <Link className={'flex items-center content-center'} href={'/'}>
+          <Image src={'/logo-icon.png'} alt={'logo emblem'} width={40} height={40} />
+          <p className={'text-l md:text-xl font-semibold text-center pt-3 text-orange-500 leading-4'}>Overcome With Christ</p>
+        </Link>
       </div>
     </div>
     {/*Menu items*/}

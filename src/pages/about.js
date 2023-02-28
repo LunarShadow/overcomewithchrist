@@ -6,10 +6,10 @@ export default function About ({ details, content}){
   return (
     <>
       <Layout pageTitle={details.title}>
-        <h1>{details.title}</h1>
+        <h1 className={'pageTitle'}>{details.title}</h1>
         <AuthorCard />
-        <h3>Purpose</h3>
-        <div>{content}</div>
+        <h3 className={'pageTitle'}>Purpose</h3>
+        <div className={'px-5 mb-3 font-light'} dangerouslySetInnerHTML={{__html: content}} />
       </Layout>
     </>
   )

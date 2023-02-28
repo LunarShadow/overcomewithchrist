@@ -7,8 +7,8 @@ const Salvation = ({ details, content }) => {
   return (
     <>
       <Layout pageTitle={details.title} >
-        <h1>{details.title}</h1>
-        <div dangerouslySetInnerHTML={{__html: content}} />
+        <h1 className={'pageTitle'}>{details.title}</h1>
+        <div className={'p-3'} dangerouslySetInnerHTML={{__html: content}} />
         <PostListProvider>
           <PostList limit={5} displayLoadMore={true} category={'Salvation'} />
         </PostListProvider>

@@ -13,11 +13,13 @@ export default function Home (){
         <PostListProvider>
           <FeaturedPostCard />
         </PostListProvider>
-        <h3 className={'pageTitle'}>Recommended</h3>
+        <h3 className={'pl-5'}>Recommended</h3>
         <PostListProvider>
-          <PostList limit={3} displayLoadMore={false} />
+          <PostList limit={4} displayLoadMore={false} skipFirst={true} />
         </PostListProvider>
-        <Link href={'/posts'} >View All Posts</Link>
+        <div className={'text-center mx-auto text-black cursor-pointer font-semibold my-5 px-2 py-1 bg-primary rounded-3xl w-36'}>
+          <Link className={'text-white hover:text-black'} href={'/posts'} >View All Posts</Link>
+        </div>
       </Layout>
     </>
   )

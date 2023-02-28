@@ -5,7 +5,7 @@ import PostList from '@/components/post-list'
 const Posts = () => {
   return (<>
     <Layout pageTitle={'All Posts'}>
-      <h1>All Posts</h1>
+      <h1 className={'pageTitle'}>All Posts</h1>
       <PostListProvider>
         <PostList limit={10} displayLoadMore={true} />
       </PostListProvider>

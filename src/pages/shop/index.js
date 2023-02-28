@@ -1,8 +1,12 @@
+import Layout from '@/components/layout'
+
 const ShopHome = () => {
   return (
-    <>
-      <h1> Shop Coming soon.</h1>
-    </>
+    <Layout pageTitle={'Shop'}>
+      <div className={'h-96 flex content-center items-center px-4'}>
+        <h1 className={'text-center w-full'}> Shop Coming soon.</h1>
+      </div>
+    </Layout>
   )
 }
 
