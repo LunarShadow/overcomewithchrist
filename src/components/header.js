@@ -37,7 +37,7 @@ export default function Header() {
           <line x1="19" y1="5" x2="5" y2="19" rx={'2'} stroke={'#FFB284'} strokeWidth={'2'} />
         </svg>}
       </button>
-      <div className={'col-span-2'}>
+      <div className={'col-span-2 mx-auto'}>
         <Link className={'flex items-center content-center'} href={'/'}>
           <Image src={'/logo-icon.png'} alt={'logo emblem'} width={40} height={40} />
           <p className={'text-l md:text-xl font-semibold text-center pt-3 text-orange-500 leading-4'}>Overcome With Christ</p>
@@ -46,7 +46,7 @@ export default function Header() {
     </div>
     {/*Menu items*/}
     <div className={`nav-items-container ${isOpen ? 'block openMenu' : 'hidden'}`}>
-      {menuItems?.map((menuItem) => (<Link href={menuItem.url} key={menuItem.name}>
+      {menuItems?.map((menuItem) => (<Link className={'text-black'} href={menuItem.url} key={menuItem.name}>
         {menuItem.name}
       </Link>))}
     </div>

@@ -40,7 +40,7 @@ const PostList = ({limit, displayLoadMore, category = null, skipFirst = false}) 
               <Link href={`/posts/${post.slug}`}>
                 <div className={'grid grid-cols-4 content-center items-center'}>
                   <div className={'col-span-4 md:col-span-1 p-3'}>
-                    <div className={'relative w-full h-36 md:h-24'}>
+                    <div className={'relative w-full aspect-video'}>
                       <Image className={'rounded-xl'} src={`/${post?.details.featuredImage}`} alt={post?.details.title}
                              fill />
                     </div>

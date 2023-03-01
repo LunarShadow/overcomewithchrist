@@ -59,11 +59,11 @@ body {
     }
 }
 .layout {
-    @apply mx-auto relative w-full lg:w-3/4 xl:w-1/3
+    @apply mx-auto relative w-full lg:w-10/12 xl:w-8/12
 }
 
 .openMenu {
-    @apply w-full h-screen bg-pastelOrange z-30 text-2xl
+    @apply w-full h-screen bg-pastelOrange z-30 text-2xl py-10
 }
 
 .openMenu a {

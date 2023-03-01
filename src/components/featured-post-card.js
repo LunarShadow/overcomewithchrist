@@ -17,7 +17,7 @@ export default function FeaturedPostCard() {
   }, [featuredPost])
 
   return (<>
-    <div className={'relative mx-auto w-11/12 md:w-7/12 h-56 md:h-80 border-1 border-amber-500 my-10 drop-shadow-md cursor-pointer'}>
+    <div className={'relative mx-auto w-11/12 md:w-2/3 aspect-video border-1 border-amber-500 my-10 drop-shadow-md cursor-pointer'}>
       <Link className={'text-xl text-white font-bold'} href={slug}>
         <Image className={'rounded-3xl '} src={url} alt={'featured image'} fill />
         <div className={'gradient-background rounded-3xl absolute z-10 w-full h-2/3 bottom-0'}>
