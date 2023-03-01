@@ -12,9 +12,9 @@ author: Cyntia Seumo
 
 <p>It's really sad to see that so many people are full of fear of an enemy they can't see. I understand their fear because all we know about it is what the news wants us to know. If my hope wasn't in Christ, I would definitely be more fearful. We've been forced into house arrest with an ethos and pathos reasoning made to look like a logos reasoning. If you keep up with the news all you see is death counts, infection rates, overcrowded hospitals, shortages in stores, lack in leadership, biased research, and the list goes on and on (It's good to take a break from the news every once in a while).</p>
 
-<p>All this just ends up spreading discord; fear mixed with confusion and anger at someone or something.  There are a lot of things that don't add up or make sense. Maybe I'm focusing too much on the physical and not enough on the spiritual. At a time like this I just pray that the truth would make itself clear and known to everyone.</p>
+<p>All this just ends up spreading discord; fear mixed with confusion and anger at someone or something. There are a lot of things that don't add up or make sense. Maybe I'm focusing too much on the physical and not enough on the spiritual. At a time like this I just pray that the truth would make itself clear and known to everyone.</p>
 
-<h3><strong>Father God,</strong></h3>
+<h6>Father God,</h6>
 
 <p>There's so much happening in the world right now and I thank you because you are in control. I thank you because you listen to our prayers. Lord, I ask that all your people have inner peace and that you would draw near to all who seek you. I thank you because we are never truly alone for you are always with us. You are our provider in all circumstances, you are our Shepard. I thank you because everything is happening within its appointed time and not earlier.</p>
 
@@ -26,7 +26,7 @@ author: Cyntia Seumo
 
 <p>All this I pray in Jesus's name, Amen.</p>
 
-<blockquote class="wp-block-quote has-text-align-center">
+<blockquote>
 <p>Why am I discouraged? Why is my heart so sad? I will put my hope in God! I will praise him again— my Savior and my God!</p>
-<p>&nbsp;</p>
-<cite><a href="https://bible.com/bible/116/psa.42.11.NLT" target="_blank" rel="noreferrer noopener">Psalms 42:11 NLT</a></cite></blockquote>
+<cite>Psalms 42:11 NLT</cite>
+</blockquote>

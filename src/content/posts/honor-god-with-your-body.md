@@ -10,9 +10,10 @@ summary: Following God is never in vain. The things the world glorify is never
 date: May 2, 2020
 author: Cyntia Seumo
 ---
-<blockquote class="wp-block-quote">
+<blockquote>
 <p>you were bought with a high price. So you must honor God with your body.</p>
-<cite><a href="https://www.bible.com/bible/116/1CO.6.20">1 Corinthians 6:20</a></cite></blockquote>
+<cite>1 Corinthians 6:20</cite>
+</blockquote>
 
 <p>Watching the Relationship Goals series by Pastor Mike Todd of Transformation Church on YouTube, made me realize that there was something that I wasn't yet willing to give up for God. Because it was something I thought I was helpless agaisnt. Especially because I got comfortable with it before getting to know Christ.</p>
 
@@ -25,9 +26,9 @@ author: Cyntia Seumo
 <p>Pastor Todd's series really helped to open my eyes on how much I had allowed sex to rule over my life. Especially part 7 of his message; Does Sex own you? After watching that, I realized that yes, it does own me. But thank God that now I am willing to allow God to work with and through me so that I can be set free from this bondage. The difference between now and before is that even though I knew better, I wasn't willing to do better. I hadn't truly repented. 2 Corinthians 7:10 says: "For the kind of sorrow God wants us to experience leads us away from sin and results in salvation. There’s no regret for that kind of sorrow. But worldly sorrow, which lacks repentance, results in spiritual death"</p>
 
 <p>True repentance leads to change, it's not just feeling bad about our actions. Though it may seem hard to do sometimes, it's always worth the trouble, especially if you understand that the things of this world do not compare to the things of heaven. So if you have to cast out any demon(s) you got comfortable with, cast it out. It can't possibly offer you anything that would bring you life.</p>
-<p>Thinking about abstaining until marriage? Here is a video by Queen Dani on <a href="https://www.youtube.com/watch?v=ShvT6q6XL50" target="_blank" rel="noopener noreferrer"><strong>Untold Truths About Waiting Until Marriage To Have Sex</strong></a>. It's a great watch and is sure to leave you with a different perspective. </p>
+<p>Thinking about abstaining until marriage? Here is a video by Queen Dani on <a href="https://www.youtube.com/watch?v=ShvT6q6XL50" target="_blank" rel="noopener noreferrer"><strong>Untold Truths About Waiting Until Marriage To Have Sex</strong></a>. It's a great watch and is sure to leave you with a different perspective.</p>
 <p>
 
-<blockquote class="wp-block-quote">
+<blockquote>
 <p>..."Or did you think that because he's such a nice God, he'd let you off the hook? Better think this one through from the beginning. God is kind, but he's not soft. In kindness he takes us firmly by the hand and leads us into a radical life-change."</p>
-<cite><a href="https://www.bible.com/bible/97/ROM.2.4">Romans 2:4 (MSG)</a></cite></blockquote>
+<cite>Romans 2:4 (MSG)</cite></blockquote>

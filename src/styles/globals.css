@@ -49,6 +49,14 @@ body {
     a {
         @apply text-primary
     }
+
+    b {
+        @apply font-semibold
+    }
+
+    hr {
+        @apply border border-neutral-300 my-3
+    }
 }
 .layout {
     @apply mx-auto relative w-full lg:w-3/4 xl:w-1/3

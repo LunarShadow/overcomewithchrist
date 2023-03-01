@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 <h3> Who we are</h3>
 
-We are [Overcome with Christ](www.overcomewithchrist.com).
+We are <a href="https://overcomewithchrist.com">Overcome with Christ</a>.
 
 <h3> What personal data we collect and why we collect it</h3>
 
