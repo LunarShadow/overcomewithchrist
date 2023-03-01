@@ -7,6 +7,9 @@ const { withSentryConfig } = require('@sentry/nextjs');
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  images: {
+    unoptimized: true
+  },
   webpack: (cfg) => {
     cfg.module.rules.push(
       {
