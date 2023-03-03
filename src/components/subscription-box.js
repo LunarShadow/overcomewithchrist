@@ -11,7 +11,7 @@ const SubscriptionBox = () => {
     subscribeUser(data.email).then((res)=>{
       setSubscribedMessage(`Thank you! ${res.email_address} has successfully been subscribed`)
     }).catch((ex)=>{
-      setSubscribedMessage(`${data.email_address} is not able to be subscribed. Please use a different email.`)
+      setSubscribedMessage(`Unable to subscribe the provided email. Please use a different email.`)
       captureMessage(`Unable to subscribe user to mailchimp: ${data.email_address}`,'log')
       captureException(ex)
     })
