@@ -13,8 +13,8 @@ export default function Layout({children, pageTitle}) {
       </Head>
       <section>
         <Header />
-        <div className={'block w-full bg-primary text-white underline text-center text-xl py-2 font-light'}>
-          <p className={'cursor-pointer'}><Link className={'text-white'} href={'#subscribe'}>Subscribe to Newsletter </Link></p>
+        <div className={'block w-full bg-primary py-2'}>
+          <p className={'cursor-pointer text-center text-xl underline font-light'}><Link className={'text-white'} href={'#subscribe'}>Subscribe to Newsletter </Link></p>
         </div>
         <div className="content">{children}</div>
         <SubscriptionBox />

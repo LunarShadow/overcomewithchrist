@@ -5,6 +5,7 @@ import {PostListProvider} from '@/context/post-list-context'
 import Image from 'next/image'
 
 const Post = ({details, content}) => {
+  const authorName = 'Cyntia Seumo'
   return (<Layout pageTitle={details.title}>
       <div className={'relative w-full h-72 md:h-80 -z-10'}>
         <Image src={`/${details.featuredImage}`} alt={details.title} fill />
@@ -13,7 +14,7 @@ const Post = ({details, content}) => {
         <p className={'font-light text-base text-neutral-600 pl-1'}>{details.category}</p>
         <h2 className={'font-light'}>{details.title}</h2>
         <div>
-          <p className={'font-light text-base text-neutral-600'}>{details.author} | {details.date}</p>
+          <p className={'font-light text-base text-neutral-600'}>{details.author || authorName} | {details.date}</p>
         </div>
         <div className={'my-5'} dangerouslySetInnerHTML={{__html: content}} />
       </div>

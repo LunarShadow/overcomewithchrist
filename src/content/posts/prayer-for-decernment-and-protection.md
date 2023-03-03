@@ -8,7 +8,6 @@ summary: We are in tough times, but we have a tough God! If you're feeling weak,
 date: August 1, 2020
 author: Cyntia Seumo
 ---
-
 <p>Lord,</p>
 
 <p>In this time of uncertainty I pray for discernment. May your truth be revealed to me. May your truth be revealed to your sheep, and to all who seek the truth. I praise you God because even during these difficult times you are in control! You are opening blind eyes, and you are softening hardened hearts.</p>

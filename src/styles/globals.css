@@ -31,15 +31,16 @@ body {
     body {
         @apply bg-pastelOrange
     }
+
     p {
-        @apply py-1 font-light
+        @apply py-1 px-2 lg:px-5 font-light text-lg my-1 leading-loose
     }
 
     blockquote {
         @apply w-full relative my-3
     }
     blockquote p{
-        @apply text-xl text-center p-3
+        @apply text-xl text-center p-3 !important
     }
 
     blockquote cite {
@@ -52,6 +53,9 @@ body {
 
     b {
         @apply font-semibold
+    }
+    em {
+        @apply italic
     }
 
     hr {
@@ -76,4 +80,8 @@ body {
 
 .gradient-background{
    background: linear-gradient(180deg, rgba(217, 217, 217, 0) 10.94%, rgba(120, 119, 119, .6 ) 98.44%);
+}
+
+.blog-list {
+    @apply px-3 lg:px-6 list-disc list-inside
 }

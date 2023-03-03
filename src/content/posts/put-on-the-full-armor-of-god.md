@@ -10,11 +10,12 @@ date: June 27, 2020
 author: Cyntia Seumo
 ---
 
-<blockquote class="wp-block-quote has-text-align-center">
-<p><sup>13</sup> Therefore, put on every piece of God’s armor so you will be able to resist the enemy in the time of evil. Then after the battle you will still be standing firm. <sup>14</sup> Stand your ground, putting on the belt of truth and the body armor of God’s righteousness. <sup>15</sup> For shoes, put on the peace that comes from the Good News so that you will be fully prepared. <sup>16</sup> In addition to all of these, hold up the shield of faith to stop the fiery arrows of the devil. <sup>17</sup> Put on salvation as your helmet, and take the sword of the Spirit, which is the word of God.<sup>18</sup> Pray in the Spirit at all times and on every occasion. Stay alert and be persistent in your prayers for all believers everywhere.</p>
-<cite><a href="https://www.bible.com/bible/116/eph.6.13-18">Ephesians 6:13-18 NLT</a></cite></blockquote>
+<blockquote>
+<p>Therefore, put on every piece of God’s armor so you will be able to resist the enemy in the time of evil. Then after the battle you will still be standing firm. Stand your ground, putting on the belt of truth and the body armor of God’s righteousness. <sup>15</sup> For shoes, put on the peace that comes from the Good News so that you will be fully prepared. In addition to all of these, hold up the shield of faith to stop the fiery arrows of the devil. Put on salvation as your helmet, and take the sword of the Spirit, which is the word of God. Pray in the Spirit at all times and on every occasion. Stay alert and be persistent in your prayers for all believers everywhere.</p>
+<cite>Ephesians 6:13-18 NLT</cite>
+</blockquote>
 
-<p>In Ephesians 6 starting from verse 10, Paul warns everyone to be strong in the Lord and to put on his full armor. Since we do not battle against the physical things of this world, but the things of the spiritual, or unseen, world (<span class="tooltips"> Ephesians 6:12<span class="tooltip-text">For we are not fighting against flesh-and-blood enemies, but against evil rulers and authorities of the unseen world, against mighty powers in this dark world, and against evil spirits in the heavenly places.</span></span>). Let’s take a closer look at the armor and what exactly it’s protecting.</p>
+<p>In <a>Ephesians 6</a> starting from verse 10, Paul warns everyone to be strong in the Lord and to put on his full armor. Since we do not battle against the physical things of this world, but the things of the spiritual, or unseen, world (<a>Ephesians 6:12</a>). Let’s take a closer look at the armor and what exactly it’s protecting.</p>
 
 <p>Starting from verse 14, the first thing we are advised to put on is the belt of truth. It’s important that we know the truth of what’s really happening around us. We must understand our surroundings and know the truth of the battlefield.</p>
 

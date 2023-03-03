@@ -12,8 +12,9 @@ title: Salvation
 <p>
 Salvation is a simple process because Jesus already did all the work.
 All you have to do is confess out loud that Jesus is Lord and that God
-raised him from the dead (Romans 10:9-10).
+raised him from the dead (<a>Romans 10:9-10</a>).
 </p>
+<p></p>
 <p>
   Check out the posts below for more information. Please do not hesitate to contact me via
   <a href="mailto:contact@overcomewithchrist.com" >email</a>&nbsp; if you have any questions or testimonies to share.
