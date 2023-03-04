@@ -14,13 +14,13 @@ author: Cyntia Seumo
 
 <p>The cambridge dictionary defines courtship as</p>
 
-<blockquote class="wp-block-quote">
+<blockquote>
 <p>the period in which two people have a romantic relationship that often leads to marriage</p>
 </blockquote>
 
 <p>And dating as</p>
 
-<blockquote class="wp-block-quote">
+<blockquote>
 <p>to regularly spend time with someone you have a romantic relationship with</p>
 </blockquote>
 
@@ -36,8 +36,8 @@ author: Cyntia Seumo
 
 <p>At the end of the day, commitment is a decision that is made daily. Some days it might be easier than others, but it's can be demoralizing to want to stay committed to someone when you don't know if they see a future with you the same way you see a future with them.</p>
 
-<blockquote class="wp-block-quote">
+<blockquote>
 <p>Love is patient and kind. Love is not jealous or boastful or proud or rude. It does not demand its own way. It is not irritable, and it keeps no record of being wronged.</p>
-<cite><a href="https://bible.com/bible/116/1co.13.4-5.NLT" target="_blank" rel="noreferrer noopener">1 Corinthians 13:4‭-‬5 NLT</a></cite></blockquote>
+<cite>1 Corinthians 13:4-5 NLT</cite></blockquote>
 
-<p>See my other post on relationship: <a href="https://overcomewithchrist.com/post/a-conversation-about-relationships/">A conversation about relationships</a></p>
+<p>See my other post on relationship: <a href="https://overcomewithchrist.com/posts/a-conversation-about-relationships/">A conversation about relationships</a></p>

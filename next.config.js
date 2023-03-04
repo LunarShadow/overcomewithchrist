@@ -7,12 +7,14 @@ const { withSentryConfig } = require('@sentry/nextjs');
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  images: {
+    unoptimized: true
+  },
   webpack: (cfg) => {
     cfg.module.rules.push(
       {
         test: /\.md$/,
-        loader: 'frontmatter-markdown-loader',
-        options: { mode: ['react-component'] }
+        use: 'raw-loader'
       }
     )
     return cfg;

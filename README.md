@@ -12,3 +12,5 @@ a blog that strives to help individuals know who they are in Christ so they can 
 - [MailChimp](https://mailchimp.com/developer/marketing/guides/quick-start/)
 - [TailwindCss](https://tailwindcss.com/docs/installation)
 - [Sentry](https://docs.sentry.io/platforms/javascript/guides/nextjs/)
+- [React Hook Form](https://react-hook-form.com/get-started#SchemaValidation)
+- 

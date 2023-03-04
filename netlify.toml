@@ -1,6 +1,6 @@
 [build]
-  command = "npm run build"
-  publish = ".next"
+  command = "npm run build && npm run export"
+  publish = "out"
 [build.processing]
   skip_processing = false
 [build.processing.css]
@@ -9,8 +9,7 @@
 [build.processing.js]
   bundle = true
   minify = true
-[context.deploy-preview.processing]
-  skip_processing = true
 [context.production.environment]
   NODE_ENV = "production"
   NEXT_SERVERLESS = "true"
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"

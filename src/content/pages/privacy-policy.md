@@ -2,50 +2,50 @@
 layout: page
 title: Privacy Policy
 ---
-## Who we are
+<h3> Who we are</h3>
 
-We are [Overcome with Christ](www.overcomewithchrist.com).
+We are <a href="https://overcomewithchrist.com">Overcome with Christ</a>.
 
-## What personal data we collect and why we collect it
+<h3> What personal data we collect and why we collect it</h3>
 
-### Media
+<h5> Media </h5>
 
 If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-### Contact forms
+<h5> Contact forms</h5>
 
-### Embedded content from other websites
+<h5> Embedded content from other websites</h5>
 
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-### Analytics
+<h5> Analytics</h5>
 
-## Who we share your data with
+<h3> Who we share your data with</h3>
 
-We share information with third parties who help us provide our orders and store services to you such as Stripe. 
+We share information with third parties who help us provide our orders and store services to you such as Stripe.
 
-## How long we retain your data
+<h3> How long we retain your data</h3>
 
 If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 If you buy a product, your name and email are retrained until you unsubscribe from the mailing list. 
 For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-## What rights you have over your data
+<h3> What rights you have over your data</h3>
 
 If you have an account or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-## Where we send your data
+<h3> Where we send your data</h3>
 
 Visitor comments may be checked through an automated spam detection service.
 
-## Your contact information
+<h3> Your contact information</h3>
 
-When contacting us, only your email and information that you provide is used to respond to your message. \
+When contacting us, only your email and information that you provide is used to respond to your message.
 Other information provided when ordering is used to fulfill your order and may be sent to a third-party fulfillment company.
 
-## Store
+<h3> Store</h3>
 
 We collect information about you during the checkout process on our store.
 

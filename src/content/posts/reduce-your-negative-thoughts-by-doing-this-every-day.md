@@ -9,20 +9,32 @@ summary: It can be difficult sometimes to stay calm when feeling anxious,
 date: April 17, 2021
 author: Cyntia Seumo
 ---
+<p>
 How often do you find yourself thinking about something negative that either causes you to be depressed or anxious? I know I still do, though not as much as I used to. One thing that helps me is meditating on scripture. Because scripture is how I fight off the lies that come to my mind.
-
+</p>
+<p>
 Meditating is ruminating on or muttering something to one's self until it permeates one's spirit. Meditation also means to premeditate on an image, to ponder on a topic for the purpose of putting it to practice. So the main point of meditating on scripture is to permeate our spirit with the word of God as well as to ponder his commands to put it into practice.
-
+</p>
+<p>
 Now that we know what we mean when say meditate, how does one do it? First things first, you must know why you want to meditate. What is troubling you? Are you anxious, depressed, or distressed? Whatever it is, think of a verse that deals with it. If one doesn't come up right away, stay in silence for a few minutes or speak in tongues if you are able and let the Holy Spirit lead you to a verse. However, you can always do a web search to help you out.
-
+</p>
+<p>
 Once you have a verse selected that deals with your situation, it's time to go through the different levels of meditation. The first step is to set aside some time, at least 30 minutes, each day to meditate. During that time you will start by pondering quietly on the verse or verses you selected. Read it to yourself, think about what it says, think about what it doesn't say, consider how it applies to you. As you do this, you will start to understand that verse more and new revelations will come to you on the character of God and what role you play.
-
+</p>
+<p>
 After pondering on the verse it's time to start muttering it to yourself. Your lips weren't moving before, but they should be now as you recite the scriptures over and over to yourself. This process helps it reach your spirit, it helps you to take it to heart. Even if you don't remember all the words of the verse, you will remember the character of God revealed in the verse when you face similar situations.
+</p>
+<p>
+Once you've fully accepted the verse or verses to your spirit, it's time to roar it out. By this, I don't just mean scream it, but saying it loudly, confidently with a note of victory! There is victory when you understand who God is, and what role you play because in Christ we are always more than conquerors (<a>Romans 8:37</a>), hallelujah! There is a reason why the Word of God is the only offensive weapon given to us in the full armor of God (<a>Ephesians 6:13-18</a>).
+</p>
+<p>
+As you grow your repertoire of scriptures in your heart and on your lips, you find that you can easily identify a lie being planted in your mind vs. the truth of God. The devil comes to steal, to kill, and to destroy (<a>John 10:10</a>). So resist him and he will flee from you (<a>James 4:7</a>). How do you resist? The same way Jesus did in the wilderness, with scripture (<a>Matthew 4:1-11</a>)!
+</p>
+<p>
+Check out my previous post <a href="https://overcomewithchrist.com/posts/renewal-of-the-mind">Renewal of the Mind</a> for more on this. Also, let me know if you're interested in me providing some (more) scriptures that I like to go to for certain thoughts! Stay encouraged, and keep overcoming!
+</p>
 
-Once you've fully accepted the verse or verses to your spirit, it's time to roar it out. By this, I don't just mean scream it, but saying it loudly, confidently with a note of victory! There is victory when you understand who God is, and what role you play because in Christ we are always more than conquerors (<span class="tooltips">Romans 8:37<span class="tooltip-text">Nay, in all these things we are more than conquerors through him that loved us.</span></span>), hallelujah! There is a reason why the Word of God is the only offensive weapon given to us in the full armor of God (<span class="tooltips">Ephesians 6:13-18<span class="tooltip-text">Therefore, put on every piece of God’s armor so you will be able to resist the enemy in the time of evil. Then after the battle you will still be standing firm. Stand your ground, putting on the belt of truth and the body armor of God’s righteousness. For shoes, put on the peace that comes from the Good News so that you will be fully prepared. In addition to all of these, hold up the shield of faith to stop the fiery arrows of the devil. Put on salvation as your helmet, and take the sword of the Spirit, which is the word of God. Pray in the Spirit at all times and on every occasion. Stay alert and be persistent in your prayers for all believers everywhere.</span></span>).
-
-As you grow your repertoire of scriptures in your heart and on your lips, you find that you can easily identify a lie being planted in your mind vs. the truth of God. The devil comes to steal, to kill, and to destroy (<span class="tooltips">John 10:10<span class="tooltip-text">The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.</span></span>). So resist him and he will flee from you (<span class="tooltips">James 4:7<span class="tooltip-text">Submit yourselves therefore to God. Resist the devil, and he will flee from you. </span></span>). How do you resist? The same way Jesus did in the wilderness, with scripture (<span class="tooltips">Matthew 4:1-11<span class="tooltip-text">Then Jesus was led by the Spirit into the wilderness to be tempted there by the devil. For forty days and forty nights he fasted and became very hungry. During that time the devil came and said to him, “If you are the Son of God, tell these stones to become loaves of bread.” But Jesus told him, “No! The Scriptures say, ‘People do not live by bread alone, but by every word that comes from the mouth of God.’” Then the devil took him to the holy city, Jerusalem, to the highest point of the Temple, and said, “If you are the Son of God, jump off! For the Scriptures say, ‘He will order his angels to protect you. And they will hold you up with their hands so you won’t even hurt your foot on a stone.’” Jesus responded, “The Scriptures also say, ‘You must not test the LORD your God.’” Next the devil took him to the peak of a very high mountain and showed him all the kingdoms of the world and their glory. “I will give it all to you,” he said, “if you will kneel down and worship me.” “Get out of here, Satan,” Jesus told him. “For the Scriptures say, ‘You must worship the LORD your God and serve only him.’” Then the devil went away, and angels came and took care of Jesus.</span></span>)!
-
-Check out my previous post <a href="https://overcomewithchrist.com/posts/renewal-of-the-mind"><em>Renewal of the Mind</em></a> for more on this. Also, let me know if you're interested in me providing some (more) scriptures that I like to go to for certain thoughts! Stay encouraged, and keep overcoming!
-<blockquote><p>Study this Book of Instruction continually. Meditate on it day and night so you will be sure to obey everything written in it. Only then will you prosper and succeed in all you do.</p>
-<cite><a href="https://www.bible.com/bible/116/JOS.1.8.NLT" rel="noreferrer">Joshua 1:8</a></cite></blockquote>
+<blockquote>
+<p>Study this Book of Instruction continually. Meditate on it day and night so you will be sure to obey everything written in it. Only then will you prosper and succeed in all you do.</p>
+<cite>Joshua 1:8</cite>
+</blockquote>
