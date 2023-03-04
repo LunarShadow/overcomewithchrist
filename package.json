@@ -16,6 +16,7 @@
     "@sentry/nextjs": "^7.38.0",
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
+    "find-cache-dir": "^4.0.0",
     "gray-matter": "^4.0.3",
     "next": "13.1.6",
     "next-on-netlify": "^3.0.1",
