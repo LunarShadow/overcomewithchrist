@@ -1,6 +1,5 @@
 [build]
   command = "npm run build && npm run export"
-  functions = "out_functions"
   publish = "out"
 [build.processing]
   skip_processing = false
