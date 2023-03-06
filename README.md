@@ -13,4 +13,3 @@ a blog that strives to help individuals know who they are in Christ so they can 
 - [TailwindCss](https://tailwindcss.com/docs/installation)
 - [Sentry](https://docs.sentry.io/platforms/javascript/guides/nextjs/)
 - [React Hook Form](https://react-hook-form.com/get-started#SchemaValidation)
-- 

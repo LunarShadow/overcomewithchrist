@@ -11,7 +11,7 @@ logo_url: https://overcomewithchrist.com/logo.png
 collections:
   - name: "page"
     label: "Page"
-    folder: "content/pages"
+    folder: "src/content/pages"
     create: true
     slug: "{{slug}}"
     fields:
@@ -22,7 +22,7 @@ collections:
   - name: "post"
     label: "Posts"
     label_singular: "Post"
-    folder: "content/posts"
+    folder: "src/content/posts"
     create: true
     slug: "{{slug}}"
     fields:
@@ -38,7 +38,7 @@ collections:
   - name: "products"
     label: "Products"
     label_singular: "Product"
-    folder: "content/products"
+    folder: "src/content/products"
     create: true
     fields: 
       - {label: "layout", name: "layout", widget: "hidden", default: "product"}
