@@ -2,11 +2,10 @@ backend:
   name: git-gateway
   #name: test-repo
   branch: main
-# publish_mode: editorial_workflow
+  publish_mode: editorial_workflow
 media_folder: public/img
 public_folder: img
-display_url: overcomewithchrist.com
-logo_url: https://overcomewithchrist.com/logo.png
+display_url: '/'
 
 collections:
   - name: "page"
