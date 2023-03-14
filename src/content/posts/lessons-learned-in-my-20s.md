@@ -11,6 +11,10 @@ author: Cyntia Seumo
 ---
 <iframe class="w-10/12 aspect-video mx-auto" src="https://www.youtube.com/embed/x85P-a8KZzI" allow="encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p></p>
+
+<p></p>
+
 <p>Some of the things I might say here may sound extreme, but I’m okay with that. In this lukewarm world, people who know what they want always seem extreme.</p>
 <p>Today I am going to discuss 10 things I learned in my almost 3 decades of being alive. My birthday just passed and I’m only a couple of years from being 30, So I decided not was a good time to impart some wisdom to y’all and also reflect on some lessons learned, most of them the hard way.</p>
 <p>Jumping right into it:</p>
