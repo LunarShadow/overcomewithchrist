@@ -10,7 +10,7 @@ author: Cyntia Seumo
 ---
 <p>Sometime last year, I came across the flow chart pictured below. They were so close to the answer, so I decided to give the explanation for the path I circled. Hopefully, this helps someone understand the plan of God. </p>
 
-![Epicurean Paradox Flow Chart](img/paradox.jpeg)
+<img src='https://res.cloudinary.com/dn7ubiddg/image/upload/v1680975125/paradox_uad73k.jpg' alt='Epicurean Paradux Flowchart' width="350px" height="400px" class="mx-auto"/>
 
 <p>He did destroy Satan, when Jesus died and when to hell, he destroyed death and the grave, and he made a spectacle of all the demons and their cohorts (<a>Colossians 2:15</a>).</p>
 
@@ -18,7 +18,7 @@ author: Cyntia Seumo
 
 <p>God is merciful, he doesn’t want people to perish, but He does not want to force anyone to do his bidding either. He would rather they chose willingly to come to Him. He’s done everything already. It’s up to us to accept What he has done and wait patiently for the day that the new Earth and the new Jerusalem will be revealed for all of God's people to be able to live with God, in a recreated world without sin (<a>Revelations 21:1-4</a>).</p>
 
-<h4>So why create evil?</h4>
+<p><b>So why create evil?</b></p>
 
 <p>He didn’t create evil. Because God is good, where ever He is not, there is no good. So evil comes from the absence of God in or from something.</p>
 
@@ -26,7 +26,7 @@ author: Cyntia Seumo
 
 <p>The earth was void, chaotic, and absent of light until God hovered and brooded over it, and brought light, order, and filled it. (<a>Genesis 1-3</a>)</p>
 
-<h4>Did he not anticipate Adam would eat of the Fruit? after all he’s all-knowing.</h4>
+<p><b>Did he not anticipate Adam would eat of the Fruit? after all he’s all-knowing.</b></p>
 
 <p>He did, that’s why he made the plan for the sacrifice of Jesus. The plan for Jesus wasn’t an afterthought, He planned it from the beginning (<a>John 1:1</a>, <a>John 1:10</a>).</p>
 
