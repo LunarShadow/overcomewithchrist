@@ -1,5 +1,4 @@
 import Layout from '@/components/layout'
-import matter from 'gray-matter'
 import PostList from '@/components/post-list'
 import {PostListProvider} from '@/context/post-list-context'
 
@@ -19,12 +18,11 @@ const Salvation = ({ details, content }) => {
 
 export async function getStaticProps() {
   const content = await import(`../content/pages/salvation.md`)
-  const markdown = matter(content.default)
 
   return {
     props: {
-      details: markdown.data,
-      content: markdown.content
+      details: content.attributes,
+      content: content.html
     },
   }
 }
