@@ -9,8 +9,7 @@ author: Cyntia Seumo
 ---
 
 <iframe class="w-10/12 aspect-video mx-auto" src="https://www.youtube.com/embed/lkFmEcpKgcs" allow="encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
-<p></p>
-<p></p>
+
 <p>Hi, my name is Cyntia and I was born with Sickle Cell Disease. Sickle Cell is when your blood doesn't get enough oxygen so it's not always round. Because of this, it can get stuck which can cause immense pain.</p>
 
 <p>For me, a pain crisis It's not just about the physical pain, but the mental, emotional and spiritual battles involved. Some episodes are more painful than others and the recovery time depends on the level of pain.</p>
@@ -29,7 +28,7 @@ author: Cyntia Seumo
 
 <p>It's still hard though, especially with the pain still fresh in my mind but I will continue to work my faith. And like Job said, though he slay me, yet will I trust in him. After all, he is the author and finisher of my faith and he's not finished with me yet.</p>
 
-<h5>Say this confession over your body:</h3>
+<h5>Say this confession over your body:</h5>
 
 <p>I have the life of God in me because the same spirit that raised Jesus from the dead is alive in me and revitalizes my mortal body. </p>
 

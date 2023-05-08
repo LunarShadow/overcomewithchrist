@@ -28,8 +28,8 @@ author: Cyntia Seumo
 <p>True repentance leads to change, it's not just feeling bad about our actions. Though it may seem hard to do sometimes, it's always worth the trouble, especially if you understand that the things of this world do not compare to the things of heaven. So if you have to cast out any demon(s) you got comfortable with, cast it out. It can't possibly offer you anything that would bring you life.</p>
 
 <p>Thinking about abstaining until marriage? Here is a video by Queen Dani on <a href="https://www.youtube.com/watch?v=ShvT6q6XL50" target="_blank" rel="noopener noreferrer"><strong>Untold Truths About Waiting Until Marriage To Have Sex</strong></a>. It's a great watch and is sure to leave you with a different perspective.</p>
-<p>
 
 <blockquote>
 <p>..."Or did you think that because he's such a nice God, he'd let you off the hook? Better think this one through from the beginning. God is kind, but he's not soft. In kindness he takes us firmly by the hand and leads us into a radical life-change."</p>
-<cite>Romans 2:4 (MSG)</cite></blockquote>
+<cite>Romans 2:4 (MSG)</cite>
+</blockquote>
