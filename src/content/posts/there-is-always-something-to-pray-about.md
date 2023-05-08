@@ -36,3 +36,4 @@ When you fellowship with the Holy Spirit, you will find yourself feeling refresh
 <p>
 These are things that I've learned I can always pray about. So saying "I won't pray today because I don't know what to pray about" is no longer acceptable. Lack of a reason to pray is not a reason to not pray.
 If I pray regardless of these feelings, the Holy Spirit will bring fort things to pray about. This is why it's important to learn how to pray in the Spirit (<a>Romans 8:26</a>, <a>1 Corinthians 14:</a>).
+</p>

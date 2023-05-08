@@ -1,5 +1,4 @@
 import {createContext, useEffect, useState} from 'react'
-import matter from 'gray-matter'
 
 export const PostListContext = createContext()
 
@@ -28,10 +27,9 @@ const getPostList = () => {
       // and return post data
       let slug = key.replace(/^.*[\\\/]/, '').slice(0, -3)
       const value = values[index]
-      const document = matter(value.default)
       return {
-        details: document.data,
-        content: document.content,
+        details: value.attributes,
+        content: value.content,
         slug,
       }
     })

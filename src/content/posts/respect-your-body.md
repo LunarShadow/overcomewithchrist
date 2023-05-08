@@ -65,6 +65,6 @@ author: Cyntia Seumo
 
 <h5>Prayer</h5>
 
-<p>Lord, <br>Thank you for your word which is a shining light unto my feet. Thank you for the strength and the ability to follow your word, for in following your word I am living a higher and more fulfilled life. Thank you for your grace and mercy. I need your help oh Lord to remain pure for you. Help me to not defile your temple. I will meditate on your word daily, such that it will stay in my heart and strengthen me during the evil day. Holy Spirit thank you for showing me the correct way and opening the eyes of my understanding of the truth. To you belongs all the glory father God, forever and ever.</p>
+<p>Lord, <br />Thank you for your word which is a shining light unto my feet. Thank you for the strength and the ability to follow your word, for in following your word I am living a higher and more fulfilled life. Thank you for your grace and mercy. I need your help oh Lord to remain pure for you. Help me to not defile your temple. I will meditate on your word daily, such that it will stay in my heart and strengthen me during the evil day. Holy Spirit thank you for showing me the correct way and opening the eyes of my understanding of the truth. To you belongs all the glory father God, forever and ever.</p>
 
-<p>In Jesus' Name<br>Amen</p>
+<p>In Jesus' Name<br />Amen</p>

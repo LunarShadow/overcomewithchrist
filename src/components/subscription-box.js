@@ -16,10 +16,21 @@ const SubscriptionBox = () => {
       captureException(ex)
     })
   }
+
   return(
-    <div className={'w-full text-white px-3 flex flex-col content-center items-center'} id={'subscribe'}>
-      <iframe id="iframewin" width="100%" height="100%"
-              src="https://zcsub-cmpzourl.maillist-manage.com/ua/Optin?od=11287ecc3f1c12&zx=1301c1e42&tD=1f17c3b0ff69c0ed&sD=1f17c3b0ff69c61a"></iframe>
+    <div className={'w-full bg-yellow-900 text-white py-12 px-3 text-center flex flex-col content-center items-center'} id={'subscribe'}>
+      <form onSubmit={handleSubmit(onSubmit)}>
+        <div className={'pb-6'}>
+          <p className={'text-4xl font-semibold'}> Stay In The Loop</p>
+          <p className={'text-xs'}> Subscribe to my newsletter for all the latest updates</p>
+        </div>
+        <div className={''}>
+          { errors?.email && <span className={'text-red-200 block'}>Please enter a valid email address.</span> }
+          { subscribedMessage && <span className={'text-amber-400 block'}> {subscribedMessage} </span> }
+          <input className={'text-black text-base rounded-full px-5 py-1 my-2 block'} type={'email'} placeholder={'Enter your email address.'} {...register("email", { required: true })} />
+          <input className={'text-black text-base bg-white rounded-full px-10 py-1 block hover:bg-primary mx-auto'} type={'submit'} value={'Sign Up'} />
+        </div>
+      </form>
     </div>
   )
 }

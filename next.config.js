@@ -14,7 +14,7 @@ const nextConfig = {
     cfg.module.rules.push(
       {
         test: /\.md$/,
-        use: 'raw-loader'
+        loader: 'frontmatter-markdown-loader'
       }
     )
     return cfg;
