@@ -2,6 +2,7 @@ import Layout from '@/components/layout'
 import PostList from '@/components/post-list'
 import {PostListProvider} from '@/context/post-list-context'
 import Image from 'next/image'
+import {generateRssFeed} from '@/utils/feed'
 
 const Post = ({content, attributes}) => {
 
@@ -26,6 +27,7 @@ const Post = ({content, attributes}) => {
 }
 
 export async function getStaticProps({...ctx}) {
+  await generateRssFeed()
   const {post} = ctx.params
   const content = await import(`../../content/posts/${post[0]}.md`)
 

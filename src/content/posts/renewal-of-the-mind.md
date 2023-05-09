@@ -7,7 +7,7 @@ summary: " Even when I feel a little depressed or sad, I still know the truth
   God has told me about my situation and can work to dismiss the lies the devil
   wants to make me believe. "
 date: January 15, 2020
-author: ""
+author: Cyntia Seumo
 ---
 <p xmlns="http://www.w3.org/1999/html">
 As someone who has been through severe depression, I know how hard the battle is to see pass those negative thoughts the devil tries to feed us as truth. There was a point where walking through a dark tunnel seemed like all life had in store for me. But really, I had unpacked my bags there and decided that’s where I was meant to be. Besides, walking through the tunnel to see if there really was a light at the end seemed like too much work. I was content with just dying in that darkness. But when I gave my life to Christ, He showed me that I didn’t have to stay there. In fact, I could not stay there! So, I packed the important stuff, and started my journey through the tunnel with Jesus Christ as my flashlight.
