@@ -5,7 +5,12 @@ const getBlogPostdata = async () => {
   return await (async (context) => {
     const keys = context.keys()
     const data = []
-    for (const key of keys) {
+    const uniqueKeys = keys.filter((fileName) => {
+      const regex = /^src.*/i
+      const matches = fileName.match(regex)
+      return matches === null
+    })
+    for (const key of uniqueKeys) {
       const fileName = key.replace(/^.*[\\\/]/, '').slice(0, -3)
       const postData = await import(`../content/posts/${fileName}.md`)
       data.push({
@@ -39,8 +44,12 @@ export const generateRssFeed = async () => {
     },
     author
   })
-
-  posts.forEach((post) => {
+  const sortedPosts = posts.sort((a, b) => {
+    const dateA = new Date(a.attributes.date)
+    const dateB = new Date(b.attributes.date)
+    return dateA < dateB ? 1 : -1
+  })
+  sortedPosts.forEach((post) => {
     const url = `${siteURL}/posts/${post.slug}`
 
     feed.addItem({
