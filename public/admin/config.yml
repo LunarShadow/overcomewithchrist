@@ -44,7 +44,7 @@ collections:
     fields: 
       - {label: "layout", name: "layout", widget: "hidden", default: "product"}
       - {label: "Product Id", name: "pid", widget: "string"}
-      - {label: "Slug", name: "test", widget: "string" }
+      - {label: "Slug", name: "slug", widget: "string" }
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Price", name: "price", widget: "number", value_type: "float"}
       - {label: "Description", name: "description", widget: 'text'}
