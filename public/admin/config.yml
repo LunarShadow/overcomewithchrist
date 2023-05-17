@@ -1,6 +1,6 @@
 backend: 
-  name: git-gateway
-#  name: test-repo
+#  name: git-gateway
+  name: test-repo
   branch: main
   publish_mode: editorial_workflow
 media_folder: public/img
@@ -42,24 +42,24 @@ collections:
     fields: 
       - {label: "layout", name: "layout", widget: "hidden", default: "product"}
       - {label: "Product Id", name: "pid", widget: "string"}
-      - {label: "Slug", name: "slug", widget: "string", default: "{{slug}}"}
+      - {label: "Slug", name: "slug", widget: "string" }
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Price", name: "price", widget: "number", value_type: "float"}
-      - {label: "Description", name: "description", widget: 'markdown'}
+      - {label: "Description", name: "description", widget: 'text'}
       - label: "Variants"
         name: "variants"
         widget: "list"
         summary: '{{fields.color}} / {{fields.size}}'
-        require: false
+        require: "false"
         fields: 
-          - {label: Varient Id, name: vid, widget: number}
-          - {label: Size, name: size, widget: string}
-          - {label: Color, name: color, widget: string}
-          - {label: SKU, name: sku, widget: number}
-          - {label: Price, name: price, widget: number, value_type: float}
+          - {label: "Variant Id", name: "variantId", widget: "number"}
+          - {label: "Size", name: "size", widget: "string"}
+          - {label: "Color", name: "color", widget: "string"}
+          - {label: "SKU", name: "sku", widget: "string"}
+          - {label: "Price", name: "price", widget: "number", value_type: "float"}
       - label: "Images"
         name: "images" 
         widget: "list" 
-        collapsed: true 
+        collapsed: true
         summary: '{{fields.image}}'
-        field: {label: Image, name: image, widget: image} 
+        field: {label: "Image", name: "image", widget: "image"}
