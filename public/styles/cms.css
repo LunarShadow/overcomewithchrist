@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@300;400;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    max-width: 80vw;
+    overflow-x: hidden;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    line-height: 2;
+    margin: 10px auto 20px auto;
+}
+
+@layer base {
+    h1, h2, h3, h4, h5, h6 {
+        @apply font-black my-2 text-center;
+    }
+    h1{
+        @apply text-4xl;
+    }
+    h2 {
+        @apply text-3xl;
+    }
+    h3, h4 {
+        @apply text-2xl;
+    }
+    h5, h6 {
+        @apply text-xl;
+    }
+
+    p {
+        @apply py-1 px-2 lg:px-5 font-light text-lg my-1 leading-loose
+    }
+
+    blockquote {
+        @apply w-full relative my-3
+    }
+    blockquote p{
+        @apply text-xl text-center p-3 !important
+    }
+
+    blockquote cite {
+        @apply text-right font-light text-neutral-500 text-base block
+    }
+
+    a {
+        @apply text-primary
+    }
+
+    b {
+        @apply font-semibold
+    }
+    em {
+        @apply italic
+    }
+
+    hr {
+        @apply border border-neutral-300 my-3
+    }
+
+    img {
+        width: 60%;
+        margin: 10px auto 10px auto;
+    }
+}
