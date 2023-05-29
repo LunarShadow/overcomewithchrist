@@ -40,6 +40,8 @@ collections:
     label: "Products"
     label_singular: "Product"
     folder: "src/content/products"
+    media_folder: "public/img"
+    public_folder: "img/shop/products"
     create: true
     fields: 
       - {label: "layout", name: "layout", widget: "hidden", default: "product"}
