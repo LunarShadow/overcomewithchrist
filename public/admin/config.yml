@@ -25,6 +25,8 @@ collections:
     label: "Posts"
     label_singular: "Post"
     folder: "src/content/posts"
+    media_folder: "public/img"
+    public_folder: "img/blog"
     create: true
     slug: "{{slug}}"
     fields:
