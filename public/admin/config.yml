@@ -42,7 +42,7 @@ collections:
     label: "Products"
     label_singular: "Product"
     folder: "src/content/products"
-    media_folder: "public/img"
+    media_folder: "public/img/shop/products"
     public_folder: "img/shop/products"
     create: true
     fields: 
