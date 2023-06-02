@@ -15,7 +15,7 @@
             "url": "http://localhost:3000/posts/things-i-learned-about-relationships",
             "title": "Things I learned about relationships",
             "summary": "I’ve never really understood why many people feel like they are incomplete if they don’t get married.",
-            "image": "http://localhost:3000/img/img_1641.jpeg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/img_1641.jpeg",
             "date_modified": "2023-05-29T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -27,7 +27,7 @@
             "url": "http://localhost:3000/posts/signs-and-wonders-how-does-god-talk-to-people",
             "title": "Signs and Wonders: How does God talk to people?",
             "summary": "What are some of the ways God can communicated with a group of people or an individual? Let’s talk about it in this post.",
-            "image": "http://localhost:3000/img/blog/5b104e4d-1ab4-44a3-8986-1349885e4503.png",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/5b104e4d-1ab4-44a3-8986-1349885e4503.png",
             "date_modified": "2023-04-29T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -39,7 +39,7 @@
             "url": "http://localhost:3000/posts/epicurean-paradox-debunked",
             "title": "Epicurean Paradox - Debunked",
             "summary": "I saw this Epicurean paradox flow chart somewhere, and they were so close to the actual answer.",
-            "image": "http://localhost:3000/img/blog/pexels-david-bartus-366791.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-david-bartus-366791.jpg",
             "date_modified": "2023-04-08T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -51,7 +51,7 @@
             "url": "http://localhost:3000/posts/lessons-learned-in-my-20s",
             "title": "Lessons Learned In My 20s",
             "summary": "My Birthday just passed, and since I'm almost 30, I decided to do a little reflecting. Here are 10 things I learned in my almost 30 years of living.",
-            "image": "http://localhost:3000/img/blog/10.png",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/10.png",
             "date_modified": "2023-03-14T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -63,7 +63,7 @@
             "url": "http://localhost:3000/posts/respect-your-body",
             "title": "Respect your body",
             "summary": "Many people have different ideas of what it means to respect one's self, but after talking with my friends, and meditating on it a bit this is what I found.",
-            "image": "http://localhost:3000/img/blog/girl-and-penguin-figurine-3274626.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/girl-and-penguin-figurine-3274626.jpg",
             "date_modified": "2022-08-19T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -75,7 +75,7 @@
             "url": "http://localhost:3000/posts/life-long-battle",
             "title": "Life-Long Battle",
             "summary": "Recently I experienced a pain episode that really shook me. So, as part of my recovery, I decided to share my battle and testimony.",
-            "image": "http://localhost:3000/img/blog/life-long-battle.png",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/life-long-battle.png",
             "date_modified": "2022-04-26T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -87,7 +87,7 @@
             "url": "http://localhost:3000/posts/is-god-a-genie",
             "title": "Is God a Genie?",
             "summary": "Do you believe that God is supposed to answer all of your prayers according to your will? Let's think about this.",
-            "image": "http://localhost:3000/img/blog/pexels-pixabay-356079-1024x619.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-356079-1024x619.jpg",
             "date_modified": "2022-04-15T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -99,7 +99,7 @@
             "url": "http://localhost:3000/posts/hope-a-poem",
             "title": "Hope - a poem",
             "summary": "Hope can be such a dangerous feeling. But if placed in the right thing, it can be very rewarding. Here is a poem that I wrote; enjoy.",
-            "image": "http://localhost:3000/img/blog/pexels-lay-low-4506159-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-lay-low-4506159-1024x682.jpg",
             "date_modified": "2022-03-25T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -111,7 +111,7 @@
             "url": "http://localhost:3000/posts/faith-without-works-is-dead",
             "title": "Faith without works is dead",
             "summary": "What does it mean to have faith and not put in the work?",
-            "image": "http://localhost:3000/img/blog/Faith-1024x576.png",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/Faith-1024x576.png",
             "date_modified": "2022-03-18T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -123,7 +123,7 @@
             "url": "http://localhost:3000/posts/3-things-to-know-about-the-universe",
             "title": "3 Things to know about the Universe",
             "summary": "What can the universe do for you? Does it bring you good fortune, or get back at people on your behalf? Read on and find out what power the universe has.",
-            "image": "http://localhost:3000/img/blog/salvation.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/salvation.jpg",
             "date_modified": "2022-03-11T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -135,7 +135,7 @@
             "url": "http://localhost:3000/posts/not-alone",
             "title": "Not Alone",
             "summary": "There will come a time when you will feel like you are alone in your belief. But you're not the only one who's felt that way.",
-            "image": "http://localhost:3000/img/blog/pexels-luis-fernandes-2422854-1024x680.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-luis-fernandes-2422854-1024x680.jpg",
             "date_modified": "2022-03-04T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -147,7 +147,7 @@
             "url": "http://localhost:3000/posts/one-way-to-examine-your-faith",
             "title": "One way to examine your faith",
             "summary": "Sometimes it's good to take a moment to examine your faith and where it lies. Where does your faith lie?",
-            "image": "http://localhost:3000/img/blog/pexels-ismael-sanchez-2282000-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-ismael-sanchez-2282000-1024x682.jpg",
             "date_modified": "2021-05-04T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -159,7 +159,7 @@
             "url": "http://localhost:3000/posts/reduce-your-negative-thoughts-by-doing-this-every-day",
             "title": "Reduce your negative thoughts by doing this every day",
             "summary": "It can be difficult sometimes to stay calm when feeling anxious, depressed, or distressed. But if you do this regularly, you'll find yourself being more in control.",
-            "image": "http://localhost:3000/img/blog/pexels-lay-low-4506159-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-lay-low-4506159-1024x682.jpg",
             "date_modified": "2021-04-17T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -171,7 +171,7 @@
             "url": "http://localhost:3000/posts/i-must-confess",
             "title": "I Must Confess!",
             "summary": "What's the difference between confessing our sins and confessing Christ?",
-            "image": "http://localhost:3000/img/blog/pexels-andrea-piacquadio-3761509-1024x768.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-andrea-piacquadio-3761509-1024x768.jpg",
             "date_modified": "2021-04-03T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -183,7 +183,7 @@
             "url": "http://localhost:3000/posts/what-does-it-mean-to-have-life",
             "title": "What does it mean to have life?",
             "summary": "I had to sit down recently and think about what it means to have (a) life. ",
-            "image": "http://localhost:3000/img/blog/pexels-zino-bang-54536-1024x768.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-zino-bang-54536-1024x768.jpg",
             "date_modified": "2021-03-06T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -195,7 +195,7 @@
             "url": "http://localhost:3000/posts/marathon-to-recovery",
             "title": "Marathon to Recovery",
             "summary": "While going through my old Gmail, I found this old blog post I wrote on September 12, 2013. This was 8 years ago, and right at the beginning of my decision to put my trust in God.",
-            "image": "http://localhost:3000/img/blog/pexels-duong-nhan-1477538-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-duong-nhan-1477538-1024x682.jpg",
             "date_modified": "2021-02-11T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -207,7 +207,7 @@
             "url": "http://localhost:3000/posts/sometimes-we-need-encouragement",
             "title": "Sometimes we need encouragement",
             "summary": "Sometimes reaching out to others about what you're going through can be very encouraging.",
-            "image": "http://localhost:3000/img/blog/pexels-william-fortunato-6140466-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-william-fortunato-6140466-1024x682.jpg",
             "date_modified": "2021-02-06T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -219,7 +219,7 @@
             "url": "http://localhost:3000/posts/what-are-my-labels",
             "title": "What are my labels?",
             "summary": "Everyone has a different take when it comes to the lgbtq+ community, here is my view on it.",
-            "image": "http://localhost:3000/img/blog/pexels-pixabay-326576-1024x598.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-326576-1024x598.jpg",
             "date_modified": "2021-01-23T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -231,7 +231,7 @@
             "url": "http://localhost:3000/posts/what-are-first-fruits",
             "title": "What are First Fruits?",
             "summary": "Giving our first fruits is a way to honor and thank the Lord for all the provisions we received in the seasons past. It’s different from tithes in that it is not 10% of our income, and it only needs to be done annually.",
-            "image": "http://localhost:3000/img/blog/pexels-ella-olsson-1458694-1024x819.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-ella-olsson-1458694-1024x819.jpg",
             "date_modified": "2021-01-09T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -243,7 +243,7 @@
             "url": "http://localhost:3000/posts/how-to-start-your-new-year-strong",
             "title": "How to start your new year strong",
             "summary": "As the year comes to an end, everyone starts to write goals and create ideas about how the next year will be.",
-            "image": "http://localhost:3000/img/blog/pexels-karolina-grabowska-5716456-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-karolina-grabowska-5716456-1024x682.jpg",
             "date_modified": "2020-12-28T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -255,7 +255,7 @@
             "url": "http://localhost:3000/posts/recap-of-the-year-2020",
             "title": "Recap of the Year 2020",
             "summary": "2020 was quite the year! This post is just a recap of all that happened to me and with me during the year 2020. Leave your comments and let me know how it was for you.",
-            "image": "http://localhost:3000/img/blog/pexels-markus-winkler-4057655-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-markus-winkler-4057655-1024x682.jpg",
             "date_modified": "2020-12-19T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -267,7 +267,7 @@
             "url": "http://localhost:3000/posts/what-is-christianity",
             "title": "What is Christianity",
             "summary": "Being a Christian is more than just going to church. It's a lifestyle, understanding, and spiritual renewal and development. Don't understand what I mean? Continue reading for more details.",
-            "image": "http://localhost:3000/img/blog/pexels-pixabay-356079-1024x619.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-356079-1024x619.jpg",
             "date_modified": "2020-11-28T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -279,7 +279,7 @@
             "url": "http://localhost:3000/posts/there-is-always-something-to-pray-about",
             "title": "There is always something to pray about",
             "summary": "Saying \"I won't pray today because I don't know what to pray about\" is no longer acceptable. Lack of a reason to pray is not a reason to not pray...",
-            "image": "http://localhost:3000/img/blog/pexels-suzy-hazelwood-1226398-1024x576.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-suzy-hazelwood-1226398-1024x576.jpg",
             "date_modified": "2020-11-21T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -291,7 +291,7 @@
             "url": "http://localhost:3000/posts/my-2020-fasting-journey",
             "title": "My 2020 Fasting Journey",
             "summary": "This year, I learned what it is to fast. Quarantine gave me the perfect opportunity to begin to learn how to have self-control when it comes to eating. ",
-            "image": "http://localhost:3000/img/blog/pexels-engin-akyurt-1907642-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-engin-akyurt-1907642-1024x682.jpg",
             "date_modified": "2020-11-07T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -303,7 +303,7 @@
             "url": "http://localhost:3000/posts/who-you-surround-yourself-with-matters",
             "title": "Who you surround yourself with matters",
             "summary": "Your friend group is very important no matter who you are. They usually end up dictating the types of habits you build.",
-            "image": "http://localhost:3000/img/blog/pexels-dennis-magati-862848-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-dennis-magati-862848-1024x682.jpg",
             "date_modified": "2020-10-24T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -315,7 +315,7 @@
             "url": "http://localhost:3000/posts/faith-over-fear",
             "title": "Faith over fear",
             "summary": "If faith is the evidence of things not seen, and the substance of things hoped for, then what is fear? Why should we make sure to continuously build our faith?",
-            "image": "http://localhost:3000/img/blog/Faith-1024x576.png",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/Faith-1024x576.png",
             "date_modified": "2020-10-16T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -327,7 +327,7 @@
             "url": "http://localhost:3000/posts/marriage-thoughts-on-courting-vs-dating",
             "title": "Marriage: Thoughts on Courting vs Dating",
             "summary": "I have been thinking a lot lately about marriage.  I have especially been considering the difference between old-style courtship and modern-day dating. ",
-            "image": "http://localhost:3000/img/blog/pexels-vjapratama-935789-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-vjapratama-935789-1024x682.jpg",
             "date_modified": "2020-10-10T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -339,7 +339,7 @@
             "url": "http://localhost:3000/posts/how-to-make-sharing-the-gospel-a-little-easier",
             "title": "How to make sharing the Gospel a little easier",
             "summary": "Bringing people to Christ can be a daunting task, but it's important to understand that it’s the Spirit within us that does most of the work. Once we understand that, here are other things we can do to help make the task a bit easier for us.",
-            "image": "http://localhost:3000/img/blog/pexels-keira-burton-6146951-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-keira-burton-6146951-1024x682.jpg",
             "date_modified": "2020-10-03T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -351,7 +351,7 @@
             "url": "http://localhost:3000/posts/why-should-we-share-the-gospel-and-bring-people-to-christ",
             "title": "Why should we share the Gospel and bring people to Christ?",
             "summary": "As Christians, it’s important that we share the word with others.",
-            "image": "http://localhost:3000/img/blog/pexels-andrea-piacquadio-2672979-1024x662.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-andrea-piacquadio-2672979-1024x662.jpg",
             "date_modified": "2020-09-12T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -363,7 +363,7 @@
             "url": "http://localhost:3000/posts/how-do-you-respond-to-sickness",
             "title": "How do you respond to sickness?",
             "summary": "Infirmities are hard to deal with and everyone deals with them differently, but in all things, I know that God will bring me through it. Sickness doesn't rule me, Christ does",
-            "image": "http://localhost:3000/img/blog/pexels-anna-shvets-3786126-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-anna-shvets-3786126-1024x682.jpg",
             "date_modified": "2020-08-15T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -375,7 +375,7 @@
             "url": "http://localhost:3000/posts/prayer-for-decernment-and-protection",
             "title": "Prayer for decernment and protection",
             "summary": "We are in tough times, but we have a tough God! If you're feeling weak, go to God in prayer, he will renew and restore your spirit.",
-            "image": "http://localhost:3000/img/blog/pexels-binti-malu-2927676-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-binti-malu-2927676-1024x682.jpg",
             "date_modified": "2020-08-01T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -387,7 +387,7 @@
             "url": "http://localhost:3000/posts/jesus’-commandments",
             "title": "Jesus’ Commandments",
             "summary": "Many people think that Jesus' commands are the 10 commandments. Lets take a deeper look at what the Bible says.",
-            "image": "http://localhost:3000/img/blog/pexels-cqfavocat-613508-1024x683.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-cqfavocat-613508-1024x683.jpg",
             "date_modified": "2020-07-25T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -399,7 +399,7 @@
             "url": "http://localhost:3000/posts/benefits-of-praying-in-tongues",
             "title": "Benefits of Praying in Tongues",
             "summary": "Before Jesus ascended into heaven, he instructed the apostles to wait on the Holy Spirit. When the Holy Spirit arrived, the first gift given was the ability to speak in tongues Acts 2:4. Which means that they were able to speak in a language that was foreign to them. Here I will tell you of 2 benefits of praying in tongues.",
-            "image": "http://localhost:3000/img/blog/pexels-luis-quintero-2774546-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-luis-quintero-2774546-1024x682.jpg",
             "date_modified": "2020-07-11T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -411,7 +411,7 @@
             "url": "http://localhost:3000/posts/what-is-my-new-nature",
             "title": "What is my new nature?",
             "summary": "I’ve been thinking lately a lot about what it means to be born again. What does it mean to become a new creature while I am still on this earth?",
-            "image": "http://localhost:3000/img/blog/pexels-andrea-piacquadio-3756168-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-andrea-piacquadio-3756168-1024x682.jpg",
             "date_modified": "2020-07-05T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -423,7 +423,7 @@
             "url": "http://localhost:3000/posts/put-on-the-full-armor-of-god",
             "title": "Put on the Full Armor of God",
             "summary": "In Ephesians 6 starting from verse 10, Paul warns everyone to be strong in the Lord and to put on his full armor. Let's take a closer look at the armor and what exactly it's protecting.",
-            "image": "http://localhost:3000/img/blog/pexels-pixabay-161936-1024x680.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-161936-1024x680.jpg",
             "date_modified": "2020-06-27T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -435,7 +435,7 @@
             "url": "http://localhost:3000/posts/a-lesson-from-shadrach-meshach-and-abednego",
             "title": "A lesson from Shadrach, Meshach, and Abednego.",
             "summary": "Who is the God that you serve? Is He your genie that you call on only when you need something? Or is He the all-powerful, almighty, creator of all the universe?",
-            "image": "http://localhost:3000/img/blog/pexels-harry-cunningham-harrydigital-3619860-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-harry-cunningham-harrydigital-3619860-1024x682.jpg",
             "date_modified": "2020-06-20T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -447,7 +447,7 @@
             "url": "http://localhost:3000/posts/psalm-42",
             "title": "Psalm 42",
             "summary": "When I get sad or discouraged, I like to read Psalm 42. I find it to be a great example of scripture that is easy to resonate with. It also reminds me to continue to look to God.",
-            "image": "http://localhost:3000/img/blog/pexels-valeria-ushakova-3094210-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-valeria-ushakova-3094210-1024x682.jpg",
             "date_modified": "2020-06-13T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -459,7 +459,7 @@
             "url": "http://localhost:3000/posts/3-things-to-keep-in-mind-as-you-grow-in-your-faith",
             "title": "3 things to Keep in Mind as you grow in your faith",
             "summary": "Being a Christian isn't always easy, but we've got to remember to stay bold and preach the good news to the world. Romans 1:16 -> For I am not ashamed of the gospel because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.",
-            "image": "http://localhost:3000/img/blog/pexels-magda-ehlers-1329291-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-magda-ehlers-1329291-1024x682.jpg",
             "date_modified": "2020-05-23T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -471,7 +471,7 @@
             "url": "http://localhost:3000/posts/how-i-view-submission",
             "title": "How I view Submission",
             "summary": "From my experience, when people think of being submissive they always think of giving up all control to someone. And by giving up all control they have thereby lost their own freedom. Just because you're submissive, doesn't mean you lose your freedom, depending on the circumstances of which you have to submit.",
-            "image": "http://localhost:3000/img/blog/pexels-pixabay-262399-626x1024.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-262399-626x1024.jpg",
             "date_modified": "2020-05-16T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -483,7 +483,7 @@
             "url": "http://localhost:3000/posts/how-this-whole-pandemic-thing-is-making-me-feel",
             "title": "How this whole pandemic thing is making me feel.",
             "summary": "The way the world is right now is very saddening. It seems no matter where you turn there is propaganda.",
-            "image": "http://localhost:3000/img/blog/pexels-andrea-piacquadio-3762939-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-andrea-piacquadio-3762939-1024x682.jpg",
             "date_modified": "2020-05-09T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -495,7 +495,7 @@
             "url": "http://localhost:3000/posts/honor-god-with-your-body",
             "title": "Honor God with your body",
             "summary": "Following God is never in vain. The things the world glorify is never worth missing out on the promise of spending eternity with the one who created us and loves us endlessly. We are worth far more than we sometimes think. This post is another testimony.",
-            "image": "http://localhost:3000/img/blog/girl-and-penguin-figurine-3274626.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/girl-and-penguin-figurine-3274626.jpg",
             "date_modified": "2020-05-02T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -507,7 +507,7 @@
             "url": "http://localhost:3000/posts/no-turning-back-my-journey-to-christ",
             "title": "No Turning Back - My Journey to Christ",
             "summary": "I made up my mind to get to know Christ my sophomore year of College. Find out why.",
-            "image": "http://localhost:3000/img/blog/pexels-alex-tim-1183986-1024x680.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-alex-tim-1183986-1024x680.jpg",
             "date_modified": "2020-04-24T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -519,7 +519,7 @@
             "url": "http://localhost:3000/posts/why-we-need-salvation",
             "title": "Why we need salvation",
             "summary": "For there to be good news, there would need to be an alternate bad situation. Lets not take for granted what we have been given. Here is why we need salvation.",
-            "image": "http://localhost:3000/img/blog/jesus-3643027_1280-1024x642.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/jesus-3643027_1280-1024x642.jpg",
             "date_modified": "2020-04-17T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -531,7 +531,7 @@
             "url": "http://localhost:3000/posts/happy-easter-2020",
             "title": "Happy Easter 2020!",
             "summary": "Happy Easter 2020!  It's not because he died, but because he rose again that we have good news to share!",
-            "image": "http://localhost:3000/img/blog/rocks-1239727_1280-1024x576.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/rocks-1239727_1280-1024x576.jpg",
             "date_modified": "2020-04-12T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -543,7 +543,7 @@
             "url": "http://localhost:3000/posts/a-conversation-about-relationships",
             "title": "A conversation about relationships",
             "summary": "Recently I started thinking about relationships and why we put so much weight on them. I needed someone to talk to about it, so I did what any sibling would do and I reached out to my little sister.",
-            "image": "http://localhost:3000/img/blog/pexels-william-fortunato-6140667-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-william-fortunato-6140667-1024x682.jpg",
             "date_modified": "2020-04-11T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -555,7 +555,7 @@
             "url": "http://localhost:3000/posts/no-matter-the-situation-god-deserves-all-the-praise",
             "title": "No matter the situation, God deserves all the praise",
             "summary": "Praising God is a way to remind us of who He is. Through every season God deserves all the praise. God doesn't stop being God despite what our situation may be.",
-            "image": "http://localhost:3000/img/blog/pexels-luis-quintero-2014775-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-luis-quintero-2014775-1024x682.jpg",
             "date_modified": "2020-04-05T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -567,7 +567,7 @@
             "url": "http://localhost:3000/posts/dont-limit-gods-forgiveness-for-you",
             "title": "Don't limit God's forgiveness for you",
             "summary": "The level of which you forgive others is the level you'll be able to accept God's forgiveness.",
-            "image": "http://localhost:3000/img/blog/pexels-victor-freitas-847483-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-victor-freitas-847483-1024x682.jpg",
             "date_modified": "2020-03-29T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -579,7 +579,7 @@
             "url": "http://localhost:3000/posts/prayer-and-thanksgiving",
             "title": "Prayer and Thanksgiving",
             "summary": "Don't worry about anything; instead, pray about everything. Tell God what you need, and thank him for all he has done. Then you will experience God's peace, which exceeds anything we can understand.",
-            "image": "http://localhost:3000/img/blog/fog-3050078_1280-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/fog-3050078_1280-1024x682.jpg",
             "date_modified": "2020-03-25T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -591,7 +591,7 @@
             "url": "http://localhost:3000/posts/how-to-begin-using-the-bible-as-a-guide-for-life",
             "title": "How to begin using the Bible as a guide for life",
             "summary": "As a babe in the faith it can be difficult to know how to use the Bible as a guide. Here are 6 steps to help propel your journey forward in learning to understand how to use your most important tool as a Christian. ",
-            "image": "http://localhost:3000/img/blog/child-945422_1280-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/child-945422_1280-1024x682.jpg",
             "date_modified": "2020-03-16T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -603,7 +603,7 @@
             "url": "http://localhost:3000/posts/i-know-who-i-am",
             "title": "I know who I am",
             "summary": "It wasn't until I started my journey into getting to know myself through Christ that I really started to understand and accept myself. I knew and accepted that God doesn't make mistakes, because He is God.",
-            "image": "http://localhost:3000/img/blog/pexels-snapwire-6945-1024x768.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-snapwire-6945-1024x768.jpg",
             "date_modified": "2020-03-13T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -615,7 +615,7 @@
             "url": "http://localhost:3000/posts/ready-to-claim-your-salvation",
             "title": "Ready to claim your salvation?",
             "summary": "If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For it is by believing in your heart that you are made right with God...",
-            "image": "http://localhost:3000/img/blog/pexels-pixabay-415571-1024x576.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-415571-1024x576.jpg",
             "date_modified": "2020-02-23T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -627,7 +627,7 @@
             "url": "http://localhost:3000/posts/before-you-can-love-your-neighbor",
             "title": "Before you can love your neighbor",
             "summary": "The best way to learn to love yourself is to first start seeing yourself the way God sees you. Because the Word of God is truth!",
-            "image": "http://localhost:3000/img/blog/pexels-pixabay-255441-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-255441-1024x682.jpg",
             "date_modified": "2020-02-14T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -639,7 +639,7 @@
             "url": "http://localhost:3000/posts/crying-out-to-god",
             "title": "Crying out to God",
             "summary": "I don't know why I feel like I must always act strong when I'm with God. It doesn't make sense, because He already knows my heart and my thoughts ",
-            "image": "http://localhost:3000/img/blog/pexels-luis-fernandes-2422854-1024x680.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-luis-fernandes-2422854-1024x680.jpg",
             "date_modified": "2020-01-21T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -651,7 +651,7 @@
             "url": "http://localhost:3000/posts/resources-for-new-christians",
             "title": "Resources for New Christians",
             "summary": " As a new believer, it can feel overwhelming trying to figure out what to do to get as close to God as the people in the faith you admire seem to be. Here are just a few places to start if you are currently in that situation.  ",
-            "image": "http://localhost:3000/img/blog/pexels-rodnae-productions-5875303-1-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-rodnae-productions-5875303-1-1024x682.jpg",
             "date_modified": "2020-01-19T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -663,7 +663,7 @@
             "url": "http://localhost:3000/posts/renewal-of-the-mind",
             "title": "Renewal of the Mind",
             "summary": " Even when I feel a little depressed or sad, I still know the truth God has told me about my situation and can work to dismiss the lies the devil wants to make me believe. ",
-            "image": "http://localhost:3000/img/blog/pexels-fillipe-gomes-5471399-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-fillipe-gomes-5471399-1024x682.jpg",
             "date_modified": "2020-01-15T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -675,7 +675,7 @@
             "url": "http://localhost:3000/posts/i-want-you-to-know",
             "title": "I want you to know",
             "summary": "I want you to know that Jesus loves you. I'm not talking about a superficial love either.",
-            "image": "http://localhost:3000/img/blog/pexels-ylanite-koppens-810036-1024x682.jpg",
+            "image": "https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-ylanite-koppens-810036-1024x682.jpg",
             "date_modified": "2020-01-10T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"

@@ -2,7 +2,7 @@
 layout: post
 title: My 2020 Fasting Journey
 category: Testimony
-featuredImage: img/blog/pexels-engin-akyurt-1907642-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-engin-akyurt-1907642-1024x682.jpg
 summary: "This year, I learned what it is to fast. Quarantine gave me the
   perfect opportunity to begin to learn how to have self-control when it comes
   to eating. "

@@ -2,7 +2,7 @@
 layout: post
 title: Not Alone
 category: Resources
-featuredImage: img/blog/pexels-luis-fernandes-2422854-1024x680.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-luis-fernandes-2422854-1024x680.jpg
 summary: There will come a time when you will feel like you are alone in your belief. But you're not the only one who's felt that way.
 date: March 04, 2022
 author: Cyntia Seumo

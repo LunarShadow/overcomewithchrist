@@ -11,7 +11,7 @@ export default function FeaturedPostCard() {
 
   useEffect(() => {
     if (featuredPost) {
-      setUrl(`/${featuredPost?.details?.featuredImage}`)
+      setUrl(featuredPost?.details?.featuredImage)
       setSlug(`/posts/${featuredPost?.slug}`)
     }
   }, [featuredPost])

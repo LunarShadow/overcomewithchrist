@@ -2,7 +2,7 @@
 layout: post
 title: Prayer for decernment and protection
 category: Prayer
-featuredImage: img/blog/pexels-binti-malu-2927676-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-binti-malu-2927676-1024x682.jpg
 summary: We are in tough times, but we have a tough God! If you're feeling weak,
   go to God in prayer, he will renew and restore your spirit.
 date: August 1, 2020

@@ -2,7 +2,7 @@
 layout: post
 title: Benefits of Praying in Tongues
 category: Bible Study
-featuredImage: img/blog/pexels-luis-quintero-2774546-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-luis-quintero-2774546-1024x682.jpg
 summary: Before Jesus ascended into heaven, he instructed the apostles to wait
   on the Holy Spirit. When the Holy Spirit arrived, the first gift given was the
   ability to speak in tongues Acts 2:4. Which means that they were able to speak

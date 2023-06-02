@@ -2,7 +2,7 @@
 layout: post
 title: Faith without works is dead
 category: Bible Study
-featuredImage: img/blog/Faith-1024x576.png
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/Faith-1024x576.png
 summary: What does it mean to have faith and not put in the work?
 date: March 18, 2022
 author: Cyntia Seumo

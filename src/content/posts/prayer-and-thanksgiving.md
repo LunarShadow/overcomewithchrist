@@ -2,7 +2,7 @@
 layout: post
 title: Prayer and Thanksgiving
 category: Prayer
-featuredImage: img/blog/fog-3050078_1280-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/fog-3050078_1280-1024x682.jpg
 summary: Don't worry about anything; instead, pray about everything. Tell God
   what you need, and thank him for all he has done. Then you will experience
   God's peace, which exceeds anything we can understand.

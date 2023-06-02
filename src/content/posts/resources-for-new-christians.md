@@ -2,7 +2,7 @@
 layout: post
 title: Resources for New Christians
 category: Resources
-featuredImage: img/blog/pexels-rodnae-productions-5875303-1-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-rodnae-productions-5875303-1-1024x682.jpg
 summary: " As a new believer, it can feel overwhelming trying to figure out what
   to do to get as close to God as the people in the faith you admire seem to be.
   Here are just a few places to start if you are currently in that situation.  "

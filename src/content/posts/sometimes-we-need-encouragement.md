@@ -2,7 +2,7 @@
 layout: post
 title: Sometimes we need encouragement
 category: Testimony
-featuredImage: img/blog/pexels-william-fortunato-6140466-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-william-fortunato-6140466-1024x682.jpg
 summary: Sometimes reaching out to others about what you're going through can be
   very encouraging.
 date: February 6, 2021

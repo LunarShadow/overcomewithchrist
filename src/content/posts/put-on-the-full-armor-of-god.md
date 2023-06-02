@@ -2,7 +2,7 @@
 layout: post
 title: Put on the Full Armor of God
 category: Bible Study
-featuredImage: img/blog/pexels-pixabay-161936-1024x680.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-161936-1024x680.jpg
 summary: In Ephesians 6 starting from verse 10, Paul warns everyone to be strong
   in the Lord and to put on his full armor. Let's take a closer look at the
   armor and what exactly it's protecting.

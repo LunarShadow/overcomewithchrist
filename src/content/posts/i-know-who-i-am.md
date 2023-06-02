@@ -2,7 +2,7 @@
 layout: post
 title: I know who I am
 category: Testimony
-featuredImage: img/blog/pexels-snapwire-6945-1024x768.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-snapwire-6945-1024x768.jpg
 summary: It wasn't until I started my journey into getting to know myself
   through Christ that I really started to understand and accept myself. I knew
   and accepted that God doesn't make mistakes, because He is God.

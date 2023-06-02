@@ -2,7 +2,7 @@
 layout: post
 title: Before you can love your neighbor
 category: Bible Study
-featuredImage: img/blog/pexels-pixabay-255441-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-255441-1024x682.jpg
 summary: The best way to learn to love yourself is to first start seeing
   yourself the way God sees you. Because the Word of God is truth!
 date: February 14, 2020

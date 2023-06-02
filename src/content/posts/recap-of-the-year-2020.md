@@ -2,7 +2,7 @@
 layout: post
 title: Recap of the Year 2020
 category: Testimony
-featuredImage: img/blog/pexels-markus-winkler-4057655-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-markus-winkler-4057655-1024x682.jpg
 summary: 2020 was quite the year! This post is just a recap of all that happened
   to me and with me during the year 2020. Leave your comments and let me know
   how it was for you.
