@@ -22,7 +22,4 @@ variants:
     sku: tp12345
     price: 13.34
 images:
-  - img/profile_pic.png
-  - img/pexels-zino-bang-54536-1024x768.jpg
-  - img/salvation.jpg
 ---

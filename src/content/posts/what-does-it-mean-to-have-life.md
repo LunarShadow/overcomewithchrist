@@ -2,7 +2,7 @@
 layout: post
 title: What does it mean to have life?
 category: Testimony
-featuredImage: img/pexels-zino-bang-54536-1024x768.jpg
+featuredImage: img/blog/pexels-zino-bang-54536-1024x768.jpg
 summary: "I had to sit down recently and think about what it means to have (a) life. "
 date: March 6, 2021
 author: Cyntia Seumo

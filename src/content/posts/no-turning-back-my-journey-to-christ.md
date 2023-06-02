@@ -2,7 +2,7 @@
 layout: post
 title: No Turning Back - My Journey to Christ
 category: Testimony
-featuredImage: img/pexels-alex-tim-1183986-1024x680.jpg
+featuredImage: img/blog/pexels-alex-tim-1183986-1024x680.jpg
 summary: I made up my mind to get to know Christ my sophomore year of College.
   Find out why.
 date: April 24, 2020

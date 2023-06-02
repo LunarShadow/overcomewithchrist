@@ -22,5 +22,4 @@ variants:
     sku: 3
     vid: 3
 images:
-  - img/pexels-duong-nhan-1477538-1024x682.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Who you surround yourself with matters
 category: Testimony
-featuredImage: img/pexels-dennis-magati-862848-1024x682.jpg
+featuredImage: img/blog/pexels-dennis-magati-862848-1024x682.jpg
 summary: Your friend group is very important no matter who you are. They usually
   end up dictating the types of habits you build.
 date: October 24, 2020

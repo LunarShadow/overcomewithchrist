@@ -2,7 +2,7 @@
 layout: post
 title: There is always something to pray about
 category: Bible Study
-featuredImage: img/pexels-suzy-hazelwood-1226398-1024x576.jpg
+featuredImage: img/blog/pexels-suzy-hazelwood-1226398-1024x576.jpg
 summary: Saying "I won't pray today because I don't know what to pray about" is
   no longer acceptable. Lack of a reason to pray is not a reason to not pray...
 date: November 21, 2020

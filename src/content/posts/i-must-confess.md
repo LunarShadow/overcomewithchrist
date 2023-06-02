@@ -2,7 +2,7 @@
 layout: post
 title: I Must Confess!
 category: Salvation
-featuredImage: img/pexels-andrea-piacquadio-3761509-1024x768.jpg
+featuredImage: img/blog/pexels-andrea-piacquadio-3761509-1024x768.jpg
 summary: What's the difference between confessing our sins and confessing Christ?
 date: April 3, 2021
 author: Cyntia Seumo

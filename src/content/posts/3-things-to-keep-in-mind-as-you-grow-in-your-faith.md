@@ -2,7 +2,7 @@
 layout: post
 title: 3 things to Keep in Mind as you grow in your faith
 category: Bible Study
-featuredImage: img/pexels-magda-ehlers-1329291-1024x682.jpg
+featuredImage: img/blog/pexels-magda-ehlers-1329291-1024x682.jpg
 summary: "Being a Christian isn't always easy, but we've got to remember to stay
   bold and preach the good news to the world. Romans 1:16 -> For I am not
   ashamed of the gospel because it is the power of God that brings salvation to

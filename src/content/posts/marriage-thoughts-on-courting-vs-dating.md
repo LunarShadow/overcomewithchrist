@@ -2,7 +2,7 @@
 layout: post
 title: "Marriage: Thoughts on Courting vs Dating"
 category: Testimony
-featuredImage: img/pexels-vjapratama-935789-1024x682.jpg
+featuredImage: img/blog/pexels-vjapratama-935789-1024x682.jpg
 summary: "I have been thinking a lot lately about marriage.  I have especially
   been considering the difference between old-style courtship and modern-day
   dating. "

@@ -2,7 +2,7 @@
 layout: post
 title: Jesus’ Commandments
 category: Bible Study
-featuredImage: img/pexels-cqfavocat-613508-1024x683.jpg
+featuredImage: img/blog/pexels-cqfavocat-613508-1024x683.jpg
 summary: Many people think that Jesus' commands are the 10 commandments. Lets
   take a deeper look at what the Bible says.
 date: July 25, 2020

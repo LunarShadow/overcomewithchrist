@@ -2,7 +2,7 @@
 layout: post
 title: How I view Submission
 category: Bible Study
-featuredImage: img/pexels-pixabay-262399-626x1024.jpg
+featuredImage: img/blog/pexels-pixabay-262399-626x1024.jpg
 summary: From my experience, when people think of being submissive they always
   think of giving up all control to someone. And by giving up all control they
   have thereby lost their own freedom. Just because you're submissive, doesn't

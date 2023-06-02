@@ -2,7 +2,7 @@
 layout: post
 title: A lesson from Shadrach, Meshach, and Abednego.
 category: Bible Study
-featuredImage: img/pexels-harry-cunningham-harrydigital-3619860-1024x682.jpg
+featuredImage: img/blog/pexels-harry-cunningham-harrydigital-3619860-1024x682.jpg
 summary: Who is the God that you serve? Is He your genie that you call on only
   when you need something? Or is He the all-powerful, almighty, creator of all
   the universe?

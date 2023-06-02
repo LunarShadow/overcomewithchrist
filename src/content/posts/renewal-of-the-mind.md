@@ -2,7 +2,7 @@
 layout: post
 title: Renewal of the Mind
 category: Testimony
-featuredImage: img/pexels-fillipe-gomes-5471399-1024x682.jpg
+featuredImage: img/blog/pexels-fillipe-gomes-5471399-1024x682.jpg
 summary: " Even when I feel a little depressed or sad, I still know the truth
   God has told me about my situation and can work to dismiss the lies the devil
   wants to make me believe. "

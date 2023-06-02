@@ -2,7 +2,7 @@
 layout: post
 title: No matter the situation, God deserves all the praise
 category: Prayer
-featuredImage: img/pexels-luis-quintero-2014775-1024x682.jpg
+featuredImage: img/blog/pexels-luis-quintero-2014775-1024x682.jpg
 summary: Praising God is a way to remind us of who He is. Through every season
   God deserves all the praise. God doesn't stop being God despite what our
   situation may be.

@@ -2,7 +2,7 @@
 layout: post
 title: What is Christianity
 category: Salvation
-featuredImage: img/pexels-pixabay-356079-1024x619.jpg
+featuredImage: img/blog/pexels-pixabay-356079-1024x619.jpg
 summary: Being a Christian is more than just going to church. It's a lifestyle,
   understanding, and spiritual renewal and development. Don't understand what I
   mean? Continue reading for more details.

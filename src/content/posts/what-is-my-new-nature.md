@@ -2,7 +2,7 @@
 layout: post
 title: What is my new nature?
 category: Salvation
-featuredImage: img/pexels-andrea-piacquadio-3756168-1024x682.jpg
+featuredImage: img/blog/pexels-andrea-piacquadio-3756168-1024x682.jpg
 summary: I’ve been thinking lately a lot about what it means to be born again.
   What does it mean to become a new creature while I am still on this earth?
 date: July 5, 2020

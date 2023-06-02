@@ -2,7 +2,7 @@
 layout: post
 title: Happy Easter 2020!
 category: Bible Study
-featuredImage: img/rocks-1239727_1280-1024x576.jpg
+featuredImage: img/blog/rocks-1239727_1280-1024x576.jpg
 summary: Happy Easter 2020!  It's not because he died, but because he rose again
   that we have good news to share!
 date: April 12, 2020
