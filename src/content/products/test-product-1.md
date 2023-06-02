@@ -22,4 +22,5 @@ variants:
     sku: tp12345
     price: 13.34
 images:
+  - img/shop/products/one_way_jacket-5.jpg
 ---
