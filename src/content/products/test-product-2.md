@@ -22,6 +22,6 @@ variants:
     sku: tp12345
     price: 13.34
 images:
-  - img/shop/products/to_die_for_crop_3.jpg
-  - img/shop/products/to_die_for_crop.jpg
+  - https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671886/shop/products/one_way_jacket-2_dz16ll.jpg
+  - https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671887/shop/products/to_die_for_crop_4_m00xgi.jpg
 ---
