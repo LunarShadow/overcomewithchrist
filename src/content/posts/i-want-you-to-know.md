@@ -2,7 +2,7 @@
 layout: post
 title: I want you to know
 category: Salvation
-featuredImage: img/pexels-ylanite-koppens-810036-1024x682.jpg
+featuredImage: img/blog/pexels-ylanite-koppens-810036-1024x682.jpg
 summary: I want you to know that Jesus loves you. I'm not talking about a
   superficial love either.
 date: January 10, 2020

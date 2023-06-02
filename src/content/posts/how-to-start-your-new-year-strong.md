@@ -2,7 +2,7 @@
 layout: post
 title: How to start your new year strong
 category: Resources
-featuredImage: img/pexels-karolina-grabowska-5716456-1024x682.jpg
+featuredImage: img/blog/pexels-karolina-grabowska-5716456-1024x682.jpg
 summary: As the year comes to an end, everyone starts to write goals and create
   ideas about how the next year will be.
 date: December 28, 2020

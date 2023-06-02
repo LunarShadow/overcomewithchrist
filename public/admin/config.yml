@@ -25,6 +25,8 @@ collections:
     label: "Posts"
     label_singular: "Post"
     folder: "src/content/posts"
+    media_folder: "public/img/blog"
+    public_folder: "img/blog"
     create: true
     slug: "{{slug}}"
     fields:
@@ -40,6 +42,8 @@ collections:
     label: "Products"
     label_singular: "Product"
     folder: "src/content/products"
+    media_folder: "public/img/shop/products"
+    public_folder: "img/shop/products"
     create: true
     fields: 
       - {label: "layout", name: "layout", widget: "hidden", default: "product"}

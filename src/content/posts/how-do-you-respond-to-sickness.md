@@ -2,7 +2,7 @@
 layout: post
 title: How do you respond to sickness?
 category: Testimony
-featuredImage: img/pexels-anna-shvets-3786126-1024x682.jpg
+featuredImage: img/blog/pexels-anna-shvets-3786126-1024x682.jpg
 summary: Infirmities are hard to deal with and everyone deals with them
   differently, but in all things, I know that God will bring me through it.
   Sickness doesn't rule me, Christ does

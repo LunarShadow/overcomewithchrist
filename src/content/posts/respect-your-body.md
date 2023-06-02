@@ -2,7 +2,7 @@
 layout: post
 title: Respect your body
 category: Testimony
-featuredImage: img/girl-and-penguin-figurine-3274626.jpg
+featuredImage: img/blog/girl-and-penguin-figurine-3274626.jpg
 summary: Many people have different ideas of what it means to respect one's self, but after talking with my friends, and meditating on it a bit this is what I found.
 date: August 19, 2022
 author: Cyntia Seumo

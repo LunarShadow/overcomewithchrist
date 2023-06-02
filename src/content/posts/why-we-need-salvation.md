@@ -2,7 +2,7 @@
 layout: post
 title: Why we need salvation
 category: Salvation
-featuredImage: img/jesus-3643027_1280-1024x642.jpg
+featuredImage: img/blog/jesus-3643027_1280-1024x642.jpg
 summary: For there to be good news, there would need to be an alternate bad
   situation. Lets not take for granted what we have been given. Here is why we
   need salvation.

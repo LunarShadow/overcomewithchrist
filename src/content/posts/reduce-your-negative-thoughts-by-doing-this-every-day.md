@@ -2,7 +2,7 @@
 layout: post
 title: Reduce your negative thoughts by doing this every day
 category: Resources
-featuredImage: img/pexels-lay-low-4506159-1024x682.jpg
+featuredImage: img/blog/pexels-lay-low-4506159-1024x682.jpg
 summary: It can be difficult sometimes to stay calm when feeling anxious,
   depressed, or distressed. But if you do this regularly, you'll find yourself
   being more in control.

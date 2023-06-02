@@ -4,7 +4,7 @@
         <title>Overcome with Christ</title>
         <link>http://localhost:3000</link>
         <description>John 16:33</description>
-        <lastBuildDate>Tue, 16 May 2023 17:01:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 01:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,23 @@
             <link>http://localhost:3000</link>
         </image>
         <copyright>All rights reserved 2023, Overcome with Christ</copyright>
+        <item>
+            <title><![CDATA[Things I learned about relationships]]></title>
+            <link>http://localhost:3000/posts/things-i-learned-about-relationships</link>
+            <guid>http://localhost:3000/posts/things-i-learned-about-relationships</guid>
+            <pubDate>Mon, 29 May 2023 05:00:00 GMT</pubDate>
+            <description><![CDATA[I’ve never really understood why many people feel like they are incomplete if they don’t get married.]]></description>
+            <content:encoded><![CDATA[<p>The topic of marriage has always been a controversial topic for me. I’ve never really understood why many people feel like they are incomplete if they don’t get married.</p>
+<p>In pursuit of answers, I’ve asked a lot of my friends about it, I’ve observed different dynamics in marriages, and I’ve tried to see what the Bible says about marriage.</p>
+<p>In my rebelliousness towards marriage, I would alway stick to and meditate on Paul’s recommendation to not get married, or get married to sooth “burning passion” as he calls it. Or even Jesus’ own words about how some people choose to or are born to be eunuchs, and how there’s no marriage in heaven.</p>
+<p>But recently, after meditating on the topic and with a little more openness to the concept of marriage, I’ve learned that there is a purpose in marriage. While everyone can create their purpose, God has also given us a purpose for marriage.</p>
+<p>After speaking with my Pastor and many of the leaders that I consider mentors, I’ve come to see that the purpose of marriage is not just to please ourselves but to increase the kingdom of God. Whether that’s through doing ministry together, or in creating a godly seed.</p>
+<p>When God is truly in a marriage, the marriage will bring him glory, and will expand his kingdom. I’ve seen that the marriages where both couples are on one accord spiritually manage to overcome a lot more adversaries smoothly.</p>
+<p>Upon meditating on these things further I’ve come to realize that dating is still annoying and borderline unnecessary; standards are important and so is faith in God that he will direct you to the right person; boundaries are very important and don’t have to make sense to others; and it’s a good thing to want to have a family because having a godly family is also a way to bring glory to God.</p>
+<p>I’m always so grateful to have the Holy Spirit and a teachable heart and mind. I’ve grown so much by listening to him, and meditating on the word of God. Many things in this world don’t make sense, but I’m forever grateful to the Holy Spirit who sheds light on all my thoughts and doubts no matter how simple or complex.</p>
+]]></content:encoded>
+            <enclosure url="http://localhost:3000/img/img_1641.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Signs and Wonders: How does God talk to people?]]></title>
             <link>http://localhost:3000/posts/signs-and-wonders-how-does-god-talk-to-people</link>
@@ -28,7 +45,7 @@
 <p>Finally, be careful your thoughts towards the positions God has assigned people: specifically your Pastor. Remember what happened to Mariam when she rebelled towards Moses, To Eli’s family line because of his son’s misconduct in their priestly duties, and to King Saul because he did not seek out a prophet but consulted mediums instead. God really cares about the organizational structures he’s put in place, and would not that anyone should mock him in disregard to these things.</p>
 <p>Yes, signs and wonders, dreams and visions, and angelic visitations happen, but those are more rare than another ordinary looking individual coming to you as the voice of God for that situation.</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/5b104e4d-1ab4-44a3-8986-1349885e4503.png" length="0" type="image/png"/>
+            <enclosure url="http://localhost:3000/img/blog/5b104e4d-1ab4-44a3-8986-1349885e4503.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Epicurean Paradox - Debunked]]></title>
@@ -50,7 +67,7 @@
 <p>Rather than destroy everything and “start over” he decided to let everything play out. He holds all the pieces to the puzzle, and He decides how he wants to solve that puzzle. Does a clay pot ask its potter “Why did you make me”?</p>
 <hr />
 <p>What do you think of this explanation? Am I missing anything? Do you have any additional questions? Contact me and let me know. </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-david-bartus-366791.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-david-bartus-366791.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lessons Learned In My 20s]]></title>
@@ -59,75 +76,72 @@
             <pubDate>Tue, 14 Mar 2023 05:00:00 GMT</pubDate>
             <description><![CDATA[My Birthday just passed, and since I'm almost 30, I decided to do a little reflecting. Here are 10 things I learned in my almost 30 years of living.]]></description>
             <content:encoded><![CDATA[<iframe class="w-10/12 aspect-video mx-auto" src="https://www.youtube.com/embed/x85P-a8KZzI" allow="encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
-<p></p>
-<p></p>
-<p>Some of the things I might say here may sound extreme, but I’m okay with that. In this lukewarm world, people who know what they want always seem extreme.</p>
-<p>Today I am going to discuss 10 things I learned in my almost 3 decades of being alive. My birthday just passed and I’m only a couple of years from being 30, So I decided not was a good time to impart some wisdom to y’all and also reflect on some lessons learned, most of them the hard way.</p>
-<p>Jumping right into it:</p>
+<p>Some of the things I might say here may sound extreme, but I’m okay with that. In this lukewarm world, people who know what they want always seem extreme.
+Today I am going to discuss 10 things I learned in my almost 3 decades of being alive. My birthday just passed and I’m only a couple of years from being 30, So I decided not was a good time to impart some wisdom to y’all and also reflect on some lessons learned, most of them the hard way.
+Jumping right into it:</p>
 <ol class="blog-list">
-<p>
 <li><b>There’s no point being fake, just be yourself</b>
 <ul class="blog-list">
 <li>There’s only one of you, so learn who you are and be that</li>
 <li>It’s okay to standout sometimes, being different isn’t always bad</li>
 <li>It’s easier to build on something genuine than to continue to figure out something fake </li></ul>
-</li></p>
-<p><li><b>Your friend circle is crucial</b>
+</li>
+<li><b>Your friend circle is crucial</b>
 <ul class="blog-list">
 <li>Have friends that are genuine and that you can be genuine with</li>
 <li>Have friends that keep you accountable</li></ul>
-</li></p>
-<p><li><b>The world doesn’t revolve around you</b>
+</li>
+<li><b>The world doesn’t revolve around you</b>
 <ul class="blog-list">
    <li>It revolves around Christ</li>
    <li>Let your pride be in the Lord</li>
    <li>Life moves on</li></ul>
-</li></p>
-<p><li><b>Don’t do business with unstable people</b>
+</li>
+<li><b>Don’t do business with unstable people</b>
 <ul class="blog-list">
    <li>Either you do them a solid, or you say no</li>
    <li>Don’t mingle business relationships with friendships when the person has shown themselves to not be professional</li></ul>
-</li></p>
-<p><li><b>You don’t have to feel guilty</b>
+</li>
+<li><b>You don’t have to feel guilty</b>
 <ul class="blog-list">
    <li>Guilt is different from remorse</li>
    <li>God doesn’t make people feel guilty, the devil does</li>
    <li> Don’t do anything for people because you feel guilty, do it because you want to help and are able to help</li>
    <li>You’re not the only person who can help someone, so don’t feel pressured to help everyone</li></ul>
-</li></p>
-<p><li><b>Emotional Intelligence is important</b>
+</li>
+<li><b>Emotional Intelligence is important</b>
 <ul class="blog-list">
   <li>Otherwise people will be too quick to manipulate you</li>
   <li>You’ll have a hard time keeping any kind of relationship if you’re not able to assess your emotions properly</li>
   <li> Accept that emotions can sometimes be unreasonable, but necessary. They should be guiding factors but not decision-makers.</li></ul>
-</li></p>
-<p><li><b>It’s okay to lose friends</b>
+</li>
+<li><b>It’s okay to lose friends</b>
 <ul class="blog-list">
     <li>Not everyone that you are or were close to needs to continue to be in your life</li>
     <li>Some friendships are useful only for a season</li>
     <li>The Holy Spirit is a better friend than any person could be</li></ul>
- </li></p>
-<p><li><b>It’s okay to have standards and set boundaries</b>
+ </li>
+<li><b>It’s okay to have standards and set boundaries</b>
 <ul class="blog-list">
     <li> You respect yourself more when you can stand up for what you believe in.</li>
     <li>People also respect you more when they know you have respect for yourself</li>
    <li>People don’t need to understand the reason behind your boundaries, they just need to understand where you draw the line</li></ul>
-</li></p>
-<p><li><b>Dating for fun is a waste of time</b>
+</li>
+<li><b>Dating for fun is a waste of time</b>
 <ul class="blog-list">
     <li>I don’t know why people enjoy heartbreak so much.</li>
     <li> Dating intentionally makes it easier to know when it’s time to move on.</li>
     <li>If you don’t know what you want, you could end up with what you don’t want.</li>
     <li> Giving someone a chance doesn’t have to result in dating. People can prove themselves in friendship</li></ul>
-</li></p>
-<p><li><b> You’re not responsible for people’s actions</b>
+</li>
+<li><b> You’re not responsible for people’s actions</b>
 <ul class="blog-list">
     <li>Ultimately people make their own choices</li>
     <li>You don’t have to be extra anything to get people to do xyz.</li>
     <li>People will show you who they are if you just watch.</li></ul>
-</li></p>
+</li>
 </ol>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/10.png" length="0" type="image/png"/>
+            <enclosure url="http://localhost:3000/img/blog/10.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Respect your body]]></title>
@@ -189,7 +203,7 @@
 <p>Lord, <br />Thank you for your word which is a shining light unto my feet. Thank you for the strength and the ability to follow your word, for in following your word I am living a higher and more fulfilled life. Thank you for your grace and mercy. I need your help oh Lord to remain pure for you. Help me to not defile your temple. I will meditate on your word daily, such that it will stay in my heart and strengthen me during the evil day. Holy Spirit thank you for showing me the correct way and opening the eyes of my understanding of the truth. To you belongs all the glory father God, forever and ever.</p>
 <p>In Jesus' Name<br />Amen</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/girl-and-penguin-figurine-3274626.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/girl-and-penguin-figurine-3274626.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Life-Long Battle]]></title>
@@ -214,7 +228,7 @@
 <p>I cast out every demon of infirmity looking to take root within me in Jesus' Name. </p>
 <p>I am sound, I'm strong, I am well, I am loved, I am free, I am full of health in Jesus' Name.</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/life-long-battle.png" length="0" type="image/png"/>
+            <enclosure url="http://localhost:3000/img/blog/life-long-battle.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Is God a Genie?]]></title>
@@ -236,7 +250,7 @@
 <cite>Daniel 3:17-18 NLT</cite>
 </blockquote>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-pixabay-356079-1024x619.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-pixabay-356079-1024x619.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hope - a poem]]></title>
@@ -269,7 +283,7 @@
 <p>Not just for a moment, but for eternity;</p>
 <p>Jesus Christ, the one true God.</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-lay-low-4506159-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-lay-low-4506159-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Faith without works is dead]]></title>
@@ -286,7 +300,7 @@
 <p>So then what about the commandments that Jesus has given us? Well, we don't do those works because of faith, but out of love. Jesus said the one who loves him, does as he has commanded (<a>John 14:15</a>). Therefore, we love God, love our neighbors, and walk in righteousness because we love him (<a>1 John 4:19</a>). Let's not confuse actions done for love with works resulting from faith.</p>
 <p>Have any questions or additions? Leave them in the comments below and let's have a discussion.</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/Faith-1024x576.png" length="0" type="image/png"/>
+            <enclosure url="http://localhost:3000/img/blog/Faith-1024x576.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[3 Things to know about the Universe]]></title>
@@ -307,7 +321,7 @@
 <p>On the day of judgment, there will be no room for this current earth and its surrounding heavens: its atmosphere and the current universe (<a>Revelation 20:11</a>). This universe and earth will disappear, and a new universe and earth will be brought down by the Lord almighty (<a>2 Peter 3:13</a>, <a>Revelation 21:1-2</a>). So, if you're looking to the universe for guidance, help, or counsel, know that you are relying on something that will pass away. Besides, there is something greater than the universe: Jesus Christ, the Son of God.</p>
 <p>Have anything to add on the topic? Leave a comment below and let's have a discussion. </p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/salvation.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/salvation.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Not Alone]]></title>
@@ -324,7 +338,7 @@
 <p>Sometimes it might feel like we are the only ones walking the narrow road, but I'm here to tell you, you are not alone! Keep going, keep standing firm, and know that others are fighting alongside with you.</p>
 <p>Have any testimonies to share on this? Let's encourage each other in the comments.</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-luis-fernandes-2422854-1024x680.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-luis-fernandes-2422854-1024x680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[One way to examine your faith]]></title>
@@ -348,7 +362,7 @@ Oh Lord, I pray that we, as your dear children, never take what you have done li
 <p>
 In Jesus’ Name, Amen.
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-ismael-sanchez-2282000-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-ismael-sanchez-2282000-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Reduce your negative thoughts by doing this every day]]></title>
@@ -384,7 +398,7 @@ Check out my previous post <a href="https://overcomewithchrist.com/posts/renewal
 <p>Study this Book of Instruction continually. Meditate on it day and night so you will be sure to obey everything written in it. Only then will you prosper and succeed in all you do.</p>
 <cite>Joshua 1:8</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-lay-low-4506159-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-lay-low-4506159-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Must Confess!]]></title>
@@ -420,7 +434,7 @@ If you aren't born again what are you waiting for? Check out my post: <a href="h
 <p>If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved.</p>
 <cite>Romans 10:9-10</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-andrea-piacquadio-3761509-1024x768.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-andrea-piacquadio-3761509-1024x768.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[What does it mean to have life?]]></title>
@@ -448,7 +462,7 @@ Never again will I declare such a lie as I have no life. If you are in Christ, I
 <p>I came that they may have life, and have it in abundance [to the full, till it overflows].</p>
 <cite>John 10:10</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-zino-bang-54536-1024x768.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-zino-bang-54536-1024x768.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Marathon to Recovery]]></title>
@@ -488,7 +502,7 @@ And like Tenth Avenue North sings in their song <span class="fbUnderline"><em><b
 <hr />
 <p>Can you remember where you were 8 years ago? How far has the Lord taken you? Share in the comments.</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-duong-nhan-1477538-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-duong-nhan-1477538-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sometimes we need encouragement]]></title>
@@ -510,7 +524,7 @@ Christ has given us everything he has: yet, somehow, I continue to make mundane 
 <p>
 I don't want to go on too much of a rant, so I will stop there. Share in the comments below something that Christ has called you to do that you have been hesitant to respond to. Why are you being hesitant? Let's have a discussion and encourage each other!
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-william-fortunato-6140466-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-william-fortunato-6140466-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[What are my labels?]]></title>
@@ -541,7 +555,7 @@ I still have people who second guess my sexuality because of how I dress, behave
 <p>
 I pray that everyone would have clarity in the truth of who they are and that they would understand God does not make mistakes. I pray against the veil of deception that is causing confusion within people: may it be lifted, allowing freedom to come through truth.
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-pixabay-326576-1024x598.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-pixabay-326576-1024x598.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[What are First Fruits?]]></title>
@@ -549,38 +563,24 @@ I pray that everyone would have clarity in the truth of who they are and that th
             <guid>http://localhost:3000/posts/what-are-first-fruits</guid>
             <pubDate>Sat, 09 Jan 2021 06:00:00 GMT</pubDate>
             <description><![CDATA[Giving our first fruits is a way to honor and thank the Lord for all the provisions we received in the seasons past. It’s different from tithes in that it is not 10% of our income, and it only needs to be done annually.]]></description>
-            <content:encoded><![CDATA[<blockquote><p>Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing and your vats will brim over with new wine.</p>
+            <content:encoded><![CDATA[<blockquote>Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing and your vats will brim over with new wine.
 <cite> Proverbs 3:9-10 </cite></blockquote>
-<p>
-In <a>Leviticus 23:9-10</a>, God tells Moses to inform the people that they should bring him the first crops of their first harvest season in the promised land. In their obedience, they would remember that they were in the land that the Lord promised them.
-</p>
-<p>
-Giving our first fruits is a way to honor and thank the Lord for all the provisions we received in the seasons past. It’s different from tithes in that it is not 10% of our income, and it only needs to be done annually; and it can also be done when God blesses us with a new job or business venture.
-</p>
-<p>
-How much you give depends on how much you want to honor God with. It could be your first yearly paycheck, your first month's worth of income, your first paycheck from your new source of income, or any other amount you care to honor the Lord with. However, before deciding how much to give, I would strongly advise praying about it first; and when you give, be sure to give freely and not grudgingly.
-</p>
+<p>In <a>Leviticus 23:9-10</a>, God tells Moses to inform the people that they should bring him the first crops of their first harvest season in the promised land. In their obedience, they would remember that they were in the land that the Lord promised them.</p>
+<p>Giving our first fruits is a way to honor and thank the Lord for all the provisions we received in the seasons past. It’s different from tithes in that it is not 10% of our income, and it only needs to be done annually; and it can also be done when God blesses us with a new job or business venture.</p>
+<p>How much you give depends on how much you want to honor God with. It could be your first yearly paycheck, your first month's worth of income, your first paycheck from your new source of income, or any other amount you care to honor the Lord with. However, before deciding how much to give, I would strongly advise praying about it first; and when you give, be sure to give freely and not grudgingly.</p>
 <h5>Why give first fruits?</h5>
-<p>
 <ul class="blog-list">
  	<li>Giving our first fruits means giving our best to God.</li>
  	<li>Giving our first fruits opens us up to the working of God in our lives.</li>
  	<li>Giving our first fruits shows where our priorities lie.</li>
  	<li>Giving our first fruits shows our obedience.</li>
 </ul>
-</p>
-<p>
-When giving, whether in tithes, seeds, offerings, etc., don’t think about it as giving to the physical church, but as giving to the Lord. Your giving first and foremost shows your obedience and reverence for God. Your giving will be used for the expansion of the Kingdom of God. Remember, it all belongs to God (and you by inheritance).
-</p>
-<p>
-This year I gave my first month's income as my first fruit sacrifice. It was tough because I kept thinking about all that I am saving towards. But then I had to remind myself that the Lord is my provider! I lack in nothing, neither do I want in anything because the Lord is my shepherd! I only have to stay obedient. As Psalm 91:1 says “He that dwelleth in the secret place of the most high, shall abide in the shadow of the almighty”. Therefore I declare: I abide in the shadow of the almighty!
-</p>
-<p>
-I challenge you to give your first month's worth of income and see how your year pans out! Let me know in the comments if you accepted the challenge.
-</p>
-<blockquote><p>The first of the ripe fruits and all the gifts brought to the Lord will go to the priests. The first batch of dough must also be given to the priests so the Lord will bless your homes.</p>
+<p>When giving, whether in tithes, seeds, offerings, etc., don’t think about it as giving to the physical church, but as giving to the Lord. Your giving first and foremost shows your obedience and reverence for God. Your giving will be used for the expansion of the Kingdom of God. Remember, it all belongs to God (and you by inheritance).</p>
+<p>This year I gave my first month's income as my first fruit sacrifice. It was tough because I kept thinking about all that I am saving towards. But then I had to remind myself that the Lord is my provider! I lack in nothing, neither do I want in anything because the Lord is my shepherd! I only have to stay obedient. As Psalm 91:1 says “He that dwelleth in the secret place of the most high, shall abide in the shadow of the almighty”. Therefore I declare: I abide in the shadow of the almighty!</p>
+<p>I challenge you to give your first month's worth of income and see how your year pans out! Let me know in the comments if you accepted the challenge.</p>
+<blockquote>The first of the ripe fruits and all the gifts brought to the Lord will go to the priests. The first batch of dough must also be given to the priests so the Lord will bless your homes.
 <cite>Ezekiel 44:30</cite></blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-ella-olsson-1458694-1024x819.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-ella-olsson-1458694-1024x819.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How to start your new year strong]]></title>
@@ -611,7 +611,7 @@ Every year has a purpose, especially as we draw closer to the Lord's return. Alw
 </p>
 <cite>Ephesians 4:30 NLT</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-karolina-grabowska-5716456-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-karolina-grabowska-5716456-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Recap of the Year 2020]]></title>
@@ -619,10 +619,7 @@ Every year has a purpose, especially as we draw closer to the Lord's return. Alw
             <guid>http://localhost:3000/posts/recap-of-the-year-2020</guid>
             <pubDate>Sat, 19 Dec 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[2020 was quite the year! This post is just a recap of all that happened to me and with me during the year 2020. Leave your comments and let me know how it was for you.]]></description>
-            <content:encoded><![CDATA[<p>
-2020 was quite the year! It was full of ups and downs for many but for me, it was full of joy and peace. This post is to give thanks to God for all he has done for me throughout this year. I have so many testimonies of what the Lord has done, but I will only name a few.
-</p>
-<p>
+            <content:encoded><![CDATA[<p>2020 was quite the year! It was full of ups and downs for many but for me, it was full of joy and peace. This post is to give thanks to God for all he has done for me throughout this year. I have so many testimonies of what the Lord has done, but I will only name a few.</p>
 <ul class="blog-list">
  	<li>I got a significant raise at the beginning of the year.</li>
  	<li>The Lord preserved me at my job when 28 people got let go, including my manager, mentor, and the only other junior in the office.</li>
@@ -640,14 +637,10 @@ Every year has a purpose, especially as we draw closer to the Lord's return. Alw
  	<li>I never lacked anything that I needed during this year.</li>
  	<li>My relationship with God has improved drastically!</li>
 </ul>
-</p>
-<p>
-The list goes on and on. I praise God for everything He has done. I thank him for the peace and joy that comes with my salvation. I thank him for who He is and for who He has made me. Words are not enough to express my immense gratitude! I exalt and worship His wonderful name. There is no other God as great, as powerful, and as loving as Jesus!
-</p>
-<p>
-How did your 2020 go? Do you have any testimonies you would like to share? Do you need prayer? Let me know down in the comments!
-</p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-markus-winkler-4057655-1024x682.jpg" length="0" type="image/jpg"/>
+<p>The list goes on and on. I praise God for everything He has done. I thank him for the peace and joy that comes with my salvation. I thank him for who He is and for who He has made me. Words are not enough to express my immense gratitude! I exalt and worship His wonderful name. There is no other God as great, as powerful, and as loving as Jesus!</p>
+<p>How did your 2020 go? Do you have any testimonies you would like to share? Do you need prayer? Let me know down in the comments!</p>
+]]></content:encoded>
+            <enclosure url="http://localhost:3000/img/blog/pexels-markus-winkler-4057655-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[What is Christianity]]></title>
@@ -673,7 +666,7 @@ Being a Christian is a renewal and development of your spirit. When you got born
 <p>
 Do not take what you have been given for granted. Your life should change once you are born again. It could change slowly or suddenly, but either way, there will be a change. Yield to the Holy Spirit because He now dwells in you. You are the temple of God so keep your temple holy (<a>1 Corinthians 3:16</a>). Know also that you still have free will, so choose to do godly things and not worldly things.
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-pixabay-356079-1024x619.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-pixabay-356079-1024x619.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[There is always something to pray about]]></title>
@@ -705,7 +698,7 @@ When you fellowship with the Holy Spirit, you will find yourself feeling refresh
 These are things that I've learned I can always pray about. So saying "I won't pray today because I don't know what to pray about" is no longer acceptable. Lack of a reason to pray is not a reason to not pray.
 If I pray regardless of these feelings, the Holy Spirit will bring fort things to pray about. This is why it's important to learn how to pray in the Spirit (<a>Romans 8:26</a>, <a>1 Corinthians 14:</a>).
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-suzy-hazelwood-1226398-1024x576.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-suzy-hazelwood-1226398-1024x576.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[My 2020 Fasting Journey]]></title>
@@ -728,7 +721,7 @@ After being consistent in my fasting, I started to see the benefits of being abl
 <p>
 Since then, I've been able to offer myself as a living sacrifice more often to the Lord by being more open to the prompting of the Holy Spirit to fast. However, it's not always easy. Through it all, I've learned a lot about what I can do because of the abilities that Christ has given me through his Spirit. I've learned that I can practice self-control. I still love food, but I also love having a lighter body and a clearer mind.
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-engin-akyurt-1907642-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-engin-akyurt-1907642-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Who you surround yourself with matters]]></title>
@@ -766,7 +759,7 @@ All this to say, it's okay if God takes you out of certain relationships that me
 <blockquote>
 <p>But now I am writing to you that you must not associate with anyone who claims to be a brother or sister but is sexually immoral or greedy, an idolater or slanderer, a drunkard or swindler. Do not even eat with such people.</p>
 <cite>1 Corinthians 5:11(NIV)</cite></blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-dennis-magati-862848-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-dennis-magati-862848-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Faith over fear]]></title>
@@ -785,7 +778,7 @@ All this to say, it's okay if God takes you out of certain relationships that me
 <p>And it is impossible to please God without faith. Anyone who wants to come to him must believe that God exists and that he rewards those who sincerely seek him.</p>
 <cite>Hebrews 11:6</cite></blockquote>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/Faith-1024x576.png" length="0" type="image/png"/>
+            <enclosure url="http://localhost:3000/img/blog/Faith-1024x576.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Marriage: Thoughts on Courting vs Dating]]></title>
@@ -813,7 +806,7 @@ All this to say, it's okay if God takes you out of certain relationships that me
 <cite>1 Corinthians 13:4-5 NLT</cite></blockquote>
 <p>See my other post on relationship: <a href="https://overcomewithchrist.com/posts/a-conversation-about-relationships/">A conversation about relationships</a></p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-vjapratama-935789-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-vjapratama-935789-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How to make sharing the Gospel a little easier]]></title>
@@ -843,7 +836,7 @@ If they don't want to hear it or are in a hurry, or sometimes even rude; try not
 <p>
 This is a continuation of my previous post: <a href="https://overcomewithchrist.com/posts/why-should-we-share-the-gospel-and-bring-people-to-christ/">Why should we share the Gospel and bring people to Christ?</a>
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-keira-burton-6146951-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-keira-burton-6146951-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Why should we share the Gospel and bring people to Christ?]]></title>
@@ -861,7 +854,7 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
 <p><a>Matthew 24:14</a> lets us know that the end will come when the Gospel is heard by all nations. If you’re like me, and you’re ready for Jesus to come back already, then preach the Word! We have this responsibility, and when Jesus does come back, I want to be able to show that I did my best to bring his sheep back to him.</p>
 <p>There are some things that are sometimes easier said than done and depending on your personality type, this could be one of them. Look out for a future post on how to make sharing the gospel a little easier. Hopefully, that will give you some good tips to help you put this into practice.</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-andrea-piacquadio-2672979-1024x662.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-andrea-piacquadio-2672979-1024x662.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How do you respond to sickness?]]></title>
@@ -877,7 +870,7 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
 <p>When I accepted Christ, I was born again, I became a new creature (<a>2 Corinthians 5:17</a>). I may have been born into this world with sickle cell, but I was reborn in the spirit realm perfectly whole, lacking in nothing. I don't fear getting a pain crisis, I don't fear getting sick. Sure, I may still get symptoms, but it's nothing I can't overcome with God. Besides, to live is Christ and to die is gain (<a>Philippians 1:21</a>).</p>
 <p>Infirmities are hard to deal with and everyone deals with them differently, but in all things, I know that God will bring me through it. Sickness doesn't rule me, Christ does, because greater is He that is in me, than he that is in the world (<a>1 John 4:4</a>).</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-anna-shvets-3786126-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-anna-shvets-3786126-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Prayer for decernment and protection]]></title>
@@ -891,7 +884,7 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
 <p>Holy spirit, I thank you for your guidance, I thank you for your comfort, and I thank you for leading me in paths of righteousness! I thank you for with you my cup overflows with blessings, and with grace. Your mercy is never-ending, they are new every morning!</p>
 <p>I give you all the honor, all the glory, and all the praise. In Jesus' Name, Amen!</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-binti-malu-2927676-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-binti-malu-2927676-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jesus’ Commandments]]></title>
@@ -904,7 +897,7 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
 <p>You may be wondering, what about the 10 commandments? God gave the law to Moses for the Israelis to follow in the Old Testament. It was given as a standard for righteousness and also to show people just how hard it is to be sinless by their own effort. It exemplifies why we need a savior. Jesus overcame the law when he died on the cross (<a>Romans 10:3-4</a>). Paul also reiterates <a>Matthew 22:40</a> in <a>Galatians 5 verse 14</a> saying “For the whole law can be summed up in this one command: “Love your neighbor as yourself”.</p>
 <p>John points out in <a>1 John 2:7</a> that this command is not new! It may seem new, but it really isn't. It is just been rephrased. <a>Verse 9 of 1 John 2</a> also states that if you claim to love God and hate your neighborhood, then you are living in darkness. He says this after telling us in <a>verse 5</a> of the previous chapter, that God is light, and there is no darkness in him at all! If you're living in darkness, then God has no part in you! So always strive to live in the light! Remember, “Three things will last forever—faith, hope, and love—and the greatest of these is love” (<a>1 Corinthians 13</a>).</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-cqfavocat-613508-1024x683.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-cqfavocat-613508-1024x683.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Benefits of Praying in Tongues]]></title>
@@ -929,7 +922,7 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
 <p>But you, dear friends, must build each other up in your most holy faith,<b> pray in the power of the Holy Spirit</b>, and await the mercy of our Lord Jesus Christ, who will bring you eternal life. In this way, you will keep yourselves safe in God’s love</p>
 <cite>Jude 1:20-2</cite></blockquote>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-luis-quintero-2774546-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-luis-quintero-2774546-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[What is my new nature?]]></title>
@@ -953,7 +946,7 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
 <p>Instead, let the Spirit renew your thoughts and attitudes. Put on your new nature, created to be like God—truly righteous and holy.</p>
 <cite>Ephesians 4:23-24 NLT</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-andrea-piacquadio-3756168-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-andrea-piacquadio-3756168-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Put on the Full Armor of God]]></title>
@@ -974,7 +967,7 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
 <p>With all this armor, we must never, ever forget our strongest weapon, prayer (Verse 18)! We have the armor to defend ourselves and keep us standing. And the sword to keep the enemy at bay, but with prayer, we make the power of God available to take down all enemies. Let us never get weary of prayer brethren, but in all things, let's make our petitions known to God, so that we may be able to win all our battles.</p>
 <p>Be sure to daily put on your armor so that you can stand strong in all your battles. Also, never cease to pray, for all things, in all things, and through all things. Both are important as we go through our daily battles. Always remember, even if you lose a battle, the war is already won. Jesus conquered all, he is Lord of lords and King of kings. He is the great I AM, the alpha and the omega, the beginning and the end. Glory!</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-pixabay-161936-1024x680.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-pixabay-161936-1024x680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A lesson from Shadrach, Meshach, and Abednego.]]></title>
@@ -990,7 +983,7 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
 <p>Like Shadrach, Meshach, and Abednego said in Daniel 3:18 "even if he doesn’t”. Even if God doesn’t rescue me from the fiery furnace, I will still worship him. Even when the going gets tough, I will still praise God. I don’t think a lot of people can say that.</p>
 <p>I know that most times I tend to doubt God when I’ve prayed and prayed, and my situation doesn’t change, or I doubt my faith and my salvation. But that shouldn’t be the case, because I should have assurance that no matter what happens, God is still sovereign, I’m still covered, and the outcome is still for my good. I might be going through hardship now, but eternity will be nothing compared to this short time.</p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-harry-cunningham-harrydigital-3619860-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-harry-cunningham-harrydigital-3619860-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Psalm 42]]></title>
@@ -1013,7 +1006,7 @@ Then sometimes, I may go through verse 9 where I question everything, including 
 <p>
 Going through the valleys sometimes can be hard, but I like to hold on to Psalm 42 as a reminder that God is with me through it all. It’s okay to be sad and feel down, but it’s not okay to forget God because of it. God gave us emotions, and we are free to experience them. However, we need to be careful about how we express them. We should be able to honor God in and through all things.
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-valeria-ushakova-3094210-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-valeria-ushakova-3094210-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3 things to Keep in Mind as you grow in your faith]]></title>
@@ -1028,7 +1021,7 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
 <h3>3. It's the why that matters not the what</h3>
 <p>Jesus cares more for the state of our heart than the actions that we do. If we are following his commandments for self-righteous reasons and not out of love for him, then it doesn't mean much (<a>1 Samuel 16:7</a>). Empty religious actions pale in comparison to a heart seeking after God (<a >Matthew 9:13</a>). In everything that we do, we should seek God whole heartily and when we do, we will find him for he draws near to those who seek him (<a>Psalm 34:17-18</a>, <a>Matthew 7:7-8</a>). Keep your prayer life active, and cultivate a relationship with Him. Once you have that relationship, all the do's and don'ts won't seem like such a burden (<a class="tooltips">Matthew 11:28-29</a>).</p>
 <p>Work at your faith, and you will be amazed at the things God will reveal to you about who He is.</p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-magda-ehlers-1329291-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-magda-ehlers-1329291-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How I view Submission]]></title>
@@ -1049,7 +1042,7 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
 <p>... So Jesus got them together to settle things down. He said, “You’ve observed how godless rulers throw their weight around, how quickly a little power goes to their heads. It’s not going to be that way with you. Whoever wants to be great must become a servant. Whoever wants to be first among you must be your slave. That is what the Son of Man has done: He came to serve, not be served—and then to give away his life in exchange for the many who are held hostage.”</p>
 <cite>Matthew 20:24-28 MSG</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-pixabay-262399-626x1024.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-pixabay-262399-626x1024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How this whole pandemic thing is making me feel.]]></title>
@@ -1071,7 +1064,7 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
 <cite>Psalms 42:11 NLT</cite>
 </blockquote>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-andrea-piacquadio-3762939-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-andrea-piacquadio-3762939-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Honor God with your body]]></title>
@@ -1094,7 +1087,7 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
 <p>..."Or did you think that because he's such a nice God, he'd let you off the hook? Better think this one through from the beginning. God is kind, but he's not soft. In kindness he takes us firmly by the hand and leads us into a radical life-change."</p>
 <cite>Romans 2:4 (MSG)</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/girl-and-penguin-figurine-3274626.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/girl-and-penguin-figurine-3274626.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No Turning Back - My Journey to Christ]]></title>
@@ -1115,7 +1108,7 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
 </p>
 <cite>Luke 7:47 NLT</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-alex-tim-1183986-1024x680.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-alex-tim-1183986-1024x680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Why we need salvation]]></title>
@@ -1145,7 +1138,7 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
 <blockquote>
 <p>That’s the whole story. Here now is my final conclusion: Fear God and obey his commands, for this is everyone’s duty.God will judge us for everything we do, including every secret thing, whether good or bad.</p>
 <cite>Ecclesiastes 12:13-14 NLT</cite></blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/jesus-3643027_1280-1024x642.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/jesus-3643027_1280-1024x642.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Happy Easter 2020!]]></title>
@@ -1172,7 +1165,7 @@ GLOOOORRRRYYYYYY!!!!!!
 Jesus came and told his disciples, “I have been given all authority in heaven and on earth. Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit. Teach these new disciples to obey all the commands I have given you. And be sure of this: I am with you always, even to the end of the age.”
 <cite>Matthew 28:18-20 NLT</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/rocks-1239727_1280-1024x576.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/rocks-1239727_1280-1024x576.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A conversation about relationships]]></title>
@@ -1232,7 +1225,7 @@ I was really touched by this conversation. Conversing with others about Christ i
 <p>
 What are your thoughts on the conversation? Leave a comment below!
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-william-fortunato-6140667-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-william-fortunato-6140667-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No matter the situation, God deserves all the praise]]></title>
@@ -1292,7 +1285,7 @@ Amen
 <p>'It is good to give thanks to the Lord , to sing praises to the Most High.'</p>
 <cite> Psalms 92:1</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-luis-quintero-2014775-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-luis-quintero-2014775-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Don't limit God's forgiveness for you]]></title>
@@ -1317,7 +1310,7 @@ So when you go to ask God for forgiveness, be sure to also forgive those who hav
 <p>Then Peter came to him and asked, “Lord, how often should I forgive someone who sins against me? Seven times?” “No, not seven times,” Jesus replied, “but seventy times seven!</p>
 <cite>Matthew 18:21-22 NLT</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-victor-freitas-847483-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-victor-freitas-847483-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Prayer and Thanksgiving]]></title>
@@ -1338,7 +1331,7 @@ The devil, our adversary, comes to steal, kill, and destroy (<a>John 10:10</a>).
 <p>
 And we also know that if we ask the father for anything, through Jesus, he will give to us (<a>John 16:23</a>). And also <a>Mark 11:24</a> says I tell you, you can pray for anything, and if you believe that you've received it, it will be yours.
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/fog-3050078_1280-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/fog-3050078_1280-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How to begin using the Bible as a guide for life]]></title>
@@ -1385,7 +1378,7 @@ All those steps I just listed are meaningless if you don't do anything with what
 <b>Have any thoughts, concerns, or testimonies? Don't hesitate to drop a comment below.</b>
 </p>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/child-945422_1280-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/child-945422_1280-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I know who I am]]></title>
@@ -1412,7 +1405,7 @@ What I think a lot of people don't understand is that it's not your actions that
 <p>You made all the delicate, inner parts of my body and knit me together in my mother’s womb. Thank you for making me so wonderfully complex! Your workmanship is marvelous—how well I know it. You watched me as I was being formed in utter seclusion, as I was woven together in the dark of the womb. You saw me before I was born. Every day of my life was recorded in your book. Every moment was laid out before a single day had passed. How precious are your thoughts about me, O God. They cannot be numbered! I can’t even count them; they outnumber the grains of sand! And when I wake up, you are still with me!</p>
 <cite>Psalms 139:13-18 NLT</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-snapwire-6945-1024x768.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-snapwire-6945-1024x768.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ready to claim your salvation?]]></title>
@@ -1436,7 +1429,7 @@ Father God, I believe with all my heart in Jesus Christ; the son of the living G
 <p>Don’t copy the behavior and customs of this world, but let God transform you into a new person by changing the way you think. Then you will learn to know God’s will for you, which is good and pleasing and perfect.</p>
 <cite> Romans 12:2 NLT</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-pixabay-415571-1024x576.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-pixabay-415571-1024x576.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Before you can love your neighbor]]></title>
@@ -1445,72 +1438,34 @@ Father God, I believe with all my heart in Jesus Christ; the son of the living G
             <pubDate>Fri, 14 Feb 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[The best way to learn to love yourself is to first start seeing yourself the way God sees you. Because the Word of God is truth!]]></description>
             <content:encoded><![CDATA[<blockquote>
-<p>
-The man answered, “‘You must love the LORD your God with all your heart, all your soul, all your strength, and all your mind.’ And, ‘Love your neighbor as yourself.’”
-</p>
-<cite>Luke 10:27</cite>
+<p>The man answered, “‘You must love the LORD your God with all your heart, all your soul, all your strength, and all your mind.’ And, ‘Love your neighbor as yourself.’”</p>
+<p><cite>Luke 10:27</cite></p>
 </blockquote>
-<p>
-Before you can love your neighbor, you must love yourself. If you struggle with depression or other mental illness you might be thinking, how could I possibly love myself? I'm such a mess. But let me tell you, it's possible; and I don't mean by being selfish, fake, or conceded either. The best way to learn to love yourself is to first start seeing yourself the way God sees you. Because the Word of God is truth!
-</p>
-<p>
-Even if you're not convinced of yourself, you can still rely on the truth that Jesus not only died for you, but he came back! He rose again on the 3rd day and sent someone to help you live. He went to sit at the right hand of God, and as he is now, so are we in the eyes of God. Greater is he that is in me, than he that is in the world. My righteousness was a gift from God. Not because I am the best person ever in the world, but because God saw me and had compassion. Because of his compassion, I have the right and ability to stand before God. And if God thinks I am great, then it must be so. For God so loved ME that he gave his only begotten son, that if only I was to believe his name, I WILL be given eternal life. Therefore, because I believe in the name of Jesus, I have eternal life! In Jesus' name. I am the head and not the tail. I am above and not beneath. My head is anointed with oil, my cup does overflow. The Lord hears his people when they pray. He loves those who are righteous, and because I believe, I have been made righteous in the sight of God. And if God loves me, then I can love myself.
-</p>
-<p>
-Our strength is found in God. All of our infirmities are there to show us that we must rely on God. Because first I am weak then I am strong. His grace is sufficient, for his power is made perfect in weakness.
-We have been given authority in this world. We've been given a purpose, and a mission, for how to continue living our lives as born-again children of God. We know that being born again, we are Kings and Queens.
-</p>
-<p>
-Here are the scripture references if you don't believe me: 
-</p>
-<p>
+<p>Before you can love your neighbor, you must love yourself. If you struggle with depression or other mental illness you might be thinking, how could I possibly love myself? I'm such a mess. But let me tell you, it's possible; and I don't mean by being selfish, fake, or conceded either. The best way to learn to love yourself is to first start seeing yourself the way God sees you. Because the Word of God is truth!</p>
+<p>Even if you're not convinced of yourself, you can still rely on the truth that Jesus not only died for you, but he came back! He rose again on the 3rd day and sent someone to help you live. He went to sit at the right hand of God, and as he is now, so are we in the eyes of God. Greater is he that is in me, than he that is in the world. My righteousness was a gift from God. Not because I am the best person ever in the world, but because God saw me and had compassion. Because of his compassion, I have the right and ability to stand before God. And if God thinks I am great, then it must be so. For God so loved ME that he gave his only begotten son, that if only I was to believe his name, I WILL be given eternal life. Therefore, because I believe in the name of Jesus, I have eternal life! In Jesus' name. I am the head and not the tail. I am above and not beneath. My head is anointed with oil, my cup does overflow. The Lord hears his people when they pray. He loves those who are righteous, and because I believe, I have been made righteous in the sight of God. And if God loves me, then I can love myself.</p>
+<p>Our strength is found in God. All of our infirmities are there to show us that we must rely on God. Because first I am weak then I am strong. His grace is sufficient, for his power is made perfect in weakness.
+We have been given authority in this world. We've been given a purpose, and a mission, for how to continue living our lives as born-again children of God. We know that being born again, we are Kings and Queens.</p>
+<p>Here are the scripture references if you don't believe me:</p>
 <h6>1 Corinthians 15:3-6</h6>
 I passed on to you what was most important and what had also been passed on to me. <b>Christ died for our sins</b>, just as the Scriptures said.  <b>He was buried, and he was raised from the dead on the third day</b>, just as the Scriptures said. He was seen by Peter and then by the Twelve. After that, he was seen by more than 500 of his followers at one time, most of whom are still alive, though some have died.
-</p>
-<p>
 <h6>Romans 8:32-34</h6> Since he did not spare even his own Son but gave him up for us all, won’t he also give us everything else? Who dares accuse us whom God has chosen for his own? No one—for <b>God himself has given us right standing with himself</b>. Who then will condemn us? No one—<b>for Christ Jesus died for us and was raised to life for us, and he is sitting in the place of honor at God’s right hand, pleading for us.</b>
-</p>
-<p>
 <h6>1 John 4:16-17 NKJV</h6> And we have known and believed the love that God has for us. God is love, and he who abides in love abides in God, and God in him. Love has been perfected among us in this: that we may have boldness in the day of judgment; <b>because as He is, so are we in this world</b>.
-</p>
-<p>
 <h6>1 John 4:4 NKJV</h6> You are of God, little children, and have overcome them, because <b>He who is in you is greater than he who is in the world</b>.
-</p>
-<p>
 <h6>Ephesians 2:8-9</h6> <b>God saved you by his grace when you believed</b>. And you can’t take credit for this; <b>it is a gift from God</b>. Salvation is not a reward for the good things we have done, so none of us can boast about it.
-</p>
-<p>
 <h6>2 Corinthians 5:21</h6> For God made Christ, who never sinned, to be the offering for our sin, <b>so that we could be made right with God through Christ</b>.
-</p>
-<p>
 <h6>John 3:16</h6> “For this is how God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
-</p>
-<p>
 <h6>Deuteronomy 28:13</h6> If you listen to these commands of the Lord your God that I am giving you today, and if you carefully obey them, <b>the Lord will make you the head and not the tail, and you will always be on top and never at the bottom.</b>
-</p>
-<p>
 <h6>Psalm 23:5-6</h6> You prepare a feast for me in the presence of my enemies. <b>You honor me by anointing my head with oil</b>. <b>My cup overflows with blessings</b>. Surely your goodness and unfailing love will pursue me all the days of my life, and I will live in the house of the Lord forever.
-</p>
-<p>
 <h6>Psalm 34:15</h6> The eyes of the Lord watch over those who do right; <b>his ears are open to their cries for help</b>. 
-</p>
-<p>
 <h6>Romans 5:1</h6> Therefore, <b>since we have been made right in God’s sight by faith</b>, we have peace with God because of what Jesus Christ our Lord has done for us.
-</p>
-<p>
 <h6>2 Corinthians 12:8-10</h6> Three different times I begged the Lord to take it away. Each time he said, “<b>My grace is all you need. My power works best in weakness</b>.” So now I am glad to boast about my weaknesses, so that the power of Christ can work through me. That’s why I take pleasure in my weaknesses, and in the insults, hardships, persecutions, and troubles that I suffer for Christ. <b>For when I am weak, then I am strong</b>.
-</p>
-<p>
 <h6>Luke 10:19-20</h6> Look, <b>I have given you authority over all the power of the enemy</b>, and you can walk among snakes and scorpions and crush them. Nothing will injure you. But don’t rejoice because evil spirits obey you; rejoice because your names are registered in heaven.” 
-</p>
-<p>
-***All verses are from the NLT unless otherwise specified.***
-</p>
+<p><em><strong>All verses are from the NLT unless otherwise specified.</strong></em></p>
 <blockquote>
-<p>But you are not like that, for you are a chosen people. You are royal priests, a holy nation, God’s very own possession. As a result, you can show others the goodness of God, for he called you out of the darkness into his wonderful light.</p>
+But you are not like that, for you are a chosen people. You are royal priests, a holy nation, God’s very own possession. As a result, you can show others the goodness of God, for he called you out of the darkness into his wonderful light.
 <cite>1 Peter 2:9 NLT</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-pixabay-255441-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-pixabay-255441-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crying out to God]]></title>
@@ -1524,7 +1479,7 @@ I feel like sometimes I don't know how to cry out to God. Not because I think he
 <p>
 This is one reason why I truly admire David. He would cry out to God for everything! If he sinned, he'd confess and beg forgiveness without caring how others perceived him (<a>2 Samuel 12:13-17</a>). In times of difficulty, he'd cry out to God and ask him, Lord, like seriously, why is this happening to me? But even amid all his feelings, of the world around him being against him, he could always turn to God and say, even though everyone says you're no good, I know you bring joy and peace. You will deliver me! (Psalm 10 and more)
 </p>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-luis-fernandes-2422854-1024x680.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-luis-fernandes-2422854-1024x680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Resources for New Christians]]></title>
@@ -1558,7 +1513,7 @@ Have any resources you find helpful? Share them in the comments down below and l
 <p>'Don’t let anyone think less of you because you are young. Be an example to all believers in what you say, in the way you live, in your love, your faith, and your purity. '</p>
 <cite>1 Timothy 4:12</cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-rodnae-productions-5875303-1-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-rodnae-productions-5875303-1-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Renewal of the Mind]]></title>
@@ -1612,7 +1567,7 @@ Do you have any thoughts that you’re trying to overcome? Or scripture that hel
 <cite>Philippians 4:8 NLT</cite>
 </blockquote>
 ]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-fillipe-gomes-5471399-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-fillipe-gomes-5471399-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I want you to know]]></title>
@@ -1640,7 +1595,7 @@ If you openly declare that Jesus is Lord and believe in your heart that God rais
 Romans 10:9 NLT
 </cite>
 </blockquote>]]></content:encoded>
-            <enclosure url="http://localhost:3000/img/pexels-ylanite-koppens-810036-1024x682.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://localhost:3000/img/blog/pexels-ylanite-koppens-810036-1024x682.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

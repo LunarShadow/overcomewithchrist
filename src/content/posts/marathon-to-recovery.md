@@ -2,7 +2,7 @@
 layout: post
 title: Marathon to Recovery
 category: Testimony
-featuredImage: img/pexels-duong-nhan-1477538-1024x682.jpg
+featuredImage: img/blog/pexels-duong-nhan-1477538-1024x682.jpg
 summary: While going through my old Gmail, I found this old blog post I wrote on
   September 12, 2013. This was 8 years ago, and right at the beginning of my
   decision to put my trust in God.

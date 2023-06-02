@@ -2,7 +2,7 @@
 layout: post
 title: One way to examine your faith
 category: Prayer
-featuredImage: img/pexels-ismael-sanchez-2282000-1024x682.jpg
+featuredImage: img/blog/pexels-ismael-sanchez-2282000-1024x682.jpg
 summary: Sometimes it's good to take a moment to examine your faith and where it
   lies. Where does your faith lie?
 date: May 4, 2021

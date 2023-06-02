@@ -2,7 +2,7 @@
 layout: post
 title: Epicurean Paradox - Debunked
 category: Bible Study
-featuredImage: img/pexels-david-bartus-366791.jpg
+featuredImage: img/blog/pexels-david-bartus-366791.jpg
 summary: I saw this Epicurean paradox flow chart somewhere, and they were so
   close to the actual answer.
 date: April 8, 2023

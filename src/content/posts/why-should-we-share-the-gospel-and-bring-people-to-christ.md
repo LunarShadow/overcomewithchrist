@@ -2,7 +2,7 @@
 layout: post
 title: Why should we share the Gospel and bring people to Christ?
 category: Bible Study
-featuredImage: img/pexels-andrea-piacquadio-2672979-1024x662.jpg
+featuredImage: img/blog/pexels-andrea-piacquadio-2672979-1024x662.jpg
 summary: As Christians, it’s important that we share the word with others.
 date: September 12, 2020
 author: Cyntia Seumo

@@ -2,7 +2,7 @@
 layout: post
 title: Don't limit God's forgiveness for you
 category: Bible Study
-featuredImage: img/pexels-victor-freitas-847483-1024x682.jpg
+featuredImage: img/blog/pexels-victor-freitas-847483-1024x682.jpg
 summary: The level of which you forgive others is the level you'll be able to
   accept God's forgiveness.
 date: March 29, 2020

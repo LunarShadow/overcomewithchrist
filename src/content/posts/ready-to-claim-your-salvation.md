@@ -2,7 +2,7 @@
 layout: post
 title: Ready to claim your salvation?
 category: Salvation
-featuredImage: img/pexels-pixabay-415571-1024x576.jpg
+featuredImage: img/blog/pexels-pixabay-415571-1024x576.jpg
 summary: If you openly declare that Jesus is Lord and believe in your heart that
   God raised him from the dead, you will be saved. For it is by believing in
   your heart that you are made right with God...

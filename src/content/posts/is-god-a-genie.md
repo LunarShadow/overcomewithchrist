@@ -2,7 +2,7 @@
 layout: post
 title: Is God a Genie?
 category: Bible Study
-featuredImage: img/pexels-pixabay-356079-1024x619.jpg
+featuredImage: img/blog/pexels-pixabay-356079-1024x619.jpg
 summary: Do you believe that God is supposed to answer all of your prayers according to your will? Let's think about this.
 date: April 15, 2022
 author: Cyntia Seumo

@@ -1,7 +1,7 @@
 ---
 layout: product
-pid: test-product-1
-test: test-product-1
+pid: test-product
+slug: test-product
 title: Test Product
 price: 12.87
 slug: test-product-1
@@ -26,5 +26,4 @@ variants:
     vid: 3
     variantId: lb2
 images:
-  - img/shop/products/hope-white-bg.png
 ---

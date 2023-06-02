@@ -10,12 +10,24 @@
     },
     "items": [
         {
+            "id": "http://localhost:3000/posts/things-i-learned-about-relationships",
+            "content_html": "<p>The topic of marriage has always been a controversial topic for me. I’ve never really understood why many people feel like they are incomplete if they don’t get married.</p>\n<p>In pursuit of answers, I’ve asked a lot of my friends about it, I’ve observed different dynamics in marriages, and I’ve tried to see what the Bible says about marriage.</p>\n<p>In my rebelliousness towards marriage, I would alway stick to and meditate on Paul’s recommendation to not get married, or get married to sooth “burning passion” as he calls it. Or even Jesus’ own words about how some people choose to or are born to be eunuchs, and how there’s no marriage in heaven.</p>\n<p>But recently, after meditating on the topic and with a little more openness to the concept of marriage, I’ve learned that there is a purpose in marriage. While everyone can create their purpose, God has also given us a purpose for marriage.</p>\n<p>After speaking with my Pastor and many of the leaders that I consider mentors, I’ve come to see that the purpose of marriage is not just to please ourselves but to increase the kingdom of God. Whether that’s through doing ministry together, or in creating a godly seed.</p>\n<p>When God is truly in a marriage, the marriage will bring him glory, and will expand his kingdom. I’ve seen that the marriages where both couples are on one accord spiritually manage to overcome a lot more adversaries smoothly.</p>\n<p>Upon meditating on these things further I’ve come to realize that dating is still annoying and borderline unnecessary; standards are important and so is faith in God that he will direct you to the right person; boundaries are very important and don’t have to make sense to others; and it’s a good thing to want to have a family because having a godly family is also a way to bring glory to God.</p>\n<p>I’m always so grateful to have the Holy Spirit and a teachable heart and mind. I’ve grown so much by listening to him, and meditating on the word of God. Many things in this world don’t make sense, but I’m forever grateful to the Holy Spirit who sheds light on all my thoughts and doubts no matter how simple or complex.</p>\n",
+            "url": "http://localhost:3000/posts/things-i-learned-about-relationships",
+            "title": "Things I learned about relationships",
+            "summary": "I’ve never really understood why many people feel like they are incomplete if they don’t get married.",
+            "image": "http://localhost:3000/img/img_1641.jpeg",
+            "date_modified": "2023-05-29T05:00:00.000Z",
+            "author": {
+                "name": "Cyntia Seumo"
+            }
+        },
+        {
             "id": "http://localhost:3000/posts/signs-and-wonders-how-does-god-talk-to-people",
             "content_html": "<p>Yes, God works through visions, dreams and angels, but the other 90% of the time he works through ordinary people like you and me.</p>\n<p>Read through the Bible, how many times did he send an angel? How many times did he talk to some through dreams? And when that happened, what was next? The person with that experience was the one to share the message.</p>\n<p>So what am I trying to say? I’m simply pointing out that God works through people to reach people. Maybe instead of waiting for a dream, listen to your Pastor, or your Leaders, or your mentor, or your Christian friends. Instead of looking for a sign in random places, look for direction in known sources.</p>\n<p>Here’s what I mean, God reached out to Moses through a burning bush, and then Moses reached out to the Israelites as the voice of God. God communicated with the prophets through visions and dreams, then the prophets went out to the people as the voice of God. Jesus resurrected in the presences of his disciples and many others, then the disciples went out and preached the Good News as the voice of God. Saul of Tarsus heard the voice of the Lord, then he became the voice of the Lord for the multitude of people he preached his message to and brought to Christ.</p>\n<p>I am not however telling you to disregard the other methods, but more so encouraging you to believe in the people placed around you. As Paul said, do not consider yourself to be better than anyone (<a>Romans 13:3-4</a>, <a>Galatians 6:3</a> ).</p>\n<p>Also, don’t think yourself so high and mighty that other people can’t correct you, guide you, or discipline you. God disciplined Balaam through a donkey, David through a prophet (Nathan), and Esther through her uncle (Mordecai).</p>\n<p>Finally, be careful your thoughts towards the positions God has assigned people: specifically your Pastor. Remember what happened to Mariam when she rebelled towards Moses, To Eli’s family line because of his son’s misconduct in their priestly duties, and to King Saul because he did not seek out a prophet but consulted mediums instead. God really cares about the organizational structures he’s put in place, and would not that anyone should mock him in disregard to these things.</p>\n<p>Yes, signs and wonders, dreams and visions, and angelic visitations happen, but those are more rare than another ordinary looking individual coming to you as the voice of God for that situation.</p>\n",
             "url": "http://localhost:3000/posts/signs-and-wonders-how-does-god-talk-to-people",
             "title": "Signs and Wonders: How does God talk to people?",
             "summary": "What are some of the ways God can communicated with a group of people or an individual? Let’s talk about it in this post.",
-            "image": "http://localhost:3000/img/5b104e4d-1ab4-44a3-8986-1349885e4503.png",
+            "image": "http://localhost:3000/img/blog/5b104e4d-1ab4-44a3-8986-1349885e4503.png",
             "date_modified": "2023-04-29T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -27,7 +39,7 @@
             "url": "http://localhost:3000/posts/epicurean-paradox-debunked",
             "title": "Epicurean Paradox - Debunked",
             "summary": "I saw this Epicurean paradox flow chart somewhere, and they were so close to the actual answer.",
-            "image": "http://localhost:3000/img/pexels-david-bartus-366791.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-david-bartus-366791.jpg",
             "date_modified": "2023-04-08T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -35,11 +47,11 @@
         },
         {
             "id": "http://localhost:3000/posts/lessons-learned-in-my-20s",
-            "content_html": "<iframe class=\"w-10/12 aspect-video mx-auto\" src=\"https://www.youtube.com/embed/x85P-a8KZzI\" allow=\"encrypted-media; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p></p>\n<p></p>\n<p>Some of the things I might say here may sound extreme, but I’m okay with that. In this lukewarm world, people who know what they want always seem extreme.</p>\n<p>Today I am going to discuss 10 things I learned in my almost 3 decades of being alive. My birthday just passed and I’m only a couple of years from being 30, So I decided not was a good time to impart some wisdom to y’all and also reflect on some lessons learned, most of them the hard way.</p>\n<p>Jumping right into it:</p>\n<ol class=\"blog-list\">\n<p>\n<li><b>There’s no point being fake, just be yourself</b>\n<ul class=\"blog-list\">\n<li>There’s only one of you, so learn who you are and be that</li>\n<li>It’s okay to standout sometimes, being different isn’t always bad</li>\n<li>It’s easier to build on something genuine than to continue to figure out something fake </li></ul>\n</li></p>\n<p><li><b>Your friend circle is crucial</b>\n<ul class=\"blog-list\">\n<li>Have friends that are genuine and that you can be genuine with</li>\n<li>Have friends that keep you accountable</li></ul>\n</li></p>\n<p><li><b>The world doesn’t revolve around you</b>\n<ul class=\"blog-list\">\n   <li>It revolves around Christ</li>\n   <li>Let your pride be in the Lord</li>\n   <li>Life moves on</li></ul>\n</li></p>\n<p><li><b>Don’t do business with unstable people</b>\n<ul class=\"blog-list\">\n   <li>Either you do them a solid, or you say no</li>\n   <li>Don’t mingle business relationships with friendships when the person has shown themselves to not be professional</li></ul>\n</li></p>\n<p><li><b>You don’t have to feel guilty</b>\n<ul class=\"blog-list\">\n   <li>Guilt is different from remorse</li>\n   <li>God doesn’t make people feel guilty, the devil does</li>\n   <li> Don’t do anything for people because you feel guilty, do it because you want to help and are able to help</li>\n   <li>You’re not the only person who can help someone, so don’t feel pressured to help everyone</li></ul>\n</li></p>\n<p><li><b>Emotional Intelligence is important</b>\n<ul class=\"blog-list\">\n  <li>Otherwise people will be too quick to manipulate you</li>\n  <li>You’ll have a hard time keeping any kind of relationship if you’re not able to assess your emotions properly</li>\n  <li> Accept that emotions can sometimes be unreasonable, but necessary. They should be guiding factors but not decision-makers.</li></ul>\n</li></p>\n<p><li><b>It’s okay to lose friends</b>\n<ul class=\"blog-list\">\n    <li>Not everyone that you are or were close to needs to continue to be in your life</li>\n    <li>Some friendships are useful only for a season</li>\n    <li>The Holy Spirit is a better friend than any person could be</li></ul>\n </li></p>\n<p><li><b>It’s okay to have standards and set boundaries</b>\n<ul class=\"blog-list\">\n    <li> You respect yourself more when you can stand up for what you believe in.</li>\n    <li>People also respect you more when they know you have respect for yourself</li>\n   <li>People don’t need to understand the reason behind your boundaries, they just need to understand where you draw the line</li></ul>\n</li></p>\n<p><li><b>Dating for fun is a waste of time</b>\n<ul class=\"blog-list\">\n    <li>I don’t know why people enjoy heartbreak so much.</li>\n    <li> Dating intentionally makes it easier to know when it’s time to move on.</li>\n    <li>If you don’t know what you want, you could end up with what you don’t want.</li>\n    <li> Giving someone a chance doesn’t have to result in dating. People can prove themselves in friendship</li></ul>\n</li></p>\n<p><li><b> You’re not responsible for people’s actions</b>\n<ul class=\"blog-list\">\n    <li>Ultimately people make their own choices</li>\n    <li>You don’t have to be extra anything to get people to do xyz.</li>\n    <li>People will show you who they are if you just watch.</li></ul>\n</li></p>\n</ol>",
+            "content_html": "<iframe class=\"w-10/12 aspect-video mx-auto\" src=\"https://www.youtube.com/embed/x85P-a8KZzI\" allow=\"encrypted-media; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p>Some of the things I might say here may sound extreme, but I’m okay with that. In this lukewarm world, people who know what they want always seem extreme.\nToday I am going to discuss 10 things I learned in my almost 3 decades of being alive. My birthday just passed and I’m only a couple of years from being 30, So I decided not was a good time to impart some wisdom to y’all and also reflect on some lessons learned, most of them the hard way.\nJumping right into it:</p>\n<ol class=\"blog-list\">\n<li><b>There’s no point being fake, just be yourself</b>\n<ul class=\"blog-list\">\n<li>There’s only one of you, so learn who you are and be that</li>\n<li>It’s okay to standout sometimes, being different isn’t always bad</li>\n<li>It’s easier to build on something genuine than to continue to figure out something fake </li></ul>\n</li>\n<li><b>Your friend circle is crucial</b>\n<ul class=\"blog-list\">\n<li>Have friends that are genuine and that you can be genuine with</li>\n<li>Have friends that keep you accountable</li></ul>\n</li>\n<li><b>The world doesn’t revolve around you</b>\n<ul class=\"blog-list\">\n   <li>It revolves around Christ</li>\n   <li>Let your pride be in the Lord</li>\n   <li>Life moves on</li></ul>\n</li>\n<li><b>Don’t do business with unstable people</b>\n<ul class=\"blog-list\">\n   <li>Either you do them a solid, or you say no</li>\n   <li>Don’t mingle business relationships with friendships when the person has shown themselves to not be professional</li></ul>\n</li>\n<li><b>You don’t have to feel guilty</b>\n<ul class=\"blog-list\">\n   <li>Guilt is different from remorse</li>\n   <li>God doesn’t make people feel guilty, the devil does</li>\n   <li> Don’t do anything for people because you feel guilty, do it because you want to help and are able to help</li>\n   <li>You’re not the only person who can help someone, so don’t feel pressured to help everyone</li></ul>\n</li>\n<li><b>Emotional Intelligence is important</b>\n<ul class=\"blog-list\">\n  <li>Otherwise people will be too quick to manipulate you</li>\n  <li>You’ll have a hard time keeping any kind of relationship if you’re not able to assess your emotions properly</li>\n  <li> Accept that emotions can sometimes be unreasonable, but necessary. They should be guiding factors but not decision-makers.</li></ul>\n</li>\n<li><b>It’s okay to lose friends</b>\n<ul class=\"blog-list\">\n    <li>Not everyone that you are or were close to needs to continue to be in your life</li>\n    <li>Some friendships are useful only for a season</li>\n    <li>The Holy Spirit is a better friend than any person could be</li></ul>\n </li>\n<li><b>It’s okay to have standards and set boundaries</b>\n<ul class=\"blog-list\">\n    <li> You respect yourself more when you can stand up for what you believe in.</li>\n    <li>People also respect you more when they know you have respect for yourself</li>\n   <li>People don’t need to understand the reason behind your boundaries, they just need to understand where you draw the line</li></ul>\n</li>\n<li><b>Dating for fun is a waste of time</b>\n<ul class=\"blog-list\">\n    <li>I don’t know why people enjoy heartbreak so much.</li>\n    <li> Dating intentionally makes it easier to know when it’s time to move on.</li>\n    <li>If you don’t know what you want, you could end up with what you don’t want.</li>\n    <li> Giving someone a chance doesn’t have to result in dating. People can prove themselves in friendship</li></ul>\n</li>\n<li><b> You’re not responsible for people’s actions</b>\n<ul class=\"blog-list\">\n    <li>Ultimately people make their own choices</li>\n    <li>You don’t have to be extra anything to get people to do xyz.</li>\n    <li>People will show you who they are if you just watch.</li></ul>\n</li>\n</ol>",
             "url": "http://localhost:3000/posts/lessons-learned-in-my-20s",
             "title": "Lessons Learned In My 20s",
             "summary": "My Birthday just passed, and since I'm almost 30, I decided to do a little reflecting. Here are 10 things I learned in my almost 30 years of living.",
-            "image": "http://localhost:3000/img/10.png",
+            "image": "http://localhost:3000/img/blog/10.png",
             "date_modified": "2023-03-14T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -51,7 +63,7 @@
             "url": "http://localhost:3000/posts/respect-your-body",
             "title": "Respect your body",
             "summary": "Many people have different ideas of what it means to respect one's self, but after talking with my friends, and meditating on it a bit this is what I found.",
-            "image": "http://localhost:3000/img/girl-and-penguin-figurine-3274626.jpg",
+            "image": "http://localhost:3000/img/blog/girl-and-penguin-figurine-3274626.jpg",
             "date_modified": "2022-08-19T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -63,7 +75,7 @@
             "url": "http://localhost:3000/posts/life-long-battle",
             "title": "Life-Long Battle",
             "summary": "Recently I experienced a pain episode that really shook me. So, as part of my recovery, I decided to share my battle and testimony.",
-            "image": "http://localhost:3000/img/life-long-battle.png",
+            "image": "http://localhost:3000/img/blog/life-long-battle.png",
             "date_modified": "2022-04-26T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -75,7 +87,7 @@
             "url": "http://localhost:3000/posts/is-god-a-genie",
             "title": "Is God a Genie?",
             "summary": "Do you believe that God is supposed to answer all of your prayers according to your will? Let's think about this.",
-            "image": "http://localhost:3000/img/pexels-pixabay-356079-1024x619.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-pixabay-356079-1024x619.jpg",
             "date_modified": "2022-04-15T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -87,7 +99,7 @@
             "url": "http://localhost:3000/posts/hope-a-poem",
             "title": "Hope - a poem",
             "summary": "Hope can be such a dangerous feeling. But if placed in the right thing, it can be very rewarding. Here is a poem that I wrote; enjoy.",
-            "image": "http://localhost:3000/img/pexels-lay-low-4506159-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-lay-low-4506159-1024x682.jpg",
             "date_modified": "2022-03-25T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -99,7 +111,7 @@
             "url": "http://localhost:3000/posts/faith-without-works-is-dead",
             "title": "Faith without works is dead",
             "summary": "What does it mean to have faith and not put in the work?",
-            "image": "http://localhost:3000/img/Faith-1024x576.png",
+            "image": "http://localhost:3000/img/blog/Faith-1024x576.png",
             "date_modified": "2022-03-18T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -111,7 +123,7 @@
             "url": "http://localhost:3000/posts/3-things-to-know-about-the-universe",
             "title": "3 Things to know about the Universe",
             "summary": "What can the universe do for you? Does it bring you good fortune, or get back at people on your behalf? Read on and find out what power the universe has.",
-            "image": "http://localhost:3000/img/salvation.jpg",
+            "image": "http://localhost:3000/img/blog/salvation.jpg",
             "date_modified": "2022-03-11T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -123,7 +135,7 @@
             "url": "http://localhost:3000/posts/not-alone",
             "title": "Not Alone",
             "summary": "There will come a time when you will feel like you are alone in your belief. But you're not the only one who's felt that way.",
-            "image": "http://localhost:3000/img/pexels-luis-fernandes-2422854-1024x680.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-luis-fernandes-2422854-1024x680.jpg",
             "date_modified": "2022-03-04T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -135,7 +147,7 @@
             "url": "http://localhost:3000/posts/one-way-to-examine-your-faith",
             "title": "One way to examine your faith",
             "summary": "Sometimes it's good to take a moment to examine your faith and where it lies. Where does your faith lie?",
-            "image": "http://localhost:3000/img/pexels-ismael-sanchez-2282000-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-ismael-sanchez-2282000-1024x682.jpg",
             "date_modified": "2021-05-04T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -147,7 +159,7 @@
             "url": "http://localhost:3000/posts/reduce-your-negative-thoughts-by-doing-this-every-day",
             "title": "Reduce your negative thoughts by doing this every day",
             "summary": "It can be difficult sometimes to stay calm when feeling anxious, depressed, or distressed. But if you do this regularly, you'll find yourself being more in control.",
-            "image": "http://localhost:3000/img/pexels-lay-low-4506159-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-lay-low-4506159-1024x682.jpg",
             "date_modified": "2021-04-17T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -159,7 +171,7 @@
             "url": "http://localhost:3000/posts/i-must-confess",
             "title": "I Must Confess!",
             "summary": "What's the difference between confessing our sins and confessing Christ?",
-            "image": "http://localhost:3000/img/pexels-andrea-piacquadio-3761509-1024x768.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-andrea-piacquadio-3761509-1024x768.jpg",
             "date_modified": "2021-04-03T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -171,7 +183,7 @@
             "url": "http://localhost:3000/posts/what-does-it-mean-to-have-life",
             "title": "What does it mean to have life?",
             "summary": "I had to sit down recently and think about what it means to have (a) life. ",
-            "image": "http://localhost:3000/img/pexels-zino-bang-54536-1024x768.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-zino-bang-54536-1024x768.jpg",
             "date_modified": "2021-03-06T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -183,7 +195,7 @@
             "url": "http://localhost:3000/posts/marathon-to-recovery",
             "title": "Marathon to Recovery",
             "summary": "While going through my old Gmail, I found this old blog post I wrote on September 12, 2013. This was 8 years ago, and right at the beginning of my decision to put my trust in God.",
-            "image": "http://localhost:3000/img/pexels-duong-nhan-1477538-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-duong-nhan-1477538-1024x682.jpg",
             "date_modified": "2021-02-11T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -195,7 +207,7 @@
             "url": "http://localhost:3000/posts/sometimes-we-need-encouragement",
             "title": "Sometimes we need encouragement",
             "summary": "Sometimes reaching out to others about what you're going through can be very encouraging.",
-            "image": "http://localhost:3000/img/pexels-william-fortunato-6140466-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-william-fortunato-6140466-1024x682.jpg",
             "date_modified": "2021-02-06T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -207,7 +219,7 @@
             "url": "http://localhost:3000/posts/what-are-my-labels",
             "title": "What are my labels?",
             "summary": "Everyone has a different take when it comes to the lgbtq+ community, here is my view on it.",
-            "image": "http://localhost:3000/img/pexels-pixabay-326576-1024x598.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-pixabay-326576-1024x598.jpg",
             "date_modified": "2021-01-23T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -215,11 +227,11 @@
         },
         {
             "id": "http://localhost:3000/posts/what-are-first-fruits",
-            "content_html": "<blockquote><p>Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing and your vats will brim over with new wine.</p>\n<cite> Proverbs 3:9-10 </cite></blockquote>\n<p>\nIn <a>Leviticus 23:9-10</a>, God tells Moses to inform the people that they should bring him the first crops of their first harvest season in the promised land. In their obedience, they would remember that they were in the land that the Lord promised them.\n</p>\n<p>\nGiving our first fruits is a way to honor and thank the Lord for all the provisions we received in the seasons past. It’s different from tithes in that it is not 10% of our income, and it only needs to be done annually; and it can also be done when God blesses us with a new job or business venture.\n</p>\n<p>\nHow much you give depends on how much you want to honor God with. It could be your first yearly paycheck, your first month's worth of income, your first paycheck from your new source of income, or any other amount you care to honor the Lord with. However, before deciding how much to give, I would strongly advise praying about it first; and when you give, be sure to give freely and not grudgingly.\n</p>\n<h5>Why give first fruits?</h5>\n<p>\n<ul class=\"blog-list\">\n \t<li>Giving our first fruits means giving our best to God.</li>\n \t<li>Giving our first fruits opens us up to the working of God in our lives.</li>\n \t<li>Giving our first fruits shows where our priorities lie.</li>\n \t<li>Giving our first fruits shows our obedience.</li>\n</ul>\n</p>\n<p>\nWhen giving, whether in tithes, seeds, offerings, etc., don’t think about it as giving to the physical church, but as giving to the Lord. Your giving first and foremost shows your obedience and reverence for God. Your giving will be used for the expansion of the Kingdom of God. Remember, it all belongs to God (and you by inheritance).\n</p>\n<p>\nThis year I gave my first month's income as my first fruit sacrifice. It was tough because I kept thinking about all that I am saving towards. But then I had to remind myself that the Lord is my provider! I lack in nothing, neither do I want in anything because the Lord is my shepherd! I only have to stay obedient. As Psalm 91:1 says “He that dwelleth in the secret place of the most high, shall abide in the shadow of the almighty”. Therefore I declare: I abide in the shadow of the almighty!\n</p>\n<p>\nI challenge you to give your first month's worth of income and see how your year pans out! Let me know in the comments if you accepted the challenge.\n</p>\n<blockquote><p>The first of the ripe fruits and all the gifts brought to the Lord will go to the priests. The first batch of dough must also be given to the priests so the Lord will bless your homes.</p>\n<cite>Ezekiel 44:30</cite></blockquote>",
+            "content_html": "<blockquote>Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing and your vats will brim over with new wine.\n<cite> Proverbs 3:9-10 </cite></blockquote>\n<p>In <a>Leviticus 23:9-10</a>, God tells Moses to inform the people that they should bring him the first crops of their first harvest season in the promised land. In their obedience, they would remember that they were in the land that the Lord promised them.</p>\n<p>Giving our first fruits is a way to honor and thank the Lord for all the provisions we received in the seasons past. It’s different from tithes in that it is not 10% of our income, and it only needs to be done annually; and it can also be done when God blesses us with a new job or business venture.</p>\n<p>How much you give depends on how much you want to honor God with. It could be your first yearly paycheck, your first month's worth of income, your first paycheck from your new source of income, or any other amount you care to honor the Lord with. However, before deciding how much to give, I would strongly advise praying about it first; and when you give, be sure to give freely and not grudgingly.</p>\n<h5>Why give first fruits?</h5>\n<ul class=\"blog-list\">\n \t<li>Giving our first fruits means giving our best to God.</li>\n \t<li>Giving our first fruits opens us up to the working of God in our lives.</li>\n \t<li>Giving our first fruits shows where our priorities lie.</li>\n \t<li>Giving our first fruits shows our obedience.</li>\n</ul>\n<p>When giving, whether in tithes, seeds, offerings, etc., don’t think about it as giving to the physical church, but as giving to the Lord. Your giving first and foremost shows your obedience and reverence for God. Your giving will be used for the expansion of the Kingdom of God. Remember, it all belongs to God (and you by inheritance).</p>\n<p>This year I gave my first month's income as my first fruit sacrifice. It was tough because I kept thinking about all that I am saving towards. But then I had to remind myself that the Lord is my provider! I lack in nothing, neither do I want in anything because the Lord is my shepherd! I only have to stay obedient. As Psalm 91:1 says “He that dwelleth in the secret place of the most high, shall abide in the shadow of the almighty”. Therefore I declare: I abide in the shadow of the almighty!</p>\n<p>I challenge you to give your first month's worth of income and see how your year pans out! Let me know in the comments if you accepted the challenge.</p>\n<blockquote>The first of the ripe fruits and all the gifts brought to the Lord will go to the priests. The first batch of dough must also be given to the priests so the Lord will bless your homes.\n<cite>Ezekiel 44:30</cite></blockquote>",
             "url": "http://localhost:3000/posts/what-are-first-fruits",
             "title": "What are First Fruits?",
             "summary": "Giving our first fruits is a way to honor and thank the Lord for all the provisions we received in the seasons past. It’s different from tithes in that it is not 10% of our income, and it only needs to be done annually.",
-            "image": "http://localhost:3000/img/pexels-ella-olsson-1458694-1024x819.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-ella-olsson-1458694-1024x819.jpg",
             "date_modified": "2021-01-09T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -231,7 +243,7 @@
             "url": "http://localhost:3000/posts/how-to-start-your-new-year-strong",
             "title": "How to start your new year strong",
             "summary": "As the year comes to an end, everyone starts to write goals and create ideas about how the next year will be.",
-            "image": "http://localhost:3000/img/pexels-karolina-grabowska-5716456-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-karolina-grabowska-5716456-1024x682.jpg",
             "date_modified": "2020-12-28T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -239,11 +251,11 @@
         },
         {
             "id": "http://localhost:3000/posts/recap-of-the-year-2020",
-            "content_html": "<p>\n2020 was quite the year! It was full of ups and downs for many but for me, it was full of joy and peace. This post is to give thanks to God for all he has done for me throughout this year. I have so many testimonies of what the Lord has done, but I will only name a few.\n</p>\n<p>\n<ul class=\"blog-list\">\n \t<li>I got a significant raise at the beginning of the year.</li>\n \t<li>The Lord preserved me at my job when 28 people got let go, including my manager, mentor, and the only other junior in the office.</li>\n \t<li>The Lord kept my family; I never received news of anyone in my immediate family getting Covid.</li>\n \t<li>Even though my uncle contracted Covid after I spoke with him and we prayed, he fully recovered.</li>\n \t<li>The title for the car I have been driving for practically 8 years now was switched over to me.</li>\n \t<li>I lost 15lbs during the quarantine.</li>\n \t<li>My prayer and fasting life has dramatically improved!</li>\n \t<li>I started this impactful blog!</li>\n \t<li>I renewed my lease without any rent increase.</li>\n \t<li>The Lord informed me that my eyesight is restored!</li>\n \t<li>I was able to bring 6 people into the Kingdom of God.</li>\n \t<li>I was able to start a Bible study group that impacted the members.</li>\n \t<li>I made an awesome new friend, and they greatly enriched my friend circle!</li>\n \t<li>I never lacked anything that I needed during this year.</li>\n \t<li>My relationship with God has improved drastically!</li>\n</ul>\n</p>\n<p>\nThe list goes on and on. I praise God for everything He has done. I thank him for the peace and joy that comes with my salvation. I thank him for who He is and for who He has made me. Words are not enough to express my immense gratitude! I exalt and worship His wonderful name. There is no other God as great, as powerful, and as loving as Jesus!\n</p>\n<p>\nHow did your 2020 go? Do you have any testimonies you would like to share? Do you need prayer? Let me know down in the comments!\n</p>",
+            "content_html": "<p>2020 was quite the year! It was full of ups and downs for many but for me, it was full of joy and peace. This post is to give thanks to God for all he has done for me throughout this year. I have so many testimonies of what the Lord has done, but I will only name a few.</p>\n<ul class=\"blog-list\">\n \t<li>I got a significant raise at the beginning of the year.</li>\n \t<li>The Lord preserved me at my job when 28 people got let go, including my manager, mentor, and the only other junior in the office.</li>\n \t<li>The Lord kept my family; I never received news of anyone in my immediate family getting Covid.</li>\n \t<li>Even though my uncle contracted Covid after I spoke with him and we prayed, he fully recovered.</li>\n \t<li>The title for the car I have been driving for practically 8 years now was switched over to me.</li>\n \t<li>I lost 15lbs during the quarantine.</li>\n \t<li>My prayer and fasting life has dramatically improved!</li>\n \t<li>I started this impactful blog!</li>\n \t<li>I renewed my lease without any rent increase.</li>\n \t<li>The Lord informed me that my eyesight is restored!</li>\n \t<li>I was able to bring 6 people into the Kingdom of God.</li>\n \t<li>I was able to start a Bible study group that impacted the members.</li>\n \t<li>I made an awesome new friend, and they greatly enriched my friend circle!</li>\n \t<li>I never lacked anything that I needed during this year.</li>\n \t<li>My relationship with God has improved drastically!</li>\n</ul>\n<p>The list goes on and on. I praise God for everything He has done. I thank him for the peace and joy that comes with my salvation. I thank him for who He is and for who He has made me. Words are not enough to express my immense gratitude! I exalt and worship His wonderful name. There is no other God as great, as powerful, and as loving as Jesus!</p>\n<p>How did your 2020 go? Do you have any testimonies you would like to share? Do you need prayer? Let me know down in the comments!</p>\n",
             "url": "http://localhost:3000/posts/recap-of-the-year-2020",
             "title": "Recap of the Year 2020",
             "summary": "2020 was quite the year! This post is just a recap of all that happened to me and with me during the year 2020. Leave your comments and let me know how it was for you.",
-            "image": "http://localhost:3000/img/pexels-markus-winkler-4057655-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-markus-winkler-4057655-1024x682.jpg",
             "date_modified": "2020-12-19T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -255,7 +267,7 @@
             "url": "http://localhost:3000/posts/what-is-christianity",
             "title": "What is Christianity",
             "summary": "Being a Christian is more than just going to church. It's a lifestyle, understanding, and spiritual renewal and development. Don't understand what I mean? Continue reading for more details.",
-            "image": "http://localhost:3000/img/pexels-pixabay-356079-1024x619.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-pixabay-356079-1024x619.jpg",
             "date_modified": "2020-11-28T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -267,7 +279,7 @@
             "url": "http://localhost:3000/posts/there-is-always-something-to-pray-about",
             "title": "There is always something to pray about",
             "summary": "Saying \"I won't pray today because I don't know what to pray about\" is no longer acceptable. Lack of a reason to pray is not a reason to not pray...",
-            "image": "http://localhost:3000/img/pexels-suzy-hazelwood-1226398-1024x576.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-suzy-hazelwood-1226398-1024x576.jpg",
             "date_modified": "2020-11-21T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -279,7 +291,7 @@
             "url": "http://localhost:3000/posts/my-2020-fasting-journey",
             "title": "My 2020 Fasting Journey",
             "summary": "This year, I learned what it is to fast. Quarantine gave me the perfect opportunity to begin to learn how to have self-control when it comes to eating. ",
-            "image": "http://localhost:3000/img/pexels-engin-akyurt-1907642-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-engin-akyurt-1907642-1024x682.jpg",
             "date_modified": "2020-11-07T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -291,7 +303,7 @@
             "url": "http://localhost:3000/posts/who-you-surround-yourself-with-matters",
             "title": "Who you surround yourself with matters",
             "summary": "Your friend group is very important no matter who you are. They usually end up dictating the types of habits you build.",
-            "image": "http://localhost:3000/img/pexels-dennis-magati-862848-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-dennis-magati-862848-1024x682.jpg",
             "date_modified": "2020-10-24T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -303,7 +315,7 @@
             "url": "http://localhost:3000/posts/faith-over-fear",
             "title": "Faith over fear",
             "summary": "If faith is the evidence of things not seen, and the substance of things hoped for, then what is fear? Why should we make sure to continuously build our faith?",
-            "image": "http://localhost:3000/img/Faith-1024x576.png",
+            "image": "http://localhost:3000/img/blog/Faith-1024x576.png",
             "date_modified": "2020-10-16T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -315,7 +327,7 @@
             "url": "http://localhost:3000/posts/marriage-thoughts-on-courting-vs-dating",
             "title": "Marriage: Thoughts on Courting vs Dating",
             "summary": "I have been thinking a lot lately about marriage.  I have especially been considering the difference between old-style courtship and modern-day dating. ",
-            "image": "http://localhost:3000/img/pexels-vjapratama-935789-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-vjapratama-935789-1024x682.jpg",
             "date_modified": "2020-10-10T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -327,7 +339,7 @@
             "url": "http://localhost:3000/posts/how-to-make-sharing-the-gospel-a-little-easier",
             "title": "How to make sharing the Gospel a little easier",
             "summary": "Bringing people to Christ can be a daunting task, but it's important to understand that it’s the Spirit within us that does most of the work. Once we understand that, here are other things we can do to help make the task a bit easier for us.",
-            "image": "http://localhost:3000/img/pexels-keira-burton-6146951-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-keira-burton-6146951-1024x682.jpg",
             "date_modified": "2020-10-03T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -339,7 +351,7 @@
             "url": "http://localhost:3000/posts/why-should-we-share-the-gospel-and-bring-people-to-christ",
             "title": "Why should we share the Gospel and bring people to Christ?",
             "summary": "As Christians, it’s important that we share the word with others.",
-            "image": "http://localhost:3000/img/pexels-andrea-piacquadio-2672979-1024x662.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-andrea-piacquadio-2672979-1024x662.jpg",
             "date_modified": "2020-09-12T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -351,7 +363,7 @@
             "url": "http://localhost:3000/posts/how-do-you-respond-to-sickness",
             "title": "How do you respond to sickness?",
             "summary": "Infirmities are hard to deal with and everyone deals with them differently, but in all things, I know that God will bring me through it. Sickness doesn't rule me, Christ does",
-            "image": "http://localhost:3000/img/pexels-anna-shvets-3786126-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-anna-shvets-3786126-1024x682.jpg",
             "date_modified": "2020-08-15T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -363,7 +375,7 @@
             "url": "http://localhost:3000/posts/prayer-for-decernment-and-protection",
             "title": "Prayer for decernment and protection",
             "summary": "We are in tough times, but we have a tough God! If you're feeling weak, go to God in prayer, he will renew and restore your spirit.",
-            "image": "http://localhost:3000/img/pexels-binti-malu-2927676-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-binti-malu-2927676-1024x682.jpg",
             "date_modified": "2020-08-01T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -375,7 +387,7 @@
             "url": "http://localhost:3000/posts/jesus’-commandments",
             "title": "Jesus’ Commandments",
             "summary": "Many people think that Jesus' commands are the 10 commandments. Lets take a deeper look at what the Bible says.",
-            "image": "http://localhost:3000/img/pexels-cqfavocat-613508-1024x683.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-cqfavocat-613508-1024x683.jpg",
             "date_modified": "2020-07-25T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -387,7 +399,7 @@
             "url": "http://localhost:3000/posts/benefits-of-praying-in-tongues",
             "title": "Benefits of Praying in Tongues",
             "summary": "Before Jesus ascended into heaven, he instructed the apostles to wait on the Holy Spirit. When the Holy Spirit arrived, the first gift given was the ability to speak in tongues Acts 2:4. Which means that they were able to speak in a language that was foreign to them. Here I will tell you of 2 benefits of praying in tongues.",
-            "image": "http://localhost:3000/img/pexels-luis-quintero-2774546-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-luis-quintero-2774546-1024x682.jpg",
             "date_modified": "2020-07-11T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -399,7 +411,7 @@
             "url": "http://localhost:3000/posts/what-is-my-new-nature",
             "title": "What is my new nature?",
             "summary": "I’ve been thinking lately a lot about what it means to be born again. What does it mean to become a new creature while I am still on this earth?",
-            "image": "http://localhost:3000/img/pexels-andrea-piacquadio-3756168-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-andrea-piacquadio-3756168-1024x682.jpg",
             "date_modified": "2020-07-05T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -411,7 +423,7 @@
             "url": "http://localhost:3000/posts/put-on-the-full-armor-of-god",
             "title": "Put on the Full Armor of God",
             "summary": "In Ephesians 6 starting from verse 10, Paul warns everyone to be strong in the Lord and to put on his full armor. Let's take a closer look at the armor and what exactly it's protecting.",
-            "image": "http://localhost:3000/img/pexels-pixabay-161936-1024x680.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-pixabay-161936-1024x680.jpg",
             "date_modified": "2020-06-27T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -423,7 +435,7 @@
             "url": "http://localhost:3000/posts/a-lesson-from-shadrach-meshach-and-abednego",
             "title": "A lesson from Shadrach, Meshach, and Abednego.",
             "summary": "Who is the God that you serve? Is He your genie that you call on only when you need something? Or is He the all-powerful, almighty, creator of all the universe?",
-            "image": "http://localhost:3000/img/pexels-harry-cunningham-harrydigital-3619860-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-harry-cunningham-harrydigital-3619860-1024x682.jpg",
             "date_modified": "2020-06-20T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -435,7 +447,7 @@
             "url": "http://localhost:3000/posts/psalm-42",
             "title": "Psalm 42",
             "summary": "When I get sad or discouraged, I like to read Psalm 42. I find it to be a great example of scripture that is easy to resonate with. It also reminds me to continue to look to God.",
-            "image": "http://localhost:3000/img/pexels-valeria-ushakova-3094210-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-valeria-ushakova-3094210-1024x682.jpg",
             "date_modified": "2020-06-13T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -447,7 +459,7 @@
             "url": "http://localhost:3000/posts/3-things-to-keep-in-mind-as-you-grow-in-your-faith",
             "title": "3 things to Keep in Mind as you grow in your faith",
             "summary": "Being a Christian isn't always easy, but we've got to remember to stay bold and preach the good news to the world. Romans 1:16 -> For I am not ashamed of the gospel because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.",
-            "image": "http://localhost:3000/img/pexels-magda-ehlers-1329291-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-magda-ehlers-1329291-1024x682.jpg",
             "date_modified": "2020-05-23T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -459,7 +471,7 @@
             "url": "http://localhost:3000/posts/how-i-view-submission",
             "title": "How I view Submission",
             "summary": "From my experience, when people think of being submissive they always think of giving up all control to someone. And by giving up all control they have thereby lost their own freedom. Just because you're submissive, doesn't mean you lose your freedom, depending on the circumstances of which you have to submit.",
-            "image": "http://localhost:3000/img/pexels-pixabay-262399-626x1024.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-pixabay-262399-626x1024.jpg",
             "date_modified": "2020-05-16T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -471,7 +483,7 @@
             "url": "http://localhost:3000/posts/how-this-whole-pandemic-thing-is-making-me-feel",
             "title": "How this whole pandemic thing is making me feel.",
             "summary": "The way the world is right now is very saddening. It seems no matter where you turn there is propaganda.",
-            "image": "http://localhost:3000/img/pexels-andrea-piacquadio-3762939-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-andrea-piacquadio-3762939-1024x682.jpg",
             "date_modified": "2020-05-09T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -483,7 +495,7 @@
             "url": "http://localhost:3000/posts/honor-god-with-your-body",
             "title": "Honor God with your body",
             "summary": "Following God is never in vain. The things the world glorify is never worth missing out on the promise of spending eternity with the one who created us and loves us endlessly. We are worth far more than we sometimes think. This post is another testimony.",
-            "image": "http://localhost:3000/img/girl-and-penguin-figurine-3274626.jpg",
+            "image": "http://localhost:3000/img/blog/girl-and-penguin-figurine-3274626.jpg",
             "date_modified": "2020-05-02T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -495,7 +507,7 @@
             "url": "http://localhost:3000/posts/no-turning-back-my-journey-to-christ",
             "title": "No Turning Back - My Journey to Christ",
             "summary": "I made up my mind to get to know Christ my sophomore year of College. Find out why.",
-            "image": "http://localhost:3000/img/pexels-alex-tim-1183986-1024x680.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-alex-tim-1183986-1024x680.jpg",
             "date_modified": "2020-04-24T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -507,7 +519,7 @@
             "url": "http://localhost:3000/posts/why-we-need-salvation",
             "title": "Why we need salvation",
             "summary": "For there to be good news, there would need to be an alternate bad situation. Lets not take for granted what we have been given. Here is why we need salvation.",
-            "image": "http://localhost:3000/img/jesus-3643027_1280-1024x642.jpg",
+            "image": "http://localhost:3000/img/blog/jesus-3643027_1280-1024x642.jpg",
             "date_modified": "2020-04-17T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -519,7 +531,7 @@
             "url": "http://localhost:3000/posts/happy-easter-2020",
             "title": "Happy Easter 2020!",
             "summary": "Happy Easter 2020!  It's not because he died, but because he rose again that we have good news to share!",
-            "image": "http://localhost:3000/img/rocks-1239727_1280-1024x576.jpg",
+            "image": "http://localhost:3000/img/blog/rocks-1239727_1280-1024x576.jpg",
             "date_modified": "2020-04-12T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -531,7 +543,7 @@
             "url": "http://localhost:3000/posts/a-conversation-about-relationships",
             "title": "A conversation about relationships",
             "summary": "Recently I started thinking about relationships and why we put so much weight on them. I needed someone to talk to about it, so I did what any sibling would do and I reached out to my little sister.",
-            "image": "http://localhost:3000/img/pexels-william-fortunato-6140667-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-william-fortunato-6140667-1024x682.jpg",
             "date_modified": "2020-04-11T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -543,7 +555,7 @@
             "url": "http://localhost:3000/posts/no-matter-the-situation-god-deserves-all-the-praise",
             "title": "No matter the situation, God deserves all the praise",
             "summary": "Praising God is a way to remind us of who He is. Through every season God deserves all the praise. God doesn't stop being God despite what our situation may be.",
-            "image": "http://localhost:3000/img/pexels-luis-quintero-2014775-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-luis-quintero-2014775-1024x682.jpg",
             "date_modified": "2020-04-05T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -555,7 +567,7 @@
             "url": "http://localhost:3000/posts/dont-limit-gods-forgiveness-for-you",
             "title": "Don't limit God's forgiveness for you",
             "summary": "The level of which you forgive others is the level you'll be able to accept God's forgiveness.",
-            "image": "http://localhost:3000/img/pexels-victor-freitas-847483-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-victor-freitas-847483-1024x682.jpg",
             "date_modified": "2020-03-29T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -567,7 +579,7 @@
             "url": "http://localhost:3000/posts/prayer-and-thanksgiving",
             "title": "Prayer and Thanksgiving",
             "summary": "Don't worry about anything; instead, pray about everything. Tell God what you need, and thank him for all he has done. Then you will experience God's peace, which exceeds anything we can understand.",
-            "image": "http://localhost:3000/img/fog-3050078_1280-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/fog-3050078_1280-1024x682.jpg",
             "date_modified": "2020-03-25T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -579,7 +591,7 @@
             "url": "http://localhost:3000/posts/how-to-begin-using-the-bible-as-a-guide-for-life",
             "title": "How to begin using the Bible as a guide for life",
             "summary": "As a babe in the faith it can be difficult to know how to use the Bible as a guide. Here are 6 steps to help propel your journey forward in learning to understand how to use your most important tool as a Christian. ",
-            "image": "http://localhost:3000/img/child-945422_1280-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/child-945422_1280-1024x682.jpg",
             "date_modified": "2020-03-16T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -591,7 +603,7 @@
             "url": "http://localhost:3000/posts/i-know-who-i-am",
             "title": "I know who I am",
             "summary": "It wasn't until I started my journey into getting to know myself through Christ that I really started to understand and accept myself. I knew and accepted that God doesn't make mistakes, because He is God.",
-            "image": "http://localhost:3000/img/pexels-snapwire-6945-1024x768.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-snapwire-6945-1024x768.jpg",
             "date_modified": "2020-03-13T05:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -603,7 +615,7 @@
             "url": "http://localhost:3000/posts/ready-to-claim-your-salvation",
             "title": "Ready to claim your salvation?",
             "summary": "If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For it is by believing in your heart that you are made right with God...",
-            "image": "http://localhost:3000/img/pexels-pixabay-415571-1024x576.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-pixabay-415571-1024x576.jpg",
             "date_modified": "2020-02-23T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -611,11 +623,11 @@
         },
         {
             "id": "http://localhost:3000/posts/before-you-can-love-your-neighbor",
-            "content_html": "<blockquote>\n<p>\nThe man answered, “‘You must love the LORD your God with all your heart, all your soul, all your strength, and all your mind.’ And, ‘Love your neighbor as yourself.’”\n</p>\n<cite>Luke 10:27</cite>\n</blockquote>\n<p>\nBefore you can love your neighbor, you must love yourself. If you struggle with depression or other mental illness you might be thinking, how could I possibly love myself? I'm such a mess. But let me tell you, it's possible; and I don't mean by being selfish, fake, or conceded either. The best way to learn to love yourself is to first start seeing yourself the way God sees you. Because the Word of God is truth!\n</p>\n<p>\nEven if you're not convinced of yourself, you can still rely on the truth that Jesus not only died for you, but he came back! He rose again on the 3rd day and sent someone to help you live. He went to sit at the right hand of God, and as he is now, so are we in the eyes of God. Greater is he that is in me, than he that is in the world. My righteousness was a gift from God. Not because I am the best person ever in the world, but because God saw me and had compassion. Because of his compassion, I have the right and ability to stand before God. And if God thinks I am great, then it must be so. For God so loved ME that he gave his only begotten son, that if only I was to believe his name, I WILL be given eternal life. Therefore, because I believe in the name of Jesus, I have eternal life! In Jesus' name. I am the head and not the tail. I am above and not beneath. My head is anointed with oil, my cup does overflow. The Lord hears his people when they pray. He loves those who are righteous, and because I believe, I have been made righteous in the sight of God. And if God loves me, then I can love myself.\n</p>\n<p>\nOur strength is found in God. All of our infirmities are there to show us that we must rely on God. Because first I am weak then I am strong. His grace is sufficient, for his power is made perfect in weakness.\nWe have been given authority in this world. We've been given a purpose, and a mission, for how to continue living our lives as born-again children of God. We know that being born again, we are Kings and Queens.\n</p>\n<p>\nHere are the scripture references if you don't believe me: \n</p>\n<p>\n<h6>1 Corinthians 15:3-6</h6>\nI passed on to you what was most important and what had also been passed on to me. <b>Christ died for our sins</b>, just as the Scriptures said.  <b>He was buried, and he was raised from the dead on the third day</b>, just as the Scriptures said. He was seen by Peter and then by the Twelve. After that, he was seen by more than 500 of his followers at one time, most of whom are still alive, though some have died.\n</p>\n<p>\n<h6>Romans 8:32-34</h6> Since he did not spare even his own Son but gave him up for us all, won’t he also give us everything else? Who dares accuse us whom God has chosen for his own? No one—for <b>God himself has given us right standing with himself</b>. Who then will condemn us? No one—<b>for Christ Jesus died for us and was raised to life for us, and he is sitting in the place of honor at God’s right hand, pleading for us.</b>\n</p>\n<p>\n<h6>1 John 4:16-17 NKJV</h6> And we have known and believed the love that God has for us. God is love, and he who abides in love abides in God, and God in him. Love has been perfected among us in this: that we may have boldness in the day of judgment; <b>because as He is, so are we in this world</b>.\n</p>\n<p>\n<h6>1 John 4:4 NKJV</h6> You are of God, little children, and have overcome them, because <b>He who is in you is greater than he who is in the world</b>.\n</p>\n<p>\n<h6>Ephesians 2:8-9</h6> <b>God saved you by his grace when you believed</b>. And you can’t take credit for this; <b>it is a gift from God</b>. Salvation is not a reward for the good things we have done, so none of us can boast about it.\n</p>\n<p>\n<h6>2 Corinthians 5:21</h6> For God made Christ, who never sinned, to be the offering for our sin, <b>so that we could be made right with God through Christ</b>.\n</p>\n<p>\n<h6>John 3:16</h6> “For this is how God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.\n</p>\n<p>\n<h6>Deuteronomy 28:13</h6> If you listen to these commands of the Lord your God that I am giving you today, and if you carefully obey them, <b>the Lord will make you the head and not the tail, and you will always be on top and never at the bottom.</b>\n</p>\n<p>\n<h6>Psalm 23:5-6</h6> You prepare a feast for me in the presence of my enemies. <b>You honor me by anointing my head with oil</b>. <b>My cup overflows with blessings</b>. Surely your goodness and unfailing love will pursue me all the days of my life, and I will live in the house of the Lord forever.\n</p>\n<p>\n<h6>Psalm 34:15</h6> The eyes of the Lord watch over those who do right; <b>his ears are open to their cries for help</b>. \n</p>\n<p>\n<h6>Romans 5:1</h6> Therefore, <b>since we have been made right in God’s sight by faith</b>, we have peace with God because of what Jesus Christ our Lord has done for us.\n</p>\n<p>\n<h6>2 Corinthians 12:8-10</h6> Three different times I begged the Lord to take it away. Each time he said, “<b>My grace is all you need. My power works best in weakness</b>.” So now I am glad to boast about my weaknesses, so that the power of Christ can work through me. That’s why I take pleasure in my weaknesses, and in the insults, hardships, persecutions, and troubles that I suffer for Christ. <b>For when I am weak, then I am strong</b>.\n</p>\n<p>\n<h6>Luke 10:19-20</h6> Look, <b>I have given you authority over all the power of the enemy</b>, and you can walk among snakes and scorpions and crush them. Nothing will injure you. But don’t rejoice because evil spirits obey you; rejoice because your names are registered in heaven.” \n</p>\n<p>\n***All verses are from the NLT unless otherwise specified.***\n</p>\n<blockquote>\n<p>But you are not like that, for you are a chosen people. You are royal priests, a holy nation, God’s very own possession. As a result, you can show others the goodness of God, for he called you out of the darkness into his wonderful light.</p>\n<cite>1 Peter 2:9 NLT</cite>\n</blockquote>",
+            "content_html": "<blockquote>\n<p>The man answered, “‘You must love the LORD your God with all your heart, all your soul, all your strength, and all your mind.’ And, ‘Love your neighbor as yourself.’”</p>\n<p><cite>Luke 10:27</cite></p>\n</blockquote>\n<p>Before you can love your neighbor, you must love yourself. If you struggle with depression or other mental illness you might be thinking, how could I possibly love myself? I'm such a mess. But let me tell you, it's possible; and I don't mean by being selfish, fake, or conceded either. The best way to learn to love yourself is to first start seeing yourself the way God sees you. Because the Word of God is truth!</p>\n<p>Even if you're not convinced of yourself, you can still rely on the truth that Jesus not only died for you, but he came back! He rose again on the 3rd day and sent someone to help you live. He went to sit at the right hand of God, and as he is now, so are we in the eyes of God. Greater is he that is in me, than he that is in the world. My righteousness was a gift from God. Not because I am the best person ever in the world, but because God saw me and had compassion. Because of his compassion, I have the right and ability to stand before God. And if God thinks I am great, then it must be so. For God so loved ME that he gave his only begotten son, that if only I was to believe his name, I WILL be given eternal life. Therefore, because I believe in the name of Jesus, I have eternal life! In Jesus' name. I am the head and not the tail. I am above and not beneath. My head is anointed with oil, my cup does overflow. The Lord hears his people when they pray. He loves those who are righteous, and because I believe, I have been made righteous in the sight of God. And if God loves me, then I can love myself.</p>\n<p>Our strength is found in God. All of our infirmities are there to show us that we must rely on God. Because first I am weak then I am strong. His grace is sufficient, for his power is made perfect in weakness.\nWe have been given authority in this world. We've been given a purpose, and a mission, for how to continue living our lives as born-again children of God. We know that being born again, we are Kings and Queens.</p>\n<p>Here are the scripture references if you don't believe me:</p>\n<h6>1 Corinthians 15:3-6</h6>\nI passed on to you what was most important and what had also been passed on to me. <b>Christ died for our sins</b>, just as the Scriptures said.  <b>He was buried, and he was raised from the dead on the third day</b>, just as the Scriptures said. He was seen by Peter and then by the Twelve. After that, he was seen by more than 500 of his followers at one time, most of whom are still alive, though some have died.\n<h6>Romans 8:32-34</h6> Since he did not spare even his own Son but gave him up for us all, won’t he also give us everything else? Who dares accuse us whom God has chosen for his own? No one—for <b>God himself has given us right standing with himself</b>. Who then will condemn us? No one—<b>for Christ Jesus died for us and was raised to life for us, and he is sitting in the place of honor at God’s right hand, pleading for us.</b>\n<h6>1 John 4:16-17 NKJV</h6> And we have known and believed the love that God has for us. God is love, and he who abides in love abides in God, and God in him. Love has been perfected among us in this: that we may have boldness in the day of judgment; <b>because as He is, so are we in this world</b>.\n<h6>1 John 4:4 NKJV</h6> You are of God, little children, and have overcome them, because <b>He who is in you is greater than he who is in the world</b>.\n<h6>Ephesians 2:8-9</h6> <b>God saved you by his grace when you believed</b>. And you can’t take credit for this; <b>it is a gift from God</b>. Salvation is not a reward for the good things we have done, so none of us can boast about it.\n<h6>2 Corinthians 5:21</h6> For God made Christ, who never sinned, to be the offering for our sin, <b>so that we could be made right with God through Christ</b>.\n<h6>John 3:16</h6> “For this is how God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.\n<h6>Deuteronomy 28:13</h6> If you listen to these commands of the Lord your God that I am giving you today, and if you carefully obey them, <b>the Lord will make you the head and not the tail, and you will always be on top and never at the bottom.</b>\n<h6>Psalm 23:5-6</h6> You prepare a feast for me in the presence of my enemies. <b>You honor me by anointing my head with oil</b>. <b>My cup overflows with blessings</b>. Surely your goodness and unfailing love will pursue me all the days of my life, and I will live in the house of the Lord forever.\n<h6>Psalm 34:15</h6> The eyes of the Lord watch over those who do right; <b>his ears are open to their cries for help</b>. \n<h6>Romans 5:1</h6> Therefore, <b>since we have been made right in God’s sight by faith</b>, we have peace with God because of what Jesus Christ our Lord has done for us.\n<h6>2 Corinthians 12:8-10</h6> Three different times I begged the Lord to take it away. Each time he said, “<b>My grace is all you need. My power works best in weakness</b>.” So now I am glad to boast about my weaknesses, so that the power of Christ can work through me. That’s why I take pleasure in my weaknesses, and in the insults, hardships, persecutions, and troubles that I suffer for Christ. <b>For when I am weak, then I am strong</b>.\n<h6>Luke 10:19-20</h6> Look, <b>I have given you authority over all the power of the enemy</b>, and you can walk among snakes and scorpions and crush them. Nothing will injure you. But don’t rejoice because evil spirits obey you; rejoice because your names are registered in heaven.” \n<p><em><strong>All verses are from the NLT unless otherwise specified.</strong></em></p>\n<blockquote>\nBut you are not like that, for you are a chosen people. You are royal priests, a holy nation, God’s very own possession. As a result, you can show others the goodness of God, for he called you out of the darkness into his wonderful light.\n<cite>1 Peter 2:9 NLT</cite>\n</blockquote>",
             "url": "http://localhost:3000/posts/before-you-can-love-your-neighbor",
             "title": "Before you can love your neighbor",
             "summary": "The best way to learn to love yourself is to first start seeing yourself the way God sees you. Because the Word of God is truth!",
-            "image": "http://localhost:3000/img/pexels-pixabay-255441-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-pixabay-255441-1024x682.jpg",
             "date_modified": "2020-02-14T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -627,7 +639,7 @@
             "url": "http://localhost:3000/posts/crying-out-to-god",
             "title": "Crying out to God",
             "summary": "I don't know why I feel like I must always act strong when I'm with God. It doesn't make sense, because He already knows my heart and my thoughts ",
-            "image": "http://localhost:3000/img/pexels-luis-fernandes-2422854-1024x680.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-luis-fernandes-2422854-1024x680.jpg",
             "date_modified": "2020-01-21T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -639,7 +651,7 @@
             "url": "http://localhost:3000/posts/resources-for-new-christians",
             "title": "Resources for New Christians",
             "summary": " As a new believer, it can feel overwhelming trying to figure out what to do to get as close to God as the people in the faith you admire seem to be. Here are just a few places to start if you are currently in that situation.  ",
-            "image": "http://localhost:3000/img/pexels-rodnae-productions-5875303-1-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-rodnae-productions-5875303-1-1024x682.jpg",
             "date_modified": "2020-01-19T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -651,7 +663,7 @@
             "url": "http://localhost:3000/posts/renewal-of-the-mind",
             "title": "Renewal of the Mind",
             "summary": " Even when I feel a little depressed or sad, I still know the truth God has told me about my situation and can work to dismiss the lies the devil wants to make me believe. ",
-            "image": "http://localhost:3000/img/pexels-fillipe-gomes-5471399-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-fillipe-gomes-5471399-1024x682.jpg",
             "date_modified": "2020-01-15T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
@@ -663,7 +675,7 @@
             "url": "http://localhost:3000/posts/i-want-you-to-know",
             "title": "I want you to know",
             "summary": "I want you to know that Jesus loves you. I'm not talking about a superficial love either.",
-            "image": "http://localhost:3000/img/pexels-ylanite-koppens-810036-1024x682.jpg",
+            "image": "http://localhost:3000/img/blog/pexels-ylanite-koppens-810036-1024x682.jpg",
             "date_modified": "2020-01-10T06:00:00.000Z",
             "author": {
                 "name": "Cyntia Seumo"
