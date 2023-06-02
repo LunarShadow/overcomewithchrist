@@ -12,5 +12,7 @@ module.exports = {
         info: colors.sky[600],
         pastelOrange: '#FFF8F2'
       }}
-  }, plugins: []
+  }, plugins: [
+    require('@tailwindcss/forms')
+  ]
 }

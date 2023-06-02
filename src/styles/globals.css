@@ -61,6 +61,10 @@ body {
     hr {
         @apply border border-neutral-300 my-3
     }
+
+    select {
+        @apply block w-full rounded-lg border-2 py-1.5 pl-2 bg-pastelOrange border-primary
+    }
 }
 .layout {
     @apply mx-auto relative w-full lg:w-10/12 xl:w-8/12
@@ -84,4 +88,8 @@ body {
 
 .blog-list {
     @apply px-3 lg:px-6 list-disc list-inside
+}
+
+.add-to-cart {
+ @apply text-center text-white hover:text-black font-semibold mt-5 bg-primary rounded-3xl mx-auto cursor-pointer w-full
 }

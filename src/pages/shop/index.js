@@ -6,11 +6,9 @@ import {ProductListProvider} from '@/context/product-list-context'
 const ShopHome = () => {
   return (
     <Layout pageTitle={'Shop'}>
-      <h1 className={'pageTitle'}>Shop</h1>
-      <FeaturedShopImage />
-      <h2>All Products</h2>
+      <h1 className={'pageTitle'}>All Products</h1>
       <ProductListProvider>
-        <ProductList limit={5} />
+        <ProductList limit={10} />
       </ProductListProvider>
     </Layout>
   )

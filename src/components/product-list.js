@@ -2,8 +2,8 @@ import {useContext, useEffect, useMemo, useState} from 'react'
 import {ProductListContext} from '@/context/product-list-context'
 import Image from 'next/image'
 
-const ProductList = ({ limit = 10, displayLoadMore = false, category = null }) => {
-  const { products } = useContext(ProductListContext)
+const ProductList = ({limit = 10, displayLoadMore = false, category = null}) => {
+  const {products} = useContext(ProductListContext)
   const [showMore, setShowMore] = useState(displayLoadMore)
   const [index, setIndex] = useState(limit)
   const [list, setList] = useState([])
@@ -28,42 +28,33 @@ const ProductList = ({ limit = 10, displayLoadMore = false, category = null }) =
   }
 
   return (<>
-    <div className={'my-10 mx-auto text-center p-10 '}>
-      {!list && <h2>Products coming soon!</h2>}
-      <ul>
+    <div>
+      {!list && <div className={'my-10 mx-auto text-center p-10 '}><h2>Products coming soon!</h2></div>}
+      <div className={'flex flex-wrap mx-auto justify-evenly'}>
         {list && list.map((product) => {
-          return (
-            <li key={product.slug} className={'bg-white rounded-lg drop-shadow-lg w-10/12 mx-auto my-8'}>
-              <div className={'relative w-full aspect-square'}>
-                <Image className={'rounded-lg'} src={product?.details.images[0]} alt={product?.details.title}
-                       fill />
-              </div>
-                <div className={'grid grid-cols-4 content-center items-center'}>
-                  <div className={'col-span-4 md:col-span-1 p-3'}>
-                      <h3>{product?.details.title}</h3>
-                  </div>
-                  <div className={'col-span-4 md:col-span-1 p-3'}>
-                      <p>${product?.details.price}</p>
-                  </div>
-                  <div className={'col-span-2 p-3 md:col-span-3 md:pt-1 md:px-3'}>
-                    <select>
-                      { product?.details?.variants.map((variant)=>{
-                        return <option  key={variant.variantId}  value={variant.variantId}>{variant.color}/{variant.size}</option>
-                      })}
-                    </select>
-                  </div>
-                  <div className={'col-span-2 p-3 md:col-span-3 md:pt-1 md:px-3'}>
-                    <input type={'submit'} value={'Add to cart'} className={'add-to-cart'} />
-                  </div>
-                </div>
-            </li>)
+          return (<div key={product.productId} className={'p-10 rounded-2xl drop-shadow-sm w-full md:w-1/2 lg:w-1/3 my-8'}>
+            <div className={'relative w-full aspect-square'}>
+              <Image className={'rounded-lg'} src={product?.details.images[0]} alt={product?.details.title}
+                     fill />
+            </div>
+            <div className={'flex flex-col content-center items-center text-center'}>
+              <p className={'font-semibold text-xl -mb-4'}>{product?.details.title}</p>
+              <p>$ {product?.details.price}</p>
+              <select name={product.productId}>
+                {product?.details?.variants.map((variant) => {
+                  return <option key={variant.variantId}
+                                 value={variant.variantId}>{variant.color}/{variant.size}</option>
+                })}
+              </select>
+              <button type={'submit'} className={'add-to-cart'}> Add to Cart</button>
+            </div>
+          </div>)
         })}
-      </ul>
-      {showMore &&
-        <div className={'text-center text-white hover:text-black font-semibold px-2 py-1 mt-5 mb-8 bg-primary rounded-3xl w-48 mx-auto cursor-pointer'}>
-          <span className={''} onClick={loadMore}> Load More </span>
-        </div>
-      }
+      </div>
+      {showMore && <div
+        className={'text-center text-white hover:text-black font-semibold px-2 py-1 mt-5 mb-8 bg-primary rounded-3xl w-48 mx-auto cursor-pointer'}>
+        <span className={''} onClick={loadMore}> Load More </span>
+      </div>}
 
     </div>
   </>)
