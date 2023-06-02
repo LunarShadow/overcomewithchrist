@@ -1,7 +1,7 @@
 ---
 layout: product
 pid: test-product-1
-test: test-product-1
+slug: test-product-1
 title: Test Product
 price: 12.89
 description: A test product for testing purposes

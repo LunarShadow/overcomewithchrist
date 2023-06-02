@@ -1,12 +1,17 @@
 import Layout from '@/components/layout'
+import FeaturedShopImage from '@/components/featured-shop-image'
+import ProductList from '@/components/product-list'
+import {ProductListProvider} from '@/context/product-list-context'
 
 const ShopHome = () => {
   return (
     <Layout pageTitle={'Shop'}>
       <h1 className={'pageTitle'}>Shop</h1>
-      <div className={'h-96 flex content-center items-center px-4'}>
-        <h1 className={'text-center w-full'}> Shop Coming soon.</h1>
-      </div>
+      <FeaturedShopImage />
+      <h2>All Products</h2>
+      <ProductListProvider>
+        <ProductList limit={5} />
+      </ProductListProvider>
     </Layout>
   )
 }
