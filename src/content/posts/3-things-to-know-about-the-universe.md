@@ -2,7 +2,7 @@
 layout: post
 title: 3 Things to know about the Universe
 category: Bible Study
-featuredImage: img/blog/salvation.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/salvation.jpg
 summary: What can the universe do for you? Does it bring you good fortune, or get back at people on your behalf? Read on and find out what power the universe has.
 date: March 11, 2022
 author: Cyntia Seumo

@@ -2,7 +2,7 @@
 layout: post
 title: Crying out to God
 category: Testimony
-featuredImage: img/blog/pexels-luis-fernandes-2422854-1024x680.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-luis-fernandes-2422854-1024x680.jpg
 summary: "I don't know why I feel like I must always act strong when I'm with
   God. It doesn't make sense, because He already knows my heart and my thoughts
   "

@@ -2,7 +2,7 @@
 layout: post
 title: Faith over fear
 category: Bible Study
-featuredImage: img/blog/Faith-1024x576.png
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/Faith-1024x576.png
 summary: If faith is the evidence of things not seen, and the substance of
   things hoped for, then what is fear? Why should we make sure to continuously
   build our faith?

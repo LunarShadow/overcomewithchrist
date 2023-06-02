@@ -2,7 +2,7 @@
 layout: post
 title: What are First Fruits?
 category: Bible Study
-featuredImage: img/blog/pexels-ella-olsson-1458694-1024x819.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-ella-olsson-1458694-1024x819.jpg
 summary: Giving our first fruits is a way to honor and thank the Lord for all
   the provisions we received in the seasons past. It’s different from tithes in
   that it is not 10% of our income, and it only needs to be done annually.

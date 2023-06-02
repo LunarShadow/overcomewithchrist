@@ -2,7 +2,7 @@
 layout: post
 title: Psalm 42
 category: Testimony
-featuredImage: img/blog/pexels-valeria-ushakova-3094210-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-valeria-ushakova-3094210-1024x682.jpg
 summary: When I get sad or discouraged, I like to read Psalm 42. I find it to be
   a great example of scripture that is easy to resonate with. It also reminds me
   to continue to look to God.

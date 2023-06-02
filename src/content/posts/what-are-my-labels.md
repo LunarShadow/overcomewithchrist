@@ -2,7 +2,7 @@
 layout: post
 title: What are my labels?
 category: Testimony
-featuredImage: img/blog/pexels-pixabay-326576-1024x598.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-pixabay-326576-1024x598.jpg
 summary: Everyone has a different take when it comes to the lgbtq+ community,
   here is my view on it.
 date: January 23, 2021

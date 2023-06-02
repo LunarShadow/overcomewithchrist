@@ -2,7 +2,7 @@
 layout: post
 title: How to begin using the Bible as a guide for life
 category: Bible Study
-featuredImage: img/blog/child-945422_1280-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/child-945422_1280-1024x682.jpg
 summary: "As a babe in the faith it can be difficult to know how to use the
   Bible as a guide. Here are 6 steps to help propel your journey forward in
   learning to understand how to use your most important tool as a Christian. "

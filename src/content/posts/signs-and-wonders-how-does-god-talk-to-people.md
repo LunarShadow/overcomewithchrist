@@ -2,7 +2,7 @@
 layout: post
 title: "Signs and Wonders: How does God talk to people?"
 category: Bible Study
-featuredImage: img/blog/5b104e4d-1ab4-44a3-8986-1349885e4503.png
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/5b104e4d-1ab4-44a3-8986-1349885e4503.png
 summary: What are some of the ways God can communicated with a group of people
   or an individual? Let’s talk about it in this post.
 date: April 29, 2023

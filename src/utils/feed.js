@@ -56,7 +56,7 @@ export const generateRssFeed = async () => {
       title: post.attributes.title,
       id: url,
       link: url,
-      image: `${siteURL}/${post.attributes.featuredImage}`,
+      image: post.attributes.featuredImage,
       description: post.attributes.summary,
       category: post.attributes.category,
       author: [{ name: post.attributes.author}],

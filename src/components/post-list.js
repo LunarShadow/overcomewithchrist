@@ -41,7 +41,7 @@ const PostList = ({limit, displayLoadMore, category = null, skipFirst = false}) 
                 <div className={'grid grid-cols-4 content-center items-center'}>
                   <div className={'col-span-4 md:col-span-1 p-3'}>
                     <div className={'relative w-full aspect-video'}>
-                      <Image className={'rounded-xl'} src={`/${post?.details.featuredImage}`} alt={post?.details.title}
+                      <Image className={'rounded-xl'} src={post?.details.featuredImage} alt={post?.details.title}
                              fill />
                     </div>
                   </div>

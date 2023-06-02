@@ -9,7 +9,7 @@ const Post = ({content, attributes}) => {
   const authorName = 'Cyntia Seumo'
   return (<Layout pageTitle={attributes.title}>
       <div className={'relative w-full h-72 md:h-80 -z-10'}>
-        <Image src={`/${attributes.featuredImage}`} alt={attributes.title} fill />
+        <Image src={attributes.featuredImage} alt={attributes.title} fill />
       </div>
       <div className={'p-3 -mt-7 md:-mt-10 rounded-3xl bg-pastelOrange '}>
         <p className={'font-light text-base text-neutral-600 pl-1'}>{attributes.category}</p>

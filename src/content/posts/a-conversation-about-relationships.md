@@ -2,7 +2,7 @@
 layout: post
 title: A conversation about relationships
 category: Bible Study
-featuredImage: img/blog/pexels-william-fortunato-6140667-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-william-fortunato-6140667-1024x682.jpg
 summary: Recently I started thinking about relationships and why we put so much
   weight on them. I needed someone to talk to about it, so I did what any
   sibling would do and I reached out to my little sister.

@@ -2,7 +2,7 @@
 layout: post
 title: Honor God with your body
 category: Testimony
-featuredImage: img/blog/girl-and-penguin-figurine-3274626.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/girl-and-penguin-figurine-3274626.jpg
 summary: Following God is never in vain. The things the world glorify is never
   worth missing out on the promise of spending eternity with the one who created
   us and loves us endlessly. We are worth far more than we sometimes think. This

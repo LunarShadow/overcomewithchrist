@@ -2,7 +2,7 @@
 layout: post
 title: How this whole pandemic thing is making me feel.
 category: Prayer
-featuredImage: img/blog/pexels-andrea-piacquadio-3762939-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-andrea-piacquadio-3762939-1024x682.jpg
 summary: The way the world is right now is very saddening. It seems no matter
   where you turn there is propaganda.
 date: May 9, 2020

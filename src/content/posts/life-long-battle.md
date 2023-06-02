@@ -2,7 +2,7 @@
 layout: post
 title: Life-Long Battle
 category: Testimony
-featuredImage: img/blog/life-long-battle.png
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/life-long-battle.png
 summary: Recently I experienced a pain episode that really shook me. So, as part of my recovery, I decided to share my battle and testimony.
 date: April 26, 2022
 author: Cyntia Seumo

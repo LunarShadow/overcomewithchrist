@@ -1,7 +1,6 @@
 import Image from 'next/image'
 
 export default function AuthorCard(){
-
   return (<>
     <div className={'relative w-48 h-48 mx-auto mt-5'}>
       <Image className={'rounded-full'} src={'/img/profile_pic.png'} alt={'author image'} fill />

@@ -3,14 +3,17 @@ backend:
 #  name: test-repo
   branch: main
   publish_mode: editorial_workflow
-media_folder: public/img
-public_folder: img
+media_library:
+  name: cloudinary
+  use_secure_url: true
+  config:
+    cloud_name: dn7ubiddg
+    api_key: 866914922276626
 display_url: '/'
 slug:
   encoding: "ascii"
   clean_accents: true
   sanitize_replacement: "-"
-
 collections:
   - name: "page"
     label: "Page"
@@ -25,7 +28,6 @@ collections:
     label: "Posts"
     label_singular: "Post"
     folder: "src/content/posts"
-    public_folder: "img/blog"
     create: true
     slug: "{{slug}}"
     fields:
@@ -41,7 +43,6 @@ collections:
     label: "Products"
     label_singular: "Product"
     folder: "src/content/products"
-    public_folder: "img/shop/products"
     create: true
     fields: 
       - {label: "layout", name: "layout", widget: "hidden", default: "product"}

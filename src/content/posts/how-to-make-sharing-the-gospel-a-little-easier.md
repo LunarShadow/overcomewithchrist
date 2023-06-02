@@ -2,7 +2,7 @@
 layout: post
 title: How to make sharing the Gospel a little easier
 category: Resources
-featuredImage: img/blog/pexels-keira-burton-6146951-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-keira-burton-6146951-1024x682.jpg
 summary: Bringing people to Christ can be a daunting task, but it's important to
   understand that it’s the Spirit within us that does most of the work. Once we
   understand that, here are other things we can do to help make the task a bit

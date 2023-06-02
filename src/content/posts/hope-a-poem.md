@@ -2,7 +2,7 @@
 layout: post
 title: Hope - a poem
 category: Testimony
-featuredImage: img/blog/pexels-lay-low-4506159-1024x682.jpg
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/pexels-lay-low-4506159-1024x682.jpg
 summary: Hope can be such a dangerous feeling. But if placed in the right thing, it can be very rewarding. Here is a poem that I wrote; enjoy.
 date: March 25, 2022
 author: Cyntia Seumo

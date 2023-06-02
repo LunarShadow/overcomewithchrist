@@ -2,7 +2,7 @@
 layout: post
 title: Lessons Learned In My 20s
 category: Testimony
-featuredImage: img/blog/10.png
+featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/10.png
 summary: My Birthday just passed, and since I'm almost 30, I decided to do a
   little reflecting. Here are 10 things I learned in my almost 30 years of
   living.
