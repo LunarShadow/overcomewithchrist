@@ -2,7 +2,7 @@
 layout: post
 title: Things I learned about relationships
 category: Testimony
-featuredImage: img/img_1641.jpeg
+featuredImage: img/blog/img_1641.jpeg
 summary: I’ve never really understood why many people feel like they are
   incomplete if they don’t get married.
 date: May 29, 2023
