@@ -32,7 +32,13 @@ const ProductList = ({limit = 10, displayLoadMore = false, category = null}) => 
       {!list && <div className={'my-10 mx-auto text-center p-10 '}><h2>Products coming soon!</h2></div>}
       <div className={'flex flex-wrap mx-auto justify-evenly'}>
         {list && list.map((product) => {
-          return (<div key={product.productId} className={'p-10 rounded-2xl drop-shadow-sm w-full md:w-1/2 lg:w-1/3 my-8'}>
+          let sizes = ''
+          product?.details.variants.map((variant)=>{
+            sizes += `${variant.size} [+${variant.price}]| `
+          })
+          sizes = sizes.substring(0, sizes.length - 2)
+
+          return (<div key={product?.details.pid} className={'p-10 rounded-2xl drop-shadow-sm w-full md:w-1/2 lg:w-1/3 my-8'}>
             <div className={'relative w-full aspect-square'}>
               <Image className={'rounded-lg'} src={product?.details.images[0]} alt={product?.details.title}
                      fill />
@@ -40,13 +46,17 @@ const ProductList = ({limit = 10, displayLoadMore = false, category = null}) => 
             <div className={'flex flex-col content-center items-center text-center'}>
               <p className={'font-semibold text-xl -mb-4'}>{product?.details.title}</p>
               <p>$ {product?.details.price}</p>
-              <select name={product.productId}>
-                {product?.details?.variants.map((variant) => {
-                  return <option key={variant.variantId}
-                                 value={variant.variantId}>{variant.color}/{variant.size}</option>
-                })}
-              </select>
-              <button type={'submit'} className={'add-to-cart'}> Add to Cart</button>
+              <button className={'add-to-cart snipcart-add-item'}
+                      data-item-id={product?.details.pid}
+                      data-item-name={product?.details.title}
+                      data-item-price={product?.details.price}
+                      data-item-description={product?.details.description}
+                      data-item-image={product?.details.images[0]}
+                      data-item-custom1-name={'size'}
+                      data-item-custom1-options={sizes}
+                      data-item-custom2-name={'color'}
+                      data-item-custom2-options={product?.details.color}
+              > Add to Cart </button>
             </div>
           </div>)
         })}
