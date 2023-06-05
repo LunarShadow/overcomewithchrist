@@ -12,7 +12,6 @@
 [context.production.environment]
   NODE_ENV = "production"
   NEXT_SERVERLESS = "true"
-  NETLIFY_NEXT_PLUGIN_SKIP = "true"
   [[redirects]]
     from = "https://shop.overcomewithchrist.com"
     to = "https://overcomewithchrist.com/shop"

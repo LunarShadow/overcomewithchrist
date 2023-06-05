@@ -34,9 +34,9 @@ const ProductList = ({limit = 10, displayLoadMore = false, category = null}) => 
         {list && list.map((product) => {
           let sizes = ''
           product?.details.variants.map((variant)=>{
-            sizes += `${variant.size}[+${variant.price}]| `
+            sizes += `${variant.size}[+${variant.price}]|`
           })
-          sizes = sizes.substring(0, sizes.length - 2)
+          sizes = sizes.substring(0, sizes.length - 1)
 
           return (<div key={product?.details.pid} className={'p-10 rounded-2xl drop-shadow-sm w-full md:w-1/2 lg:w-1/3 my-8'}>
             <div className={'relative w-full aspect-square'}>
