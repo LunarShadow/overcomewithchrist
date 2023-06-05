@@ -34,7 +34,7 @@ const ProductList = ({limit = 10, displayLoadMore = false, category = null}) => 
         {list && list.map((product) => {
           let sizes = ''
           product?.details.variants.map((variant)=>{
-            sizes += `${variant.size} [+${variant.price}]| `
+            sizes += `${variant.size}[+${variant.price}]| `
           })
           sizes = sizes.substring(0, sizes.length - 2)
 
