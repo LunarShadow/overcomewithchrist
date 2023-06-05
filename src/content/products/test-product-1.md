@@ -5,6 +5,7 @@ sku: test-product-1
 title: Test Product
 price: 12.89
 color: Black
+weight: 1.2
 description: A test product for testing purposes
 variants:
   - size: S
