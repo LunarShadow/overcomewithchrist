@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "standalone"
+  publish = "out"
 [build.processing]
   skip_processing = false
 [build.processing.css]
