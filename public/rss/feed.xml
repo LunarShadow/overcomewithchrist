@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Overcome with Christ</title>
-        <link>http://localhost:3000</link>
+        <link>https://overcomewithchrist.com</link>
         <description>John 16:33</description>
-        <lastBuildDate>Mon, 05 Jun 2023 20:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 21:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Overcome with Christ</title>
-            <url>http://localhost:3000/logo-icon.png</url>
-            <link>http://localhost:3000</link>
+            <url>https://overcomewithchrist.com/logo-icon.png</url>
+            <link>https://overcomewithchrist.com</link>
         </image>
         <copyright>All rights reserved 2023, Overcome with Christ</copyright>
         <item>
             <title><![CDATA[The Power of Forgiveness ]]></title>
-            <link>http://localhost:3000/posts/the-power-of-forgiveness</link>
-            <guid>http://localhost:3000/posts/the-power-of-forgiveness</guid>
+            <link>https://overcomewithchrist.com/posts/the-power-of-forgiveness</link>
+            <guid>https://overcomewithchrist.com/posts/the-power-of-forgiveness</guid>
             <pubDate>Mon, 05 Jun 2023 05:00:00 GMT</pubDate>
             <description><![CDATA[Holding grudges and being bitter only deteriorates you. Half the time the other person might not even know that they did you wrong, or think that they need to apologize.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -38,8 +38,8 @@
         </item>
         <item>
             <title><![CDATA[Things I learned about relationships]]></title>
-            <link>http://localhost:3000/posts/things-i-learned-about-relationships</link>
-            <guid>http://localhost:3000/posts/things-i-learned-about-relationships</guid>
+            <link>https://overcomewithchrist.com/posts/things-i-learned-about-relationships</link>
+            <guid>https://overcomewithchrist.com/posts/things-i-learned-about-relationships</guid>
             <pubDate>Mon, 29 May 2023 05:00:00 GMT</pubDate>
             <description><![CDATA[I’ve never really understood why many people feel like they are incomplete if they don’t get married.]]></description>
             <content:encoded><![CDATA[<p>The topic of marriage has always been a controversial topic for me. I’ve never really understood why many people feel like they are incomplete if they don’t get married.</p>
@@ -55,8 +55,8 @@
         </item>
         <item>
             <title><![CDATA[Signs and Wonders: How does God talk to people?]]></title>
-            <link>http://localhost:3000/posts/signs-and-wonders-how-does-god-talk-to-people</link>
-            <guid>http://localhost:3000/posts/signs-and-wonders-how-does-god-talk-to-people</guid>
+            <link>https://overcomewithchrist.com/posts/signs-and-wonders-how-does-god-talk-to-people</link>
+            <guid>https://overcomewithchrist.com/posts/signs-and-wonders-how-does-god-talk-to-people</guid>
             <pubDate>Sat, 29 Apr 2023 05:00:00 GMT</pubDate>
             <description><![CDATA[What are some of the ways God can communicated with a group of people or an individual? Let’s talk about it in this post.]]></description>
             <content:encoded><![CDATA[<p>Yes, God works through visions, dreams and angels, but the other 90% of the time he works through ordinary people like you and me.</p>
@@ -72,8 +72,8 @@
         </item>
         <item>
             <title><![CDATA[Epicurean Paradox - Debunked]]></title>
-            <link>http://localhost:3000/posts/epicurean-paradox-debunked</link>
-            <guid>http://localhost:3000/posts/epicurean-paradox-debunked</guid>
+            <link>https://overcomewithchrist.com/posts/epicurean-paradox-debunked</link>
+            <guid>https://overcomewithchrist.com/posts/epicurean-paradox-debunked</guid>
             <pubDate>Sat, 08 Apr 2023 05:00:00 GMT</pubDate>
             <description><![CDATA[I saw this Epicurean paradox flow chart somewhere, and they were so close to the actual answer.]]></description>
             <content:encoded><![CDATA[<p>Sometime last year, I came across the flow chart pictured below. They were so close to the answer, so I decided to give the explanation for the path I circled. Hopefully, this helps someone understand the plan of God. </p>
@@ -94,8 +94,8 @@
         </item>
         <item>
             <title><![CDATA[Lessons Learned In My 20s]]></title>
-            <link>http://localhost:3000/posts/lessons-learned-in-my-20s</link>
-            <guid>http://localhost:3000/posts/lessons-learned-in-my-20s</guid>
+            <link>https://overcomewithchrist.com/posts/lessons-learned-in-my-20s</link>
+            <guid>https://overcomewithchrist.com/posts/lessons-learned-in-my-20s</guid>
             <pubDate>Tue, 14 Mar 2023 05:00:00 GMT</pubDate>
             <description><![CDATA[My Birthday just passed, and since I'm almost 30, I decided to do a little reflecting. Here are 10 things I learned in my almost 30 years of living.]]></description>
             <content:encoded><![CDATA[<iframe class="w-10/12 aspect-video mx-auto" src="https://www.youtube.com/embed/x85P-a8KZzI" allow="encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -168,8 +168,8 @@ Jumping right into it:</p>
         </item>
         <item>
             <title><![CDATA[Respect your body]]></title>
-            <link>http://localhost:3000/posts/respect-your-body</link>
-            <guid>http://localhost:3000/posts/respect-your-body</guid>
+            <link>https://overcomewithchrist.com/posts/respect-your-body</link>
+            <guid>https://overcomewithchrist.com/posts/respect-your-body</guid>
             <pubDate>Fri, 19 Aug 2022 05:00:00 GMT</pubDate>
             <description><![CDATA[Many people have different ideas of what it means to respect one's self, but after talking with my friends, and meditating on it a bit this is what I found.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -230,8 +230,8 @@ Jumping right into it:</p>
         </item>
         <item>
             <title><![CDATA[Life-Long Battle]]></title>
-            <link>http://localhost:3000/posts/life-long-battle</link>
-            <guid>http://localhost:3000/posts/life-long-battle</guid>
+            <link>https://overcomewithchrist.com/posts/life-long-battle</link>
+            <guid>https://overcomewithchrist.com/posts/life-long-battle</guid>
             <pubDate>Tue, 26 Apr 2022 05:00:00 GMT</pubDate>
             <description><![CDATA[Recently I experienced a pain episode that really shook me. So, as part of my recovery, I decided to share my battle and testimony.]]></description>
             <content:encoded><![CDATA[<iframe class="w-10/12 aspect-video mx-auto" src="https://www.youtube.com/embed/lkFmEcpKgcs" allow="encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -255,8 +255,8 @@ Jumping right into it:</p>
         </item>
         <item>
             <title><![CDATA[Is God a Genie?]]></title>
-            <link>http://localhost:3000/posts/is-god-a-genie</link>
-            <guid>http://localhost:3000/posts/is-god-a-genie</guid>
+            <link>https://overcomewithchrist.com/posts/is-god-a-genie</link>
+            <guid>https://overcomewithchrist.com/posts/is-god-a-genie</guid>
             <pubDate>Fri, 15 Apr 2022 05:00:00 GMT</pubDate>
             <description><![CDATA[Do you believe that God is supposed to answer all of your prayers according to your will? Let's think about this.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -277,8 +277,8 @@ Jumping right into it:</p>
         </item>
         <item>
             <title><![CDATA[Hope - a poem]]></title>
-            <link>http://localhost:3000/posts/hope-a-poem</link>
-            <guid>http://localhost:3000/posts/hope-a-poem</guid>
+            <link>https://overcomewithchrist.com/posts/hope-a-poem</link>
+            <guid>https://overcomewithchrist.com/posts/hope-a-poem</guid>
             <pubDate>Fri, 25 Mar 2022 05:00:00 GMT</pubDate>
             <description><![CDATA[Hope can be such a dangerous feeling. But if placed in the right thing, it can be very rewarding. Here is a poem that I wrote; enjoy.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -310,8 +310,8 @@ Jumping right into it:</p>
         </item>
         <item>
             <title><![CDATA[Faith without works is dead]]></title>
-            <link>http://localhost:3000/posts/faith-without-works-is-dead</link>
-            <guid>http://localhost:3000/posts/faith-without-works-is-dead</guid>
+            <link>https://overcomewithchrist.com/posts/faith-without-works-is-dead</link>
+            <guid>https://overcomewithchrist.com/posts/faith-without-works-is-dead</guid>
             <pubDate>Fri, 18 Mar 2022 05:00:00 GMT</pubDate>
             <description><![CDATA[What does it mean to have faith and not put in the work?]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -327,8 +327,8 @@ Jumping right into it:</p>
         </item>
         <item>
             <title><![CDATA[3 Things to know about the Universe]]></title>
-            <link>http://localhost:3000/posts/3-things-to-know-about-the-universe</link>
-            <guid>http://localhost:3000/posts/3-things-to-know-about-the-universe</guid>
+            <link>https://overcomewithchrist.com/posts/3-things-to-know-about-the-universe</link>
+            <guid>https://overcomewithchrist.com/posts/3-things-to-know-about-the-universe</guid>
             <pubDate>Fri, 11 Mar 2022 06:00:00 GMT</pubDate>
             <description><![CDATA[What can the universe do for you? Does it bring you good fortune, or get back at people on your behalf? Read on and find out what power the universe has.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -348,8 +348,8 @@ Jumping right into it:</p>
         </item>
         <item>
             <title><![CDATA[Not Alone]]></title>
-            <link>http://localhost:3000/posts/not-alone</link>
-            <guid>http://localhost:3000/posts/not-alone</guid>
+            <link>https://overcomewithchrist.com/posts/not-alone</link>
+            <guid>https://overcomewithchrist.com/posts/not-alone</guid>
             <pubDate>Fri, 04 Mar 2022 06:00:00 GMT</pubDate>
             <description><![CDATA[There will come a time when you will feel like you are alone in your belief. But you're not the only one who's felt that way.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -365,8 +365,8 @@ Jumping right into it:</p>
         </item>
         <item>
             <title><![CDATA[One way to examine your faith]]></title>
-            <link>http://localhost:3000/posts/one-way-to-examine-your-faith</link>
-            <guid>http://localhost:3000/posts/one-way-to-examine-your-faith</guid>
+            <link>https://overcomewithchrist.com/posts/one-way-to-examine-your-faith</link>
+            <guid>https://overcomewithchrist.com/posts/one-way-to-examine-your-faith</guid>
             <pubDate>Tue, 04 May 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[Sometimes it's good to take a moment to examine your faith and where it lies. Where does your faith lie?]]></description>
             <content:encoded><![CDATA[<p>
@@ -389,8 +389,8 @@ In Jesus’ Name, Amen.
         </item>
         <item>
             <title><![CDATA[Reduce your negative thoughts by doing this every day]]></title>
-            <link>http://localhost:3000/posts/reduce-your-negative-thoughts-by-doing-this-every-day</link>
-            <guid>http://localhost:3000/posts/reduce-your-negative-thoughts-by-doing-this-every-day</guid>
+            <link>https://overcomewithchrist.com/posts/reduce-your-negative-thoughts-by-doing-this-every-day</link>
+            <guid>https://overcomewithchrist.com/posts/reduce-your-negative-thoughts-by-doing-this-every-day</guid>
             <pubDate>Sat, 17 Apr 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[It can be difficult sometimes to stay calm when feeling anxious, depressed, or distressed. But if you do this regularly, you'll find yourself being more in control.]]></description>
             <content:encoded><![CDATA[<p>
@@ -425,8 +425,8 @@ Check out my previous post <a href="https://overcomewithchrist.com/posts/renewal
         </item>
         <item>
             <title><![CDATA[I Must Confess!]]></title>
-            <link>http://localhost:3000/posts/i-must-confess</link>
-            <guid>http://localhost:3000/posts/i-must-confess</guid>
+            <link>https://overcomewithchrist.com/posts/i-must-confess</link>
+            <guid>https://overcomewithchrist.com/posts/i-must-confess</guid>
             <pubDate>Sat, 03 Apr 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[What's the difference between confessing our sins and confessing Christ?]]></description>
             <content:encoded><![CDATA[<p>
@@ -461,8 +461,8 @@ If you aren't born again what are you waiting for? Check out my post: <a href="h
         </item>
         <item>
             <title><![CDATA[What does it mean to have life?]]></title>
-            <link>http://localhost:3000/posts/what-does-it-mean-to-have-life</link>
-            <guid>http://localhost:3000/posts/what-does-it-mean-to-have-life</guid>
+            <link>https://overcomewithchrist.com/posts/what-does-it-mean-to-have-life</link>
+            <guid>https://overcomewithchrist.com/posts/what-does-it-mean-to-have-life</guid>
             <pubDate>Sat, 06 Mar 2021 06:00:00 GMT</pubDate>
             <description><![CDATA[I had to sit down recently and think about what it means to have (a) life. ]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -489,8 +489,8 @@ Never again will I declare such a lie as I have no life. If you are in Christ, I
         </item>
         <item>
             <title><![CDATA[Marathon to Recovery]]></title>
-            <link>http://localhost:3000/posts/marathon-to-recovery</link>
-            <guid>http://localhost:3000/posts/marathon-to-recovery</guid>
+            <link>https://overcomewithchrist.com/posts/marathon-to-recovery</link>
+            <guid>https://overcomewithchrist.com/posts/marathon-to-recovery</guid>
             <pubDate>Thu, 11 Feb 2021 06:00:00 GMT</pubDate>
             <description><![CDATA[While going through my old Gmail, I found this old blog post I wrote on September 12, 2013. This was 8 years ago, and right at the beginning of my decision to put my trust in God.]]></description>
             <content:encoded><![CDATA[<p>
@@ -529,8 +529,8 @@ And like Tenth Avenue North sings in their song <span class="fbUnderline"><em><b
         </item>
         <item>
             <title><![CDATA[Sometimes we need encouragement]]></title>
-            <link>http://localhost:3000/posts/sometimes-we-need-encouragement</link>
-            <guid>http://localhost:3000/posts/sometimes-we-need-encouragement</guid>
+            <link>https://overcomewithchrist.com/posts/sometimes-we-need-encouragement</link>
+            <guid>https://overcomewithchrist.com/posts/sometimes-we-need-encouragement</guid>
             <pubDate>Sat, 06 Feb 2021 06:00:00 GMT</pubDate>
             <description><![CDATA[Sometimes reaching out to others about what you're going through can be very encouraging.]]></description>
             <content:encoded><![CDATA[<p>
@@ -551,8 +551,8 @@ I don't want to go on too much of a rant, so I will stop there. Share in the com
         </item>
         <item>
             <title><![CDATA[What are my labels?]]></title>
-            <link>http://localhost:3000/posts/what-are-my-labels</link>
-            <guid>http://localhost:3000/posts/what-are-my-labels</guid>
+            <link>https://overcomewithchrist.com/posts/what-are-my-labels</link>
+            <guid>https://overcomewithchrist.com/posts/what-are-my-labels</guid>
             <pubDate>Sat, 23 Jan 2021 06:00:00 GMT</pubDate>
             <description><![CDATA[Everyone has a different take when it comes to the lgbtq+ community, here is my view on it.]]></description>
             <content:encoded><![CDATA[<blockquote><p>But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light</p>
@@ -582,8 +582,8 @@ I pray that everyone would have clarity in the truth of who they are and that th
         </item>
         <item>
             <title><![CDATA[What are First Fruits?]]></title>
-            <link>http://localhost:3000/posts/what-are-first-fruits</link>
-            <guid>http://localhost:3000/posts/what-are-first-fruits</guid>
+            <link>https://overcomewithchrist.com/posts/what-are-first-fruits</link>
+            <guid>https://overcomewithchrist.com/posts/what-are-first-fruits</guid>
             <pubDate>Sat, 09 Jan 2021 06:00:00 GMT</pubDate>
             <description><![CDATA[Giving our first fruits is a way to honor and thank the Lord for all the provisions we received in the seasons past. It’s different from tithes in that it is not 10% of our income, and it only needs to be done annually.]]></description>
             <content:encoded><![CDATA[<blockquote>Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing and your vats will brim over with new wine.
@@ -607,8 +607,8 @@ I pray that everyone would have clarity in the truth of who they are and that th
         </item>
         <item>
             <title><![CDATA[How to start your new year strong]]></title>
-            <link>http://localhost:3000/posts/how-to-start-your-new-year-strong</link>
-            <guid>http://localhost:3000/posts/how-to-start-your-new-year-strong</guid>
+            <link>https://overcomewithchrist.com/posts/how-to-start-your-new-year-strong</link>
+            <guid>https://overcomewithchrist.com/posts/how-to-start-your-new-year-strong</guid>
             <pubDate>Mon, 28 Dec 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[As the year comes to an end, everyone starts to write goals and create ideas about how the next year will be.]]></description>
             <content:encoded><![CDATA[<p>
@@ -638,8 +638,8 @@ Every year has a purpose, especially as we draw closer to the Lord's return. Alw
         </item>
         <item>
             <title><![CDATA[Recap of the Year 2020]]></title>
-            <link>http://localhost:3000/posts/recap-of-the-year-2020</link>
-            <guid>http://localhost:3000/posts/recap-of-the-year-2020</guid>
+            <link>https://overcomewithchrist.com/posts/recap-of-the-year-2020</link>
+            <guid>https://overcomewithchrist.com/posts/recap-of-the-year-2020</guid>
             <pubDate>Sat, 19 Dec 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[2020 was quite the year! This post is just a recap of all that happened to me and with me during the year 2020. Leave your comments and let me know how it was for you.]]></description>
             <content:encoded><![CDATA[<p>2020 was quite the year! It was full of ups and downs for many but for me, it was full of joy and peace. This post is to give thanks to God for all he has done for me throughout this year. I have so many testimonies of what the Lord has done, but I will only name a few.</p>
@@ -667,8 +667,8 @@ Every year has a purpose, especially as we draw closer to the Lord's return. Alw
         </item>
         <item>
             <title><![CDATA[What is Christianity]]></title>
-            <link>http://localhost:3000/posts/what-is-christianity</link>
-            <guid>http://localhost:3000/posts/what-is-christianity</guid>
+            <link>https://overcomewithchrist.com/posts/what-is-christianity</link>
+            <guid>https://overcomewithchrist.com/posts/what-is-christianity</guid>
             <pubDate>Sat, 28 Nov 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[Being a Christian is more than just going to church. It's a lifestyle, understanding, and spiritual renewal and development. Don't understand what I mean? Continue reading for more details.]]></description>
             <content:encoded><![CDATA[<p>
@@ -693,8 +693,8 @@ Do not take what you have been given for granted. Your life should change once y
         </item>
         <item>
             <title><![CDATA[There is always something to pray about]]></title>
-            <link>http://localhost:3000/posts/there-is-always-something-to-pray-about</link>
-            <guid>http://localhost:3000/posts/there-is-always-something-to-pray-about</guid>
+            <link>https://overcomewithchrist.com/posts/there-is-always-something-to-pray-about</link>
+            <guid>https://overcomewithchrist.com/posts/there-is-always-something-to-pray-about</guid>
             <pubDate>Sat, 21 Nov 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[Saying "I won't pray today because I don't know what to pray about" is no longer acceptable. Lack of a reason to pray is not a reason to not pray...]]></description>
             <content:encoded><![CDATA[<blockquote><p>One day Jesus told his disciples a story to show that they should always pray and never give up.</p>
@@ -725,8 +725,8 @@ If I pray regardless of these feelings, the Holy Spirit will bring fort things t
         </item>
         <item>
             <title><![CDATA[My 2020 Fasting Journey]]></title>
-            <link>http://localhost:3000/posts/my-2020-fasting-journey</link>
-            <guid>http://localhost:3000/posts/my-2020-fasting-journey</guid>
+            <link>https://overcomewithchrist.com/posts/my-2020-fasting-journey</link>
+            <guid>https://overcomewithchrist.com/posts/my-2020-fasting-journey</guid>
             <pubDate>Sat, 07 Nov 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[This year, I learned what it is to fast. Quarantine gave me the perfect opportunity to begin to learn how to have self-control when it comes to eating. ]]></description>
             <content:encoded><![CDATA[<p>
@@ -748,8 +748,8 @@ Since then, I've been able to offer myself as a living sacrifice more often to t
         </item>
         <item>
             <title><![CDATA[Who you surround yourself with matters]]></title>
-            <link>http://localhost:3000/posts/who-you-surround-yourself-with-matters</link>
-            <guid>http://localhost:3000/posts/who-you-surround-yourself-with-matters</guid>
+            <link>https://overcomewithchrist.com/posts/who-you-surround-yourself-with-matters</link>
+            <guid>https://overcomewithchrist.com/posts/who-you-surround-yourself-with-matters</guid>
             <pubDate>Sat, 24 Oct 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Your friend group is very important no matter who you are. They usually end up dictating the types of habits you build.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -786,8 +786,8 @@ All this to say, it's okay if God takes you out of certain relationships that me
         </item>
         <item>
             <title><![CDATA[Faith over fear]]></title>
-            <link>http://localhost:3000/posts/faith-over-fear</link>
-            <guid>http://localhost:3000/posts/faith-over-fear</guid>
+            <link>https://overcomewithchrist.com/posts/faith-over-fear</link>
+            <guid>https://overcomewithchrist.com/posts/faith-over-fear</guid>
             <pubDate>Fri, 16 Oct 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[If faith is the evidence of things not seen, and the substance of things hoped for, then what is fear? Why should we make sure to continuously build our faith?]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -805,8 +805,8 @@ All this to say, it's okay if God takes you out of certain relationships that me
         </item>
         <item>
             <title><![CDATA[Marriage: Thoughts on Courting vs Dating]]></title>
-            <link>http://localhost:3000/posts/marriage-thoughts-on-courting-vs-dating</link>
-            <guid>http://localhost:3000/posts/marriage-thoughts-on-courting-vs-dating</guid>
+            <link>https://overcomewithchrist.com/posts/marriage-thoughts-on-courting-vs-dating</link>
+            <guid>https://overcomewithchrist.com/posts/marriage-thoughts-on-courting-vs-dating</guid>
             <pubDate>Sat, 10 Oct 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[I have been thinking a lot lately about marriage.  I have especially been considering the difference between old-style courtship and modern-day dating. ]]></description>
             <content:encoded><![CDATA[<p>I have been thinking a lot lately of marriage. I have especially been considering the difference between old-style courtship and modern-day dating.</p>
@@ -833,8 +833,8 @@ All this to say, it's okay if God takes you out of certain relationships that me
         </item>
         <item>
             <title><![CDATA[How to make sharing the Gospel a little easier]]></title>
-            <link>http://localhost:3000/posts/how-to-make-sharing-the-gospel-a-little-easier</link>
-            <guid>http://localhost:3000/posts/how-to-make-sharing-the-gospel-a-little-easier</guid>
+            <link>https://overcomewithchrist.com/posts/how-to-make-sharing-the-gospel-a-little-easier</link>
+            <guid>https://overcomewithchrist.com/posts/how-to-make-sharing-the-gospel-a-little-easier</guid>
             <pubDate>Sat, 03 Oct 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Bringing people to Christ can be a daunting task, but it's important to understand that it’s the Spirit within us that does most of the work. Once we understand that, here are other things we can do to help make the task a bit easier for us.]]></description>
             <content:encoded><![CDATA[<p>
@@ -863,8 +863,8 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
         </item>
         <item>
             <title><![CDATA[Why should we share the Gospel and bring people to Christ?]]></title>
-            <link>http://localhost:3000/posts/why-should-we-share-the-gospel-and-bring-people-to-christ</link>
-            <guid>http://localhost:3000/posts/why-should-we-share-the-gospel-and-bring-people-to-christ</guid>
+            <link>https://overcomewithchrist.com/posts/why-should-we-share-the-gospel-and-bring-people-to-christ</link>
+            <guid>https://overcomewithchrist.com/posts/why-should-we-share-the-gospel-and-bring-people-to-christ</guid>
             <pubDate>Sat, 12 Sep 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[As Christians, it’s important that we share the word with others.]]></description>
             <content:encoded><![CDATA[<p>As Christians, it’s important that we share the word with others. It’s not just about sharing the word, but more importantly, getting people to give their life to Christ. Just in case you’re wondering why this is important, I have listed 3 reasons below.</p>
@@ -881,8 +881,8 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
         </item>
         <item>
             <title><![CDATA[How do you respond to sickness?]]></title>
-            <link>http://localhost:3000/posts/how-do-you-respond-to-sickness</link>
-            <guid>http://localhost:3000/posts/how-do-you-respond-to-sickness</guid>
+            <link>https://overcomewithchrist.com/posts/how-do-you-respond-to-sickness</link>
+            <guid>https://overcomewithchrist.com/posts/how-do-you-respond-to-sickness</guid>
             <pubDate>Sat, 15 Aug 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Infirmities are hard to deal with and everyone deals with them differently, but in all things, I know that God will bring me through it. Sickness doesn't rule me, Christ does]]></description>
             <content:encoded><![CDATA[<p>I was born into this world with sickle cell. For those of you who don't know what that it, it is a blood disease where blood is more prone to not getting enough oxygen. When that happens, instead of being nice and round so it can travel through my veins and capillaries smoothly, it takes the shape of a sickle. This c shape is pointy and not so smooth and can get stuck while traveling. Which causes immense pain in the area where the clog happens.</p>
@@ -897,8 +897,8 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
         </item>
         <item>
             <title><![CDATA[Prayer for decernment and protection]]></title>
-            <link>http://localhost:3000/posts/prayer-for-decernment-and-protection</link>
-            <guid>http://localhost:3000/posts/prayer-for-decernment-and-protection</guid>
+            <link>https://overcomewithchrist.com/posts/prayer-for-decernment-and-protection</link>
+            <guid>https://overcomewithchrist.com/posts/prayer-for-decernment-and-protection</guid>
             <pubDate>Sat, 01 Aug 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[We are in tough times, but we have a tough God! If you're feeling weak, go to God in prayer, he will renew and restore your spirit.]]></description>
             <content:encoded><![CDATA[<p>Lord,</p>
@@ -911,8 +911,8 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
         </item>
         <item>
             <title><![CDATA[Jesus’ Commandments]]></title>
-            <link>http://localhost:3000/posts/jesus’-commandments</link>
-            <guid>http://localhost:3000/posts/jesus’-commandments</guid>
+            <link>https://overcomewithchrist.com/posts/jesus’-commandments</link>
+            <guid>https://overcomewithchrist.com/posts/jesus’-commandments</guid>
             <pubDate>Sat, 25 Jul 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Many people think that Jesus' commands are the 10 commandments. Lets take a deeper look at what the Bible says.]]></description>
             <content:encoded><![CDATA[<p>Those who follow the commands of Jesus have access to many promises. Many people think that these commands are the 10 commandments. While they aren’t completely off the mark, they have still missed the mark. Jesus commanded us to love our neighbor, stating that it’s equally as important as worshiping only God (<a>Mark 12:29-31</a>, <a>Matthew 22:37-40</a>).</p>
@@ -924,8 +924,8 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
         </item>
         <item>
             <title><![CDATA[Benefits of Praying in Tongues]]></title>
-            <link>http://localhost:3000/posts/benefits-of-praying-in-tongues</link>
-            <guid>http://localhost:3000/posts/benefits-of-praying-in-tongues</guid>
+            <link>https://overcomewithchrist.com/posts/benefits-of-praying-in-tongues</link>
+            <guid>https://overcomewithchrist.com/posts/benefits-of-praying-in-tongues</guid>
             <pubDate>Sat, 11 Jul 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Before Jesus ascended into heaven, he instructed the apostles to wait on the Holy Spirit. When the Holy Spirit arrived, the first gift given was the ability to speak in tongues Acts 2:4. Which means that they were able to speak in a language that was foreign to them. Here I will tell you of 2 benefits of praying in tongues.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -949,8 +949,8 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
         </item>
         <item>
             <title><![CDATA[What is my new nature?]]></title>
-            <link>http://localhost:3000/posts/what-is-my-new-nature</link>
-            <guid>http://localhost:3000/posts/what-is-my-new-nature</guid>
+            <link>https://overcomewithchrist.com/posts/what-is-my-new-nature</link>
+            <guid>https://overcomewithchrist.com/posts/what-is-my-new-nature</guid>
             <pubDate>Sun, 05 Jul 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[I’ve been thinking lately a lot about what it means to be born again. What does it mean to become a new creature while I am still on this earth?]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -973,8 +973,8 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
         </item>
         <item>
             <title><![CDATA[Put on the Full Armor of God]]></title>
-            <link>http://localhost:3000/posts/put-on-the-full-armor-of-god</link>
-            <guid>http://localhost:3000/posts/put-on-the-full-armor-of-god</guid>
+            <link>https://overcomewithchrist.com/posts/put-on-the-full-armor-of-god</link>
+            <guid>https://overcomewithchrist.com/posts/put-on-the-full-armor-of-god</guid>
             <pubDate>Sat, 27 Jun 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[In Ephesians 6 starting from verse 10, Paul warns everyone to be strong in the Lord and to put on his full armor. Let's take a closer look at the armor and what exactly it's protecting.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -994,8 +994,8 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
         </item>
         <item>
             <title><![CDATA[A lesson from Shadrach, Meshach, and Abednego.]]></title>
-            <link>http://localhost:3000/posts/a-lesson-from-shadrach-meshach-and-abednego</link>
-            <guid>http://localhost:3000/posts/a-lesson-from-shadrach-meshach-and-abednego</guid>
+            <link>https://overcomewithchrist.com/posts/a-lesson-from-shadrach-meshach-and-abednego</link>
+            <guid>https://overcomewithchrist.com/posts/a-lesson-from-shadrach-meshach-and-abednego</guid>
             <pubDate>Sat, 20 Jun 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Who is the God that you serve? Is He your genie that you call on only when you need something? Or is He the all-powerful, almighty, creator of all the universe?]]></description>
             <content:encoded><![CDATA[<blockquote >
@@ -1010,8 +1010,8 @@ This is a continuation of my previous post: <a href="https://overcomewithchrist.
         </item>
         <item>
             <title><![CDATA[Psalm 42]]></title>
-            <link>http://localhost:3000/posts/psalm-42</link>
-            <guid>http://localhost:3000/posts/psalm-42</guid>
+            <link>https://overcomewithchrist.com/posts/psalm-42</link>
+            <guid>https://overcomewithchrist.com/posts/psalm-42</guid>
             <pubDate>Sat, 13 Jun 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[When I get sad or discouraged, I like to read Psalm 42. I find it to be a great example of scripture that is easy to resonate with. It also reminds me to continue to look to God.]]></description>
             <content:encoded><![CDATA[<p>
@@ -1033,8 +1033,8 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
         </item>
         <item>
             <title><![CDATA[3 things to Keep in Mind as you grow in your faith]]></title>
-            <link>http://localhost:3000/posts/3-things-to-keep-in-mind-as-you-grow-in-your-faith</link>
-            <guid>http://localhost:3000/posts/3-things-to-keep-in-mind-as-you-grow-in-your-faith</guid>
+            <link>https://overcomewithchrist.com/posts/3-things-to-keep-in-mind-as-you-grow-in-your-faith</link>
+            <guid>https://overcomewithchrist.com/posts/3-things-to-keep-in-mind-as-you-grow-in-your-faith</guid>
             <pubDate>Sat, 23 May 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Being a Christian isn't always easy, but we've got to remember to stay bold and preach the good news to the world. Romans 1:16 -> For I am not ashamed of the gospel because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.]]></description>
             <content:encoded><![CDATA[<h3>1. Have a fear of God not man</h3>
@@ -1048,8 +1048,8 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
         </item>
         <item>
             <title><![CDATA[How I view Submission]]></title>
-            <link>http://localhost:3000/posts/how-i-view-submission</link>
-            <guid>http://localhost:3000/posts/how-i-view-submission</guid>
+            <link>https://overcomewithchrist.com/posts/how-i-view-submission</link>
+            <guid>https://overcomewithchrist.com/posts/how-i-view-submission</guid>
             <pubDate>Sat, 16 May 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[From my experience, when people think of being submissive they always think of giving up all control to someone. And by giving up all control they have thereby lost their own freedom. Just because you're submissive, doesn't mean you lose your freedom, depending on the circumstances of which you have to submit.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -1069,8 +1069,8 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
         </item>
         <item>
             <title><![CDATA[How this whole pandemic thing is making me feel.]]></title>
-            <link>http://localhost:3000/posts/how-this-whole-pandemic-thing-is-making-me-feel</link>
-            <guid>http://localhost:3000/posts/how-this-whole-pandemic-thing-is-making-me-feel</guid>
+            <link>https://overcomewithchrist.com/posts/how-this-whole-pandemic-thing-is-making-me-feel</link>
+            <guid>https://overcomewithchrist.com/posts/how-this-whole-pandemic-thing-is-making-me-feel</guid>
             <pubDate>Sat, 09 May 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[The way the world is right now is very saddening. It seems no matter where you turn there is propaganda.]]></description>
             <content:encoded><![CDATA[<p>The way the world is right now is very saddening. It seems no matter where you turn there is propaganda. Whether is the fear agenda propaganda, or the plan-demic agenda propaganda.</p>
@@ -1091,8 +1091,8 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
         </item>
         <item>
             <title><![CDATA[Honor God with your body]]></title>
-            <link>http://localhost:3000/posts/honor-god-with-your-body</link>
-            <guid>http://localhost:3000/posts/honor-god-with-your-body</guid>
+            <link>https://overcomewithchrist.com/posts/honor-god-with-your-body</link>
+            <guid>https://overcomewithchrist.com/posts/honor-god-with-your-body</guid>
             <pubDate>Sat, 02 May 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Following God is never in vain. The things the world glorify is never worth missing out on the promise of spending eternity with the one who created us and loves us endlessly. We are worth far more than we sometimes think. This post is another testimony.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -1114,8 +1114,8 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
         </item>
         <item>
             <title><![CDATA[No Turning Back - My Journey to Christ]]></title>
-            <link>http://localhost:3000/posts/no-turning-back-my-journey-to-christ</link>
-            <guid>http://localhost:3000/posts/no-turning-back-my-journey-to-christ</guid>
+            <link>https://overcomewithchrist.com/posts/no-turning-back-my-journey-to-christ</link>
+            <guid>https://overcomewithchrist.com/posts/no-turning-back-my-journey-to-christ</guid>
             <pubDate>Fri, 24 Apr 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[I made up my mind to get to know Christ my sophomore year of College. Find out why.]]></description>
             <content:encoded><![CDATA[<p>I made up my mind to get to know Christ my sophomore year of College. Why? Well, I was at a point where I just didn't have anything meaningful to hang on to in this world. I remember thinking; "the only way for my life to have meaning, is for me to find something to define it. I might as well let it be God, at least then I won't have to rely on myself".</p>
@@ -1135,8 +1135,8 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
         </item>
         <item>
             <title><![CDATA[Why we need salvation]]></title>
-            <link>http://localhost:3000/posts/why-we-need-salvation</link>
-            <guid>http://localhost:3000/posts/why-we-need-salvation</guid>
+            <link>https://overcomewithchrist.com/posts/why-we-need-salvation</link>
+            <guid>https://overcomewithchrist.com/posts/why-we-need-salvation</guid>
             <pubDate>Fri, 17 Apr 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[For there to be good news, there would need to be an alternate bad situation. Lets not take for granted what we have been given. Here is why we need salvation.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -1165,8 +1165,8 @@ Going through the valleys sometimes can be hard, but I like to hold on to Psalm 
         </item>
         <item>
             <title><![CDATA[Happy Easter 2020!]]></title>
-            <link>http://localhost:3000/posts/happy-easter-2020</link>
-            <guid>http://localhost:3000/posts/happy-easter-2020</guid>
+            <link>https://overcomewithchrist.com/posts/happy-easter-2020</link>
+            <guid>https://overcomewithchrist.com/posts/happy-easter-2020</guid>
             <pubDate>Sun, 12 Apr 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Happy Easter 2020!  It's not because he died, but because he rose again that we have good news to share!]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -1192,8 +1192,8 @@ Jesus came and told his disciples, “I have been given all authority in heaven 
         </item>
         <item>
             <title><![CDATA[A conversation about relationships]]></title>
-            <link>http://localhost:3000/posts/a-conversation-about-relationships</link>
-            <guid>http://localhost:3000/posts/a-conversation-about-relationships</guid>
+            <link>https://overcomewithchrist.com/posts/a-conversation-about-relationships</link>
+            <guid>https://overcomewithchrist.com/posts/a-conversation-about-relationships</guid>
             <pubDate>Sat, 11 Apr 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Recently I started thinking about relationships and why we put so much weight on them. I needed someone to talk to about it, so I did what any sibling would do and I reached out to my little sister.]]></description>
             <content:encoded><![CDATA[<p>
@@ -1252,8 +1252,8 @@ What are your thoughts on the conversation? Leave a comment below!
         </item>
         <item>
             <title><![CDATA[No matter the situation, God deserves all the praise]]></title>
-            <link>http://localhost:3000/posts/no-matter-the-situation-god-deserves-all-the-praise</link>
-            <guid>http://localhost:3000/posts/no-matter-the-situation-god-deserves-all-the-praise</guid>
+            <link>https://overcomewithchrist.com/posts/no-matter-the-situation-god-deserves-all-the-praise</link>
+            <guid>https://overcomewithchrist.com/posts/no-matter-the-situation-god-deserves-all-the-praise</guid>
             <pubDate>Sun, 05 Apr 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Praising God is a way to remind us of who He is. Through every season God deserves all the praise. God doesn't stop being God despite what our situation may be.]]></description>
             <content:encoded><![CDATA[<p>
@@ -1312,8 +1312,8 @@ Amen
         </item>
         <item>
             <title><![CDATA[Don't limit God's forgiveness for you]]></title>
-            <link>http://localhost:3000/posts/dont-limit-gods-forgiveness-for-you</link>
-            <guid>http://localhost:3000/posts/dont-limit-gods-forgiveness-for-you</guid>
+            <link>https://overcomewithchrist.com/posts/dont-limit-gods-forgiveness-for-you</link>
+            <guid>https://overcomewithchrist.com/posts/dont-limit-gods-forgiveness-for-you</guid>
             <pubDate>Sun, 29 Mar 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[The level of which you forgive others is the level you'll be able to accept God's forgiveness.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -1337,8 +1337,8 @@ So when you go to ask God for forgiveness, be sure to also forgive those who hav
         </item>
         <item>
             <title><![CDATA[Prayer and Thanksgiving]]></title>
-            <link>http://localhost:3000/posts/prayer-and-thanksgiving</link>
-            <guid>http://localhost:3000/posts/prayer-and-thanksgiving</guid>
+            <link>https://overcomewithchrist.com/posts/prayer-and-thanksgiving</link>
+            <guid>https://overcomewithchrist.com/posts/prayer-and-thanksgiving</guid>
             <pubDate>Wed, 25 Mar 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[Don't worry about anything; instead, pray about everything. Tell God what you need, and thank him for all he has done. Then you will experience God's peace, which exceeds anything we can understand.]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -1358,8 +1358,8 @@ And we also know that if we ask the father for anything, through Jesus, he will 
         </item>
         <item>
             <title><![CDATA[How to begin using the Bible as a guide for life]]></title>
-            <link>http://localhost:3000/posts/how-to-begin-using-the-bible-as-a-guide-for-life</link>
-            <guid>http://localhost:3000/posts/how-to-begin-using-the-bible-as-a-guide-for-life</guid>
+            <link>https://overcomewithchrist.com/posts/how-to-begin-using-the-bible-as-a-guide-for-life</link>
+            <guid>https://overcomewithchrist.com/posts/how-to-begin-using-the-bible-as-a-guide-for-life</guid>
             <pubDate>Mon, 16 Mar 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[As a babe in the faith it can be difficult to know how to use the Bible as a guide. Here are 6 steps to help propel your journey forward in learning to understand how to use your most important tool as a Christian. ]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -1405,8 +1405,8 @@ All those steps I just listed are meaningless if you don't do anything with what
         </item>
         <item>
             <title><![CDATA[I know who I am]]></title>
-            <link>http://localhost:3000/posts/i-know-who-i-am</link>
-            <guid>http://localhost:3000/posts/i-know-who-i-am</guid>
+            <link>https://overcomewithchrist.com/posts/i-know-who-i-am</link>
+            <guid>https://overcomewithchrist.com/posts/i-know-who-i-am</guid>
             <pubDate>Fri, 13 Mar 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[It wasn't until I started my journey into getting to know myself through Christ that I really started to understand and accept myself. I knew and accepted that God doesn't make mistakes, because He is God.]]></description>
             <content:encoded><![CDATA[<p>
@@ -1432,8 +1432,8 @@ What I think a lot of people don't understand is that it's not your actions that
         </item>
         <item>
             <title><![CDATA[Ready to claim your salvation?]]></title>
-            <link>http://localhost:3000/posts/ready-to-claim-your-salvation</link>
-            <guid>http://localhost:3000/posts/ready-to-claim-your-salvation</guid>
+            <link>https://overcomewithchrist.com/posts/ready-to-claim-your-salvation</link>
+            <guid>https://overcomewithchrist.com/posts/ready-to-claim-your-salvation</guid>
             <pubDate>Sun, 23 Feb 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For it is by believing in your heart that you are made right with God...]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -1456,8 +1456,8 @@ Father God, I believe with all my heart in Jesus Christ; the son of the living G
         </item>
         <item>
             <title><![CDATA[Before you can love your neighbor]]></title>
-            <link>http://localhost:3000/posts/before-you-can-love-your-neighbor</link>
-            <guid>http://localhost:3000/posts/before-you-can-love-your-neighbor</guid>
+            <link>https://overcomewithchrist.com/posts/before-you-can-love-your-neighbor</link>
+            <guid>https://overcomewithchrist.com/posts/before-you-can-love-your-neighbor</guid>
             <pubDate>Fri, 14 Feb 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[The best way to learn to love yourself is to first start seeing yourself the way God sees you. Because the Word of God is truth!]]></description>
             <content:encoded><![CDATA[<blockquote>
@@ -1492,8 +1492,8 @@ But you are not like that, for you are a chosen people. You are royal priests, a
         </item>
         <item>
             <title><![CDATA[Crying out to God]]></title>
-            <link>http://localhost:3000/posts/crying-out-to-god</link>
-            <guid>http://localhost:3000/posts/crying-out-to-god</guid>
+            <link>https://overcomewithchrist.com/posts/crying-out-to-god</link>
+            <guid>https://overcomewithchrist.com/posts/crying-out-to-god</guid>
             <pubDate>Tue, 21 Jan 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[I don't know why I feel like I must always act strong when I'm with God. It doesn't make sense, because He already knows my heart and my thoughts ]]></description>
             <content:encoded><![CDATA[<p>
@@ -1506,8 +1506,8 @@ This is one reason why I truly admire David. He would cry out to God for everyth
         </item>
         <item>
             <title><![CDATA[Resources for New Christians]]></title>
-            <link>http://localhost:3000/posts/resources-for-new-christians</link>
-            <guid>http://localhost:3000/posts/resources-for-new-christians</guid>
+            <link>https://overcomewithchrist.com/posts/resources-for-new-christians</link>
+            <guid>https://overcomewithchrist.com/posts/resources-for-new-christians</guid>
             <pubDate>Sun, 19 Jan 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[ As a new believer, it can feel overwhelming trying to figure out what to do to get as close to God as the people in the faith you admire seem to be. Here are just a few places to start if you are currently in that situation.  ]]></description>
             <content:encoded><![CDATA[<p>
@@ -1540,8 +1540,8 @@ Have any resources you find helpful? Share them in the comments down below and l
         </item>
         <item>
             <title><![CDATA[Renewal of the Mind]]></title>
-            <link>http://localhost:3000/posts/renewal-of-the-mind</link>
-            <guid>http://localhost:3000/posts/renewal-of-the-mind</guid>
+            <link>https://overcomewithchrist.com/posts/renewal-of-the-mind</link>
+            <guid>https://overcomewithchrist.com/posts/renewal-of-the-mind</guid>
             <pubDate>Wed, 15 Jan 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[ Even when I feel a little depressed or sad, I still know the truth God has told me about my situation and can work to dismiss the lies the devil wants to make me believe. ]]></description>
             <content:encoded><![CDATA[<p xmlns="http://www.w3.org/1999/html">
@@ -1594,8 +1594,8 @@ Do you have any thoughts that you’re trying to overcome? Or scripture that hel
         </item>
         <item>
             <title><![CDATA[I want you to know]]></title>
-            <link>http://localhost:3000/posts/i-want-you-to-know</link>
-            <guid>http://localhost:3000/posts/i-want-you-to-know</guid>
+            <link>https://overcomewithchrist.com/posts/i-want-you-to-know</link>
+            <guid>https://overcomewithchrist.com/posts/i-want-you-to-know</guid>
             <pubDate>Fri, 10 Jan 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[I want you to know that Jesus loves you. I'm not talking about a superficial love either.]]></description>
             <content:encoded><![CDATA[<p>

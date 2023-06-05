@@ -3,9 +3,10 @@
 import {getProducts} from '@/context/product-list-context'
 
 export default function handler(req, res) {
+  let snipCartObject
   if (req.method === 'GET') {
     const products = getProducts()
-    const snipCartObject = products.map(({details}) => {
+    snipCartObject = products.map(({details}) => {
       let sizes = ''
       details.variants.map((variant)=>{
         sizes += `${variant.size} [+${variant.price}]| `
@@ -28,7 +29,6 @@ export default function handler(req, res) {
         ]
       }
     })
-    res.status(200).json(snipCartObject)
   }
-  res.status(200).json()
+  res.status(200).json(snipCartObject)
 }
