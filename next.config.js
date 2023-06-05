@@ -18,7 +18,8 @@ const nextConfig = {
       }
     )
     return cfg;
-  }
+  },
+  output: 'standalone'
 }
 module.exports = withSentryConfig(
   nextConfig,
