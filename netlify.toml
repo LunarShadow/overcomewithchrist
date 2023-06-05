@@ -1,6 +1,5 @@
 [build]
   command = "npm run build"
-  publish = ".next"
 [build.processing]
   skip_processing = false
 [build.processing.css]
