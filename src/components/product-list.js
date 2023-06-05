@@ -50,6 +50,7 @@ const ProductList = ({limit = 10, displayLoadMore = false, category = null}) => 
                       data-item-id={product?.details.pid}
                       data-item-name={product?.details.title}
                       data-item-price={product?.details.price}
+                      data-item-url={'/'}
                       data-item-description={product?.details.description}
                       data-item-image={product?.details.images[0]}
                       data-item-custom1-name={'size'}

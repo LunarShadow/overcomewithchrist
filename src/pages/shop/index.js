@@ -3,6 +3,7 @@ import ProductList from '@/components/product-list'
 import {ProductListProvider} from '@/context/product-list-context'
 import Head from 'next/head'
 import Script from 'next/script'
+import Image from 'next/image'
 const ShopHome = () => {
 
   return (<>
@@ -13,8 +14,10 @@ const ShopHome = () => {
       </Head>
 
       <Layout pageTitle={'Shop'}>
-        <h1 className={'pageTitle'}>All Products</h1>
-        <a href="#" className="snipcart-checkout">Click here to checkout</a>
+        <div className={"flex flex-row justify-between content-center "}>
+          <h1 className={'pageTitle'}>All Products</h1>
+          <a href="#" className="snipcart-checkout block py-10 px-5 md:px-10"><Image alt={"cart"} width={25} height={25} src={"/img/shop/cart.png"} /></a>
+        </div>
         <ProductListProvider>
           <ProductList limit={10} />
         </ProductListProvider>
