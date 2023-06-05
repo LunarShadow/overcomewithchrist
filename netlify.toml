@@ -1,5 +1,6 @@
 [build]
-  command = "npm run build"
+  command = "npm run build && npm run export"
+  publish = "out"
 [build.processing]
   skip_processing = false
 [build.processing.css]
@@ -10,7 +11,6 @@
   minify = true
 [context.production.environment]
   NODE_ENV = "production"
-  NEXT_SERVERLESS = "true"
   [[redirects]]
     from = "https://shop.overcomewithchrist.com"
     to = "https://overcomewithchrist.com/shop"
