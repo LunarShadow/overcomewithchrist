@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = ".next/output"
+  publish = ".next/standalone"
 [build.processing]
   skip_processing = false
 [build.processing.css]
