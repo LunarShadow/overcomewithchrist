@@ -1,7 +1,6 @@
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
 [build]
   command = "next build"
+  edge_functions = "/src/pages/api"
   publish = ".next"
 [build.processing]
   skip_processing = false
@@ -11,10 +10,3 @@
 [build.processing.js]
   bundle = true
   minify = true
-[context.production.environment]
-  NODE_ENV = "production"
-  [[redirects]]
-    from = "https://shop.overcomewithchrist.com"
-    to = "https://overcomewithchrist.com/shop"
-    status = 301
-    force = true
