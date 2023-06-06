@@ -27,9 +27,9 @@ const ShopHome = (products) => {
 }
 
 export async function getStaticProps() {
-  const products = getProducts()
+  const products = await getProducts()
   return {
-    props: {products}
+    props: { products, fallback: false }
   }
 }
 
