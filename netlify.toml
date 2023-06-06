@@ -11,3 +11,9 @@
   minify = true
 [context.production.environment]
   NODE_ENV = "production"
+  NEXT_SERVERLESS = "true"
+  [[redirects]]
+    from = "https://shop.overcomewithchrist.com"
+    to = "https://overcomewithchrist.com/shop"
+    status = 301
+    force = true

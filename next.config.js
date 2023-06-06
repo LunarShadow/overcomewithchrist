@@ -18,11 +18,6 @@ const nextConfig = {
       }
     )
     return cfg;
-  },
-  async redirects() {
-    return [{
-      source: 'shop.overcomewithchrist.com', destination: '/shop', permanent: true,
-    }]
   }
 }
 module.exports = withSentryConfig(
