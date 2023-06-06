@@ -1,6 +1,6 @@
 import Layout from '@/components/layout'
 import ProductList from '@/components/product-list'
-import {getProducts} from '@/context/product-list-context'
+import {getProducts, ProductListProvider} from '@/context/product-list-context'
 import Head from 'next/head'
 import Script from 'next/script'
 import Image from 'next/image'
