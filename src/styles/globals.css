@@ -61,6 +61,10 @@ body {
     hr {
         @apply border border-neutral-300 my-3
     }
+
+    select {
+        @apply block w-full rounded-lg border-2 py-1.5 pl-2 bg-pastelOrange border-primary
+    }
 }
 .layout {
     @apply mx-auto relative w-full lg:w-10/12 xl:w-8/12
@@ -84,4 +88,46 @@ body {
 
 .blog-list {
     @apply px-3 lg:px-6 list-disc list-inside
+}
+
+.add-to-cart {
+ @apply text-center text-white hover:text-black font-semibold mt-5 bg-primary rounded-3xl mx-auto cursor-pointer w-full
+}
+
+
+#snipcart {
+    /* -----------------
+        Colors
+    ----------------- */
+    --color-alt: #FFB284;
+    --bgColor-alt: #FFF8F2;
+    --color-secondary: #FFF8F2;
+    --color-orange: orange;
+
+    --color-link: var(--color-orange);
+    --color-link-hover: var(--color-alt);;
+    --color-buttonPrimary: black;
+
+    --borderColor-input-active: var(--color-alt);
+    --borderColor-input-hover: var(--color-alt);
+    --borderColor-input-focus: var(--color-alt);
+    --color-inputIcon-checked: var(--color-orange);
+
+
+    --borderColor-buttonPrimary: var(--color-alt);
+    --bgColor-buttonPrimary-hover: var(--color-alt);
+
+    --color-badge: var(--color-orange);
+    --color-badge-active: var(--color-orange);
+    --bgColor-badge: var(--color-secondary);
+    --bgColor-badge-active: var(--color-secondary);
+    --borderColor-badge-active: var(--color-orange);
+
+    --color-badge-disabled: var(--color-alt);
+    --borderColor-badge-disabled: var(--color-orange);
+    --bgColor-badge-disabled: var(--color-secondary);
+
+    --bgColor-modal: var(--color-secondary);
+    --color-icon: var(--color-orange);
+
 }

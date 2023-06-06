@@ -13,6 +13,7 @@
     "@mailchimp/mailchimp_marketing": "^3.0.80",
     "@next/font": "13.1.6",
     "@sentry/nextjs": "^7.38.0",
+    "@tailwindcss/forms": "^0.5.3",
     "autoprefixer": "^10.4.13",
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",

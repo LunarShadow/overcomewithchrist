@@ -17,7 +17,7 @@ export const ProductListProvider = ({ children }) => {
   )
 }
 
-const getProducts = () => {
+export const getProducts = () => {
   // get all the products and details from contents folder
   return ((context) => {
     const keys = context.keys()

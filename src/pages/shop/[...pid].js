@@ -1,10 +1,10 @@
 import Layout from '@/components/layout'
 
-const Product = () => {
+const ProductDetails = () => {
   return (
     <Layout pageTitle={'product name'}>
       <h1> Coming Soon</h1>
     </Layout>)
 }
 
-export default Product
+export default ProductDetails
