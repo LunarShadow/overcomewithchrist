@@ -1,10 +1,10 @@
 import Layout from '@/components/layout'
 import ProductList from '@/components/product-list'
-import {ProductListProvider} from '@/context/product-list-context'
+import {getProducts} from '@/context/product-list-context'
 import Head from 'next/head'
 import Script from 'next/script'
 import Image from 'next/image'
-const ShopHome = () => {
+const ShopHome = (products) => {
 
   return (<>
       <Head>
@@ -18,14 +18,19 @@ const ShopHome = () => {
           <h1 className={'pageTitle'}>All Products</h1>
           <a href="#" className="snipcart-checkout block py-10 px-5 md:px-10"><Image alt={"cart"} width={25} height={25} src={"/img/shop/cart.png"} /></a>
         </div>
-        <ProductListProvider>
-          <ProductList limit={10} />
-        </ProductListProvider>
+        <ProductList limit={10} products={products}/>
         <Script src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></Script>
         <div hidden id="snipcart" data-api-key={`${process.env.NEXT_PUBLIC_SC_KEY}`}></div>
       </Layout>
   </>
   )
+}
+
+export async function getStaticProps() {
+  const products = getProducts()
+  return {
+    props: {products}
+  }
 }
 
 export default ShopHome

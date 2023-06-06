@@ -2,15 +2,15 @@ import {useContext, useEffect, useMemo, useState} from 'react'
 import {ProductListContext} from '@/context/product-list-context'
 import Image from 'next/image'
 
-const ProductList = ({limit = 10, displayLoadMore = false, category = null}) => {
-  const {products} = useContext(ProductListContext)
+const ProductList = ({limit = 10, displayLoadMore = false, category = null, products}) => {
+  // const {products} = useContext(ProductListContext)
   const [showMore, setShowMore] = useState(displayLoadMore)
   const [index, setIndex] = useState(limit)
   const [list, setList] = useState([])
 
   // cache the sortList between re-renders
-  const categoryList = useMemo(() => sortByCategory(products, category), [products, category])
-  // // rerender the page each time categoryList, setList, or index changes
+  const categoryList = useMemo(() => sortByCategory(products.products, category), [products, category])
+  // rerender the page each time categoryList, setList, or index changes
   useEffect(() => {
     setList(categoryList?.slice(0, index))
   }, [setList, categoryList, index])
