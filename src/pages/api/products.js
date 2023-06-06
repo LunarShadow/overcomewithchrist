@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
-import {getProducts} from '../../context/product-list-context'
+import {getProducts} from '@/context/product-list-context'
 
 export default function handler(req, res) {
   let snipCartObject

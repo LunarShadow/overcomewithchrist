@@ -1,6 +1,5 @@
 [build]
   command = "next build"
-  edge_functions = "/src/pages/api"
   publish = ".next"
 [build.processing]
   skip_processing = false
