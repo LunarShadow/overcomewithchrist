@@ -1,6 +1,6 @@
 import Layout from '@/components/layout'
 
-export default function PrivacyPolicy ({ details, content}){
+export default function ShopPolicy ({ details, content}){
   return (
     <>
       <Layout pageTitle={details.title}>
@@ -12,7 +12,7 @@ export default function PrivacyPolicy ({ details, content}){
 }
 
 export async function getStaticProps() {
-  const content = await import(`../content/pages/privacy-policy.md`)
+  const content = await import(`../content/pages/shop-policy.md`)
 
   return {
     props: {
