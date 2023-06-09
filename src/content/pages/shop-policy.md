@@ -6,17 +6,17 @@ title: Shop Policy
 
 ***Shipping Time***
 
-We make every effort to fulfill orders as quickly as possible but please allow up to 10 business days for your order to be processed.  
+We make every effort to fulfill orders as quickly as possible but please allow up to 10 business days for your order to be processed.
 
 Successfully placed orders will receive an email confirmation with the order details. If you do not receive an email, please check your spam or junk folders. 
 
 We will not be able to make changes to your order after it has shipped.
 
-Please review and ensure that you have entered the correct address. We are not responsible for non-delivery due to errors in the address that you provide. 
+Please review and ensure that you have entered the correct address. We are not responsible for non-delivery due to errors in the address that you provide.
 
 ***Return/Exchange Policy***
 
-At this time, we are not accepting returns or exchanges. Once shipped, all sales are considered final. If you have concerns about your order please <a href="mailto:contact@overcomewithchrist.com" >contact us</a>.
+At this time, we are not accepting returns or exchanges. Once shipped, all sales are considered final. If you have concerns about your order please <a href="mailto:contact@overcomewithchrist.com" >contact us</a>.
 
 ***Cancellations/Changes***
 
@@ -28,9 +28,9 @@ If you're unsure whether your order went through, please <a href="mailto:contact
 
 ***Incorrect Shipping Information***
 
-We kindly ask that you double-check and ensure that you provide the correct shipping information at checkout. Overcome with Christ cannot be held responsible for any incorrect delivery or non-delivery of packages due to incorrect shipping information provided by the customer. If a package is returned to us due to a non-deliverable shipping address entered by the customer, you will be responsible for additional shipping costs to reship the package. We cannot issue refunds or send free replacements for packages that were delivered to the "wrong" location due to incorrect shipping information provided by the customer. Please place a new order if you still wish to receive the package with the correct shipping information.
+We kindly ask that you double-check and ensure that you provide the correct shipping information at checkout. Overcome with Christ cannot be held responsible for any incorrect delivery or non-delivery of packages due to incorrect shipping information provided by the customer. If a package is returned to us due to a non-deliverable shipping address entered by the customer, you will be responsible for additional shipping costs to reship the package. We cannot issue refunds or send free replacements for packages that were delivered to the "wrong" location due to incorrect shipping information provided by the customer. Please place a new order if you still wish to receive the package with the correct shipping information.
 
-<b>Please double-check your shipping information before placing your order</b> to ensure timely and accurate delivery. If you need to update your shipping information after placing your order, please <a href="mailto:overcomewithchrist.com">contact us</a> as soon as possible so that we can make the necessary changes before the package is shipped.
+<b>Please double-check your shipping information before placing your order</b> to ensure timely and accurate delivery. If you need to update your shipping information after placing your order, please <a href="mailto:overcomewithchrist.com">contact us</a> as soon as possible so that we can make the necessary changes before the package is shipped.
 
 ***Delayed/Lost Orders***
 
@@ -44,4 +44,4 @@ We strive to keep all of our items in stock, however, sometimes products may bec
 
 Overcome with Christ reserves the right to make changes to the shop policy at any time without prior notice. It is the customer's responsibility to review the policy periodically for any updates or changes.
 
-**Feel free to <a href="mailto:contact@overcomewithchrist.com">contact us</a> with any questions or concerns about your order. We are always happy to assist.**
+**Feel free to <a href="mailto:contact@overcomewithchrist.com">contact us</a> with any questions or concerns about your order. We are always happy to assist.**
