@@ -1,72 +1,47 @@
 ---
 layout: page
-title: Privacy Policy
+title: Shop Policy
 ---
-<h3> Who we are</h3>
+***<span style="text-align: center">Currently we are only shipping in the United States</a>***
 
-We are <a href="https://overcomewithchrist.com">Overcome with Christ</a>.
+***Shipping Time***
 
-<h3> What personal data we collect and why we collect it</h3>
+We make every effort to fulfill orders as quickly as possible but please allow up to 10 business days for your order to be processed.  
 
-<h5> Media </h5>
+Successfully placed orders will receive an email confirmation with the order details. If you do not receive an email, please check your spam or junk folders. 
 
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+We will not be able to make changes to your order after it has shipped.
 
-<h5> Contact forms</h5>
+Please review and ensure that you have entered the correct address. We are not responsible for non-delivery due to errors in the address that you provide. 
 
-<h5> Embedded content from other websites</h5>
+***Return/Exchange Policy***
 
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+At this time, we are not accepting returns or exchanges. Once shipped, all sales are considered final. If you have concerns about your order please <a href="mailto:contact@overcomewithchrist.com" >contact us</a>.
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+***Cancellations/Changes***
 
-<h5> Analytics</h5>
+We understand that mistakes can happen, so if you need to make any changes to your order, please let us know within 30 minutes of placing it. After this time, changes may not be guaranteed. If your package has not yet been shipped, we'll do our best to accommodate your request. However, once your package is marked as shipped, we're unable to cancel or refund your order.
 
-<h3> Who we share your data with</h3>
+***Payment Issues***
 
-We share information with third parties who help us provide our orders and store services to you such as Stripe.
+If you're unsure whether your order went through, please <a href="mailto:contact@overcomewithchrist.com">contact us</a> with your full name and email address, and we'll be happy to double-check it for you.
 
-<h3> How long we retain your data</h3>
+***Incorrect Shipping Information***
 
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
-If you buy a product, your name and email are retrained until you unsubscribe from the mailing list. 
-For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+We kindly ask that you double-check and ensure that you provide the correct shipping information at checkout. Overcome with Christ cannot be held responsible for any incorrect delivery or non-delivery of packages due to incorrect shipping information provided by the customer. If a package is returned to us due to a non-deliverable shipping address entered by the customer, you will be responsible for additional shipping costs to reship the package. We cannot issue refunds or send free replacements for packages that were delivered to the "wrong" location due to incorrect shipping information provided by the customer. Please place a new order if you still wish to receive the package with the correct shipping information.
 
-<h3> What rights you have over your data</h3>
+<b>Please double-check your shipping information before placing your order</b> to ensure timely and accurate delivery. If you need to update your shipping information after placing your order, please <a href="mailto:overcomewithchrist.com">contact us</a> as soon as possible so that we can make the necessary changes before the package is shipped.
 
-If you have an account or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+***Delayed/Lost Orders***
 
-<h3> Where we send your data</h3>
+If your order is marked as "delivered" but you haven't received it, please check your mailbox and ask your neighbors to see if they have received it by mistake. In some cases, packages may be delivered to the wrong address or show up 1-2 days after the estimated delivery date. Please note that Overcome with Christ is not responsible for any lost or stolen packages. However, we will do our best to provide you with any information you need to help with your claim.
 
-Visitor comments may be checked through an automated spam detection service.
+***Product Availability***
 
-<h3> Your contact information</h3>
+We strive to keep all of our items in stock, however, sometimes products may become unavailable due to unforeseen circumstances. In the event that an item becomes unavailable after you place your order, we reserve the right to cancel the order and issue a refund. We apologize for any inconvenience this may cause.
 
-When contacting us, only your email and information that you provide is used to respond to your message.
-Other information provided when ordering is used to fulfill your order and may be sent to a third-party fulfillment company.
+***Changes to Policy***
 
-<h3> Store</h3>
+Overcome with Christ reserves the right to make changes to the shop policy at any time without prior notice. It is the customer's responsibility to review the policy periodically for any updates or changes.
 
-We collect information about you during the checkout process on our store.
-
-While you visit our site, we’ll track:
-
-* Products you’ve viewed: we’ll use this to, for example, show you products you’ve recently viewed
-* Location, IP address, and browser type: we’ll use this for purposes like estimating taxes and shipping
-* Shipping address: we’ll ask you to enter this so we can, for instance, estimate shipping before you place an order, and send you the order!
-
-We’ll also use cookies to keep track of cart contents while you’re browsing our site.
-
-When you purchase from us, we’ll ask you to provide information including your name, billing address, shipping address, email address, phone number, credit card/payment details, and optional account information like username and password. We’ll use this information for purposes, such as, to:
-
-* Send you information about your account and order
-* Respond to your requests, including refunds and complaints
-* Process payments and prevent fraud
-* Set up your account for our store
-* Comply with any legal obligations we have, such as calculating taxes
-* Improve our store offerings
-* Send you marketing messages, if you choose to receive them
-
-We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store order information for 2 years for tax and accounting purposes. This includes your name, email address, and billing and shipping addresses.
-
-We will also store comments or reviews if you choose to leave them.
+**Feel free to <a href="mailto:contact@overcomewithchrist.com">contact us</a> with any questions or concerns about your order. We are always happy to assist.**
