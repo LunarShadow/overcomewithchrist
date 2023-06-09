@@ -21,7 +21,7 @@ export default function Footer(){
       </div>
       <div className={'bg-white text-primary py-5 px-2 text-center'}>
         {new Date().getFullYear()} &copy; <Link href={'/'}>Overcome with Christ </Link> <br />
-        <Link href="/privacy-policy">Privacy</Link> | <Link href="/terms-and-conditions">Terms</Link>
+        <Link href="/shop-policy">Shop Policy</Link>
       </div>
     </>
   )
