@@ -1,4 +1,4 @@
-import {getProducts} from '@/context/product-list-context'
+import {getProducts} from '/src/context/product-list-context'
 
 exports.handler = async function (event, context) {
   // your server-side functionality
