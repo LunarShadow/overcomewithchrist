@@ -19,7 +19,7 @@ const nextConfig = {
     )
     return cfg;
   },
-  output: 'export'
+  // output: 'export'
 }
 module.exports = withSentryConfig(
   nextConfig,
