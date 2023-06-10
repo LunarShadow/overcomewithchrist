@@ -1,6 +1,6 @@
 import Layout from '@/components/layout'
 import ProductList from '@/components/product-list'
-import {getProducts, ProductListProvider} from '@/context/product-list-context'
+import {getProducts} from '@/context/product-list-context'
 import Head from 'next/head'
 import Script from 'next/script'
 import Image from 'next/image'
@@ -20,7 +20,7 @@ const ShopHome = (products) => {
         </div>
         <ProductList limit={10} products={products}/>
         <Script src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></Script>
-        <div hidden id="snipcart" data-api-key={`${process.env.NEXT_PUBLIC_SC_KEY}`}></div>
+        <div hidden id="snipcart" data-config-modal-style="side" data-api-key={`${process.env.NEXT_PUBLIC_SC_KEY}`}></div>
       </Layout>
   </>
   )
