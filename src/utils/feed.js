@@ -66,34 +66,8 @@ export const generateRssFeed = async () => {
       content: post.content
     })
   })
-  const products = getProducts()
-  const snipCartObject = products.map(({details}) => {
-    let sizes = ''
-    details.variants.map((variant)=>{
-      sizes += `${variant.size} [+${variant.price}]| `
-    })
-    sizes = sizes.substring(0, sizes.length - 2)
-    return {
-      id: details.pid,
-      price: details.price,
-      url: 'https://overcomewithchrist.com/shop/',
-      image: details.images[0],
-      customFields: [
-        {
-          name: 'sizes',
-          options: sizes
-        },
-        {
-          name: 'color',
-          options: details.color
-        }
-      ]
-    }
-  })
 
-  fs.mkdirSync('./public/shop', {recursive: true})
   fs.mkdirSync('./public/rss', {recursive: true})
-  fs.writeFileSync('./public/shop/products.json', JSON.stringify(snipCartObject))
   fs.writeFileSync('./public/rss/feed.xml', feed.rss2())
   fs.writeFileSync('./public/rss/feed.json', feed.json1())
 }
