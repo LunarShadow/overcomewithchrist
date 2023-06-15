@@ -15,7 +15,7 @@ export default function handler(req, res) {
       return {
         id: details.pid,
         price: details.price,
-        url: 'https://overcomewithchrist.com/shop/',
+        url: `${process.env.SITE_URL || ''}/`,
         image: details.images[0],
         customFields: [
           {
