@@ -30,5 +30,6 @@ export default function handler(req, res) {
       }
     })
   }
-  res.set({'content-type': 'application/json'}).status(200).json(snipCartObject)
+  // res.setHeader()
+  res.status(200).send(snipCartObject)
 }

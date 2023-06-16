@@ -18,6 +18,13 @@ const nextConfig = {
       }
     )
     return cfg;
+  },
+  async headers() {
+    return [{
+      source: '/api/products', headers: [{
+        key: 'Content-Type', value: 'application/json',
+      }],
+    }]
   }
 }
 module.exports = withSentryConfig(
