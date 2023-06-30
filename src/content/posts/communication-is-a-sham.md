@@ -7,8 +7,8 @@ summary: Though one can communicate, it doesn’t mean they are understood.
 date: June 30, 2023
 author: Cyntia Seumo
 ---
-<blockquote>Therefore speak I to them in parables, because seeing, they see not, and hearing, they hear not, neither do they understand.\
-<cite>Matthew 13:13</cite>\
+<blockquote>Therefore speak I to them in parables, because seeing, they see not, and hearing, they hear not, neither do they understand.
+<cite>Matthew 13:13</cite>
 </blockquote>
 
 Communication is defined by Oxford as: the activity or process of expressing ideas and feelings or of giving people information. There are multiple forms of communication, speech, writing, videos, etc. The problem is that, though one can communicate, it doesn’t mean they are understood.
