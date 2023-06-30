@@ -1,17 +1,9 @@
 [build]
-  command = "npm run build && npm run export"
-  publish = "out"
-[build.processing]
-  skip_processing = false
-[build.processing.css]
-  bundle = true
-  minify = true
-[build.processing.js]
-  bundle = true
-  minify = true
+  command = "npm run build"
+  publish = ".next"
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
 [context.production.environment]
-  NODE_ENV = "production"
-  NEXT_SERVERLESS = "true"
   [[redirects]]
     from = "https://shop.overcomewithchrist.com"
     to = "https://overcomewithchrist.com/shop"

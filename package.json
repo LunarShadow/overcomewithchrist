@@ -6,12 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next export",
     "lint": "next lint"
   },
   "dependencies": {
     "@mailchimp/mailchimp_marketing": "^3.0.80",
-    "@next/font": "13.1.6",
+    "@netlify/plugin-nextjs": "^4.37.4",
     "@sentry/nextjs": "^7.38.0",
     "@tailwindcss/forms": "^0.5.3",
     "autoprefixer": "^10.4.13",
@@ -19,10 +18,10 @@
     "eslint-config-next": "13.1.6",
     "feed": "^4.2.2",
     "frontmatter-markdown-loader": "^3.7.0",
-    "next": "13.1.6",
+    "next": "^13.4.4",
     "postcss": "^8.4.21",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-hook-form": "^7.43.2",
     "tailwindcss": "^3.2.7"
   }

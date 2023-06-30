@@ -15,7 +15,7 @@ export default function handler(req, res) {
       return {
         id: details.pid,
         price: details.price,
-        url: 'https://overcomewithchrist.com/shop/',
+        url: `${process.env.SITE_URL || ''}/`,
         image: details.images[0],
         customFields: [
           {
@@ -30,5 +30,6 @@ export default function handler(req, res) {
       }
     })
   }
-  res.status(200).json(snipCartObject)
+  // res.setHeader()
+  res.status(200).send(snipCartObject)
 }
