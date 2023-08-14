@@ -3,13 +3,11 @@ layout: post
 title: Life-Long Battle
 category: Testimony
 featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/life-long-battle.png
+videoLink: https://www.youtube.com/embed/lkFmEcpKgcs
 summary: Recently I experienced a pain episode that really shook me. So, as part of my recovery, I decided to share my battle and testimony.
 date: April 26, 2022
 author: Cyntia Seumo
 ---
-
-<iframe class="w-10/12 aspect-video mx-auto" src="https://www.youtube.com/embed/lkFmEcpKgcs" allow="encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <p>Hi, my name is Cyntia and I was born with Sickle Cell Disease. Sickle Cell is when your blood doesn't get enough oxygen so it's not always round. Because of this, it can get stuck which can cause immense pain.</p>
 
 <p>For me, a pain crisis It's not just about the physical pain, but the mental, emotional and spiritual battles involved. Some episodes are more painful than others and the recovery time depends on the level of pain.</p>
