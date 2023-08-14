@@ -8,15 +8,25 @@ const Post = ({content, attributes}) => {
 
   const authorName = 'Cyntia Seumo'
   return (<Layout pageTitle={attributes?.title}>
+    {!attributes.videoLink &&
       <div className={'relative w-full h-72 md:h-80 -z-10'}>
-        <Image src={attributes?.featuredImage} alt={attributes?.title} fill />
+         <Image src={attributes?.featuredImage} alt={attributes?.title} fill />
       </div>
+    }
+    {attributes.videoLink &&
+      <div className={'h-12'}></div>
+    }
       <div className={'p-3 -mt-7 md:-mt-10 rounded-3xl bg-pastelOrange '}>
         <p className={'font-light text-base text-neutral-600 pl-1'}>{attributes?.category}</p>
         <h2 className={'font-light'}>{attributes?.title}</h2>
         <div>
           <p className={'font-light text-base text-neutral-600'}>{attributes?.author || authorName} | {attributes?.date}</p>
         </div>
+        { attributes.videoLink &&
+          <div>
+            <iframe className="w-10/12 aspect-video mx-auto" src={attributes.videoLink} allow="encrypted-media; picture-in-picture; web-share" allowFullScreen></iframe>
+          </div>
+        }
         <div className={'my-5'} dangerouslySetInnerHTML={{__html: content}}  />
       </div>
       <h3>More Posts</h3>

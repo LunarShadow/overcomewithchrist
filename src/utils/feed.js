@@ -1,6 +1,5 @@
 import {Feed} from 'feed'
 import fs from 'fs'
-import {getProducts} from '@/context/product-list-context'
 
 const getBlogPostdata = async () => {
   return await (async (context) => {

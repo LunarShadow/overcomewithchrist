@@ -3,14 +3,13 @@ layout: post
 title: Lessons Learned In My 20s
 category: Testimony
 featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1685671919/blog/10.png
+videoLink: https://www.youtube.com/embed/x85P-a8KZzI
 summary: My Birthday just passed, and since I'm almost 30, I decided to do a
   little reflecting. Here are 10 things I learned in my almost 30 years of
   living.
 date: March 14, 2023
 author: Cyntia Seumo
 ---
-<iframe class="w-10/12 aspect-video mx-auto" src="https://www.youtube.com/embed/x85P-a8KZzI" allow="encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
-
 Some of the things I might say here may sound extreme, but I’m okay with that. In this lukewarm world, people who know what they want always seem extreme.
 Today I am going to discuss 10 things I learned in my almost 3 decades of being alive. My birthday just passed and I’m only a couple of years from being 30, So I decided not was a good time to impart some wisdom to y’all and also reflect on some lessons learned, most of them the hard way.
 Jumping right into it:

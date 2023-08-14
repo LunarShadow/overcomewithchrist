@@ -1,10 +1,5 @@
 import Layout from '@/components/layout'
-import ProductList from '@/components/product-list'
-import {getProducts} from '@/context/product-list-context'
-import Head from 'next/head'
-import Script from 'next/script'
-import Image from 'next/image'
-const ShopHome = (products) => {
+const ShopHome = () => {
   return (<>
       <Layout pageTitle={'Shop'}>
         <div className={'h-96 flex content-center items-center px-4'}>
