@@ -3,7 +3,7 @@ layout: post
 title: "Am I required to dream: a spoken word."
 category: Creative
 featuredImage: https://res.cloudinary.com/dn7ubiddg/image/upload/v1692058165/blog/IMG_1722.jpg
-videoLink: " https://youtu.be/1GnhCzsitXk"
+videoLink: https://www.youtube.com/embed/1GnhCzsitXk
 summary: Enjoy this spoken word I wrote and let me know your thoughts!
 date: August 14, 2023
 author: Cyntia Seumo
