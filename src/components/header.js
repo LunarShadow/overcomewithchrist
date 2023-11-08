@@ -7,7 +7,7 @@ export default function Header() {
   const menuItems = [{
     name: 'Home', url: '/'
   }, {
-    name: 'Shop', url: '/shop'
+    name: 'Shop', url: 'https://shop.overcomewithchrist.com'
   }, {
     name: 'All Posts', url: '/posts'
   }, {
